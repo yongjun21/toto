@@ -1,6 +1,7 @@
 const fs = require('fs')
 
 const data = require('../data/scrapped.json')
+const hongbao = require('../data/hongbao.json')
 
 const patterns = [
   /Group (1|2) winning tickets sold at:/,
@@ -9,6 +10,7 @@ const patterns = [
 ]
 
 data.forEach(draw => {
+  if (hongbao.includes(draw.drawNo)) draw.isHongbao = true
   const winningShares = {}
   const winningOutlets = {}
   draw.winningShares.forEach(row => {

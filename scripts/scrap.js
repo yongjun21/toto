@@ -4,6 +4,12 @@ const fs = require('fs')
 
 const {promiseMap} = require('./helpers')
 
+const scrapped = require('../data/scrapped.json')
+const ordered = []
+scrapped.forEach(draw => {
+  ordered[draw.drawNo] = draw
+})
+
 const cipher = [
   ['w', 'x', 'y', 'z'],
   ['MD', 'MT', 'Mj', 'Mz', 'ND', 'NT', 'Nj', 'Nz', 'OD', 'OT'],
@@ -11,7 +17,7 @@ const cipher = [
   ['w', 'x', 'y', 'z', '0', '1', '2', '3', '4', '5']
 ]
 
-scrapRange(2000, 3450)
+scrapRange(1282, 3450)
 
 function scrapRange (from, to) {
   const draws = []
@@ -26,6 +32,7 @@ function scrapRange (from, to) {
 }
 
 function scrap (drawNo) {
+  if (ordered[drawNo]) return ordered[drawNo]
   const url = 'http://www.singaporepools.com.sg/en/product/sr/Pages/toto_results.aspx'
   const query = {sppl: 'RHJhd051bWJlcj0' + encode(drawNo)}
   return fetch(url, {query})
