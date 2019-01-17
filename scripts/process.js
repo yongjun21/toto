@@ -72,11 +72,32 @@ ordered.forEach((draw, i) => {
 data.shift()
 
 data.forEach(draw => {
+  draw.totalAllocated = 0
   Object.keys(draw.winningShares).forEach(group => {
     const winningShares = draw.winningShares[group]
     const totalAmount = (winningShares.numberOfShares || 1) * winningShares.shareAmount
     winningShares.allocated = totalAmount - (winningShares.snowballed || 0) - (winningShares.cascaded || 0)
+    draw.totalAllocated += winningShares.allocated
   })
+  if (draw.drawNo < 1335) return
+  let prizePool = draw.winningShares['Group 2'].allocated +
+                  draw.winningShares['Group 3'].allocated +
+                  draw.winningShares['Group 4'].allocated
+  if (draw.drawNo < 2995) {
+    if (draw.isHongbao) {
+      draw.prizePool = Math.round(prizePool / 0.39)
+    } else {
+      prizePool += draw.winningShares['Group 1'].allocated
+      draw.prizePool = Math.round(prizePool / 0.7)
+    }
+  } else {
+    if (draw.isHongbao) {
+      draw.prizePool = Math.round(prizePool / 0.165)
+    } else {
+      prizePool += draw.winningShares['Group 1'].allocated
+      draw.prizePool = Math.round(prizePool / 0.545)
+    }
+  }
 })
 
 fs.writeFileSync('data/processed.json', JSON.stringify(data, null, 2))
