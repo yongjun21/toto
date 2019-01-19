@@ -14,6 +14,7 @@
   "license": "MIT",
   "homepage": "https://bitbucket.org/st-graphics/toto#readme",
   "dependencies": {
+    "@st-graphics/backend": "^0.1.30",
     "cheerio": "^1.0.0-rc.2",
     "got": "^9.5.1"
   }
