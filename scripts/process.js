@@ -12,7 +12,7 @@ const patterns = [
 data.forEach(draw => {
   if (hongbao.includes(draw.drawNo)) draw.isHongbao = true
   const winningShares = {}
-  const winningOutlets = {}
+  const winningOutlets = []
   draw.winningShares.forEach(row => {
     winningShares[row.prizeGroup] = {
       shareAmount: row.shareAmount,
@@ -24,7 +24,20 @@ data.forEach(draw => {
     match = row.title.match(patterns[0])
     if (match) {
       const group = 'Group ' + match[1]
-      winningOutlets[group] = row.outlets
+      row.outlets.forEach(outlet => {
+        const match = outlet.match(/\( (.+) \)$/)
+        if (match) {
+          const ticket = match[1]
+          outlet = outlet.slice(0, match.index).trim()
+          winningOutlets.push({group, outlet, ticket})
+        } else if (outlet.startsWith('iTOTO - System 12')) {
+          const ticket = 'iTOTO - System 12'
+          outlet = null
+          winningOutlets.push({group, outlet, ticket})
+        } else {
+          console.log(outlet)
+        }
+      })
       return
     }
     match = row.title.match(patterns[1])
