@@ -1,4 +1,6 @@
 const fs = require('fs')
+const _getISOWeek = require('date-fns/get_iso_week')
+const _setISODay = require('date-fns/set_iso_day')
 
 const data = require('../data/scrapped.json')
 const hongbao = require('../data/hongbao.json')
@@ -10,6 +12,9 @@ const patterns = [
 ]
 
 data.forEach(draw => {
+  const drawDate = new Date(draw.drawDate)
+  draw.dayOfWeek = drawDate.getDay() || 7
+  draw.week = _setISODay(drawDate, 4).getFullYear() + 'W' + _getISOWeek(drawDate).toString().padStart(2, '0')
   if (hongbao.includes(draw.drawNo)) draw.isHongbao = true
   const winningShares = {}
   const winningOutlets = []
