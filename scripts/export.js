@@ -29,7 +29,6 @@ const draws = data.map(draw => {
     draw.week,
     draw.dayOfWeek,
     draw.isHongbao ? 1 : 0,
-    draw.isCascade ? 1 : 0,
     draw.winningNumbers[0],
     draw.winningNumbers[1],
     draw.winningNumbers[2],
@@ -38,15 +37,18 @@ const draws = data.map(draw => {
     draw.winningNumbers[5],
     draw.additionalNumber,
     draw.totalAllocated,
-    draw.prizePool
+    draw.prizePool,
+    draw.winningShares['Group 1'].snowballed || 0,
+    draw.winningShares['Group 2'].snowballed || 0,
+    draw.consecutive
   ]
 })
 
 draws.unshift([
-  'draw_no', 'draw_date', 'week', 'day_of_week',
-  'is_hong_bao', 'is_cascade',
+  'draw_no', 'draw_date', 'week', 'day_of_week', 'is_hong_bao',
   'win_1', 'win_2', 'win_3', 'win_4', 'win_5', 'win_6', 'additional',
-  'total_allocated', 'prize_pool'
+  'total_allocated', 'prize_pool',
+  'snowballed_1', 'snowballed_2', 'consecutive'
 ])
 
 fs.writeFileSync('data/processed/draws.csv', Papa.unparse(draws))
@@ -55,7 +57,7 @@ fs.writeFileSync('data/processed/outlets.csv', Papa.unparse(outlets))
 
 googleapis.sheets.spreadsheets.values.upload({
   spreadsheetId: '19mEjQL-oHPpdruFbMYGRt685aiA9oZGWRZIyiu0vm7k',
-  range: 'Draws!A1:O',
+  range: 'Draws!A1:Q',
   resource: {values: draws},
   valueInputOption: 'USER_ENTERED'
 }).then(res => console.log(res.data)).catch(console.error)

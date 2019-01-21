@@ -30,11 +30,14 @@ data.forEach(draw => {
     if (match) {
       const group = 'Group ' + match[1]
       row.outlets.forEach(outlet => {
-        const match = outlet.match(/\( (.+) \)$/)
+        const match = outlet.match(/\( (\d+) (.+) \)$/)
         if (match) {
-          const ticket = match[1]
+          const times = +match[1]
+          const ticket = match[2]
           outlet = outlet.slice(0, match.index).trim()
-          winningOutlets.push({group, outlet, ticket})
+          for (let n = 0; n < times; n++) {
+            winningOutlets.push({group, outlet, ticket})
+          }
         } else if (outlet.startsWith('iTOTO - System 12')) {
           const ticket = 'iTOTO - System 12'
           outlet = null
@@ -90,6 +93,8 @@ ordered.forEach((draw, i) => {
 data.shift()
 
 data.forEach(draw => {
+  draw.consecutive = getConsecutive(draw.drawNo)
+  delete draw.isCascade
   draw.totalAllocated = 0
   Object.keys(draw.winningShares).forEach(group => {
     const winningShares = draw.winningShares[group]
@@ -131,4 +136,13 @@ function correct2586 (draw) {
     shareAmount: Math.round(average / 13 * 31),
     numberOfShares: 0
   }
+}
+
+function getConsecutive (drawNo) {
+  let consecutive = 0
+  for (let n = drawNo; n > drawNo - 3; n--) {
+    if (ordered[n] && ordered[n].winningShares['Group 1'].snowballed) consecutive++
+    else break
+  }
+  return consecutive
 }
