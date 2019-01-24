@@ -1,3 +1,4 @@
+const {getOdds} = require('./chance')
 const data = require('../data/processed.json')
 
 // const odds = getOdds(49, 6)
@@ -35,29 +36,3 @@ Object.keys(total.wins).forEach(group => {
 total.spent *= 0.5
 
 console.log(total)
-
-function getOdds (numbers, pick) {
-  const odds = {}
-  const combinations = combi(numbers, pick)
-  odds['Group 1'] = combinations
-  let match = pick
-  let group = 1
-  while (--match > 0) {
-    const unmatch = pick - match
-    odds['Group ' + ++group] = combinations /
-                                 combi(pick, match) /
-                                   combi(numbers - pick - 1, unmatch - 1)
-    odds['Group ' + ++group] = combinations /
-                                 combi(pick, match) /
-                                   combi(numbers - pick - 1, unmatch)
-  }
-  return odds
-}
-
-function combi (n, r) {
-  let combinations = 1
-  for (let k = 0; k < r; k++) {
-    combinations *= (n - k) / (k + 1)
-  }
-  return combinations
-}
