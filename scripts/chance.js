@@ -39,8 +39,9 @@ function combi (n, r) {
   for (let k = 0; k < r; k++) {
     combinations *= (n - k) / (k + 1)
   }
-  return combinations
+  return Math.round(combinations)
 }
 
 exports.getOdds = getOdds
 exports.getPayouts = getPayouts
+exports.combi = combi

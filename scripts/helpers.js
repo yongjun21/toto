@@ -30,3 +30,11 @@ exports.promiseMap = function (iterable, mapper, options) {
     }
   }
 }
+
+exports._pick = function (obj, keys) {
+  const picked = {}
+  keys.forEach(key => {
+    picked[key] = obj[key]
+  })
+  return picked
+}

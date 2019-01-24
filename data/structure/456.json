@@ -1,0 +1,460 @@
+{
+  "Ordinary": {
+    "cost": 1,
+    "winning_odds": 321,
+    "win_something": 0.003119682359614294,
+    "win_nothing": 0.9968803176403858,
+    "Group 0": {
+      "probability": 0,
+      "odds": null,
+      "payouts": {}
+    },
+    "Group 1": {
+      "probability": 1.2277380399898834e-7,
+      "odds": 8145060,
+      "payouts": {
+        "Group 1": 1
+      }
+    },
+    "Group 2": {
+      "probability": 7.3664282399393e-7,
+      "odds": 1357510,
+      "payouts": {
+        "Group 2": 1
+      }
+    },
+    "Group 3": {
+      "probability": 0.000027992427311769342,
+      "odds": 35724,
+      "payouts": {
+        "Group 3": 1
+      }
+    },
+    "Group 4": {
+      "probability": 0.00006998106827942335,
+      "odds": 14290,
+      "payouts": {
+        "Group 4": 1
+      }
+    },
+    "Group 5": {
+      "probability": 0.0012946497631693321,
+      "odds": 772,
+      "payouts": {
+        "Group 5": 1
+      }
+    },
+    "Group 6": {
+      "probability": 0.0017261996842257762,
+      "odds": 579,
+      "payouts": {
+        "Group 6": 1
+      }
+    }
+  },
+  "System 7": {
+    "cost": 7,
+    "winning_odds": 146,
+    "win_something": 0.006837650910254427,
+    "win_nothing": 0.9931623490897457,
+    "Group 0": {
+      "probability": 2.2036323794690215e-8,
+      "odds": 45379620,
+      "payouts": {
+        "Group 1": 1,
+        "Group 2": 6
+      }
+    },
+    "Group 1": {
+      "probability": 8.373803041982282e-7,
+      "odds": 1194201,
+      "payouts": {
+        "Group 1": 1,
+        "Group 3": 6
+      }
+    },
+    "Group 2": {
+      "probability": 0.000005024281825189369,
+      "odds": 199033,
+      "payouts": {
+        "Group 2": 1,
+        "Group 3": 1,
+        "Group 4": 5
+      }
+    },
+    "Group 3": {
+      "probability": 0.00009294921376600332,
+      "odds": 10759,
+      "payouts": {
+        "Group 3": 2,
+        "Group 5": 5
+      }
+    },
+    "Group 4": {
+      "probability": 0.00023237303441500832,
+      "odds": 4303,
+      "payouts": {
+        "Group 4": 2,
+        "Group 5": 1,
+        "Group 6": 4
+      }
+    },
+    "Group 5": {
+      "probability": 0.0027884764129801,
+      "odds": 359,
+      "payouts": {
+        "Group 5": 3
+      }
+    },
+    "Group 6": {
+      "probability": 0.003717968550640133,
+      "odds": 269,
+      "payouts": {
+        "Group 6": 3
+      }
+    }
+  },
+  "System 8": {
+    "cost": 28,
+    "winning_odds": 78,
+    "win_something": 0.01283042916622043,
+    "win_nothing": 0.9871695708337794,
+    "Group 0": {
+      "probability": 1.7629059035752172e-7,
+      "odds": 5672453,
+      "payouts": {
+        "Group 1": 1,
+        "Group 2": 6,
+        "Group 3": 6,
+        "Group 4": 15
+      }
+    },
+    "Group 1": {
+      "probability": 0.0000032613759216141514,
+      "odds": 306619,
+      "payouts": {
+        "Group 1": 1,
+        "Group 3": 12,
+        "Group 5": 15
+      }
+    },
+    "Group 2": {
+      "probability": 0.000019568255529684912,
+      "odds": 51103,
+      "payouts": {
+        "Group 2": 1,
+        "Group 3": 2,
+        "Group 4": 10,
+        "Group 5": 5,
+        "Group 6": 10
+      }
+    },
+    "Group 3": {
+      "probability": 0.0002348190663562189,
+      "odds": 4259,
+      "payouts": {
+        "Group 3": 3,
+        "Group 5": 15
+      }
+    },
+    "Group 4": {
+      "probability": 0.0005870476658905474,
+      "odds": 1703,
+      "payouts": {
+        "Group 4": 3,
+        "Group 5": 3,
+        "Group 6": 12
+      }
+    },
+    "Group 5": {
+      "probability": 0.005136667076542289,
+      "odds": 195,
+      "payouts": {
+        "Group 5": 6
+      }
+    },
+    "Group 6": {
+      "probability": 0.006848889435389719,
+      "odds": 146,
+      "payouts": {
+        "Group 6": 6
+      }
+    }
+  },
+  "System 9": {
+    "cost": 84,
+    "winning_odds": 46,
+    "win_something": 0.021641432872289368,
+    "win_nothing": 0.9783585671277106,
+    "Group 0": {
+      "probability": 7.933076566088477e-7,
+      "odds": 1260545,
+      "payouts": {
+        "Group 1": 1,
+        "Group 2": 6,
+        "Group 3": 12,
+        "Group 4": 30,
+        "Group 5": 15,
+        "Group 6": 20
+      }
+    },
+    "Group 1": {
+      "probability": 0.000009519691879306173,
+      "odds": 105045,
+      "payouts": {
+        "Group 1": 1,
+        "Group 3": 18,
+        "Group 5": 45
+      }
+    },
+    "Group 2": {
+      "probability": 0.000057118151275837036,
+      "odds": 17508,
+      "payouts": {
+        "Group 2": 1,
+        "Group 3": 3,
+        "Group 4": 15,
+        "Group 5": 15,
+        "Group 6": 30
+      }
+    },
+    "Group 3": {
+      "probability": 0.000499783823663574,
+      "odds": 2001,
+      "payouts": {
+        "Group 3": 4,
+        "Group 5": 30
+      }
+    },
+    "Group 4": {
+      "probability": 0.0012494595591589352,
+      "odds": 800,
+      "payouts": {
+        "Group 4": 4,
+        "Group 5": 6,
+        "Group 6": 24
+      }
+    },
+    "Group 5": {
+      "probability": 0.00849632500228076,
+      "odds": 118,
+      "payouts": {
+        "Group 5": 10
+      }
+    },
+    "Group 6": {
+      "probability": 0.011328433336374346,
+      "odds": 88,
+      "payouts": {
+        "Group 6": 10
+      }
+    }
+  },
+  "System 10": {
+    "cost": 210,
+    "winning_odds": 30,
+    "win_something": 0.03375656296813415,
+    "win_nothing": 0.9662434370318658,
+    "Group 0": {
+      "probability": 0.0000026443588553628257,
+      "odds": 378164,
+      "payouts": {
+        "Group 1": 1,
+        "Group 2": 6,
+        "Group 3": 18,
+        "Group 4": 45,
+        "Group 5": 45,
+        "Group 6": 60
+      }
+    },
+    "Group 1": {
+      "probability": 0.00002313813998442473,
+      "odds": 43219,
+      "payouts": {
+        "Group 1": 1,
+        "Group 3": 24,
+        "Group 5": 90
+      }
+    },
+    "Group 2": {
+      "probability": 0.00013882883990654836,
+      "odds": 7203,
+      "payouts": {
+        "Group 2": 1,
+        "Group 3": 4,
+        "Group 4": 20,
+        "Group 5": 30,
+        "Group 6": 60
+      }
+    },
+    "Group 3": {
+      "probability": 0.0009440361113645288,
+      "odds": 1059,
+      "payouts": {
+        "Group 3": 5,
+        "Group 5": 50
+      }
+    },
+    "Group 4": {
+      "probability": 0.002360090278411322,
+      "odds": 424,
+      "payouts": {
+        "Group 4": 5,
+        "Group 5": 10,
+        "Group 6": 40
+      }
+    },
+    "Group 5": {
+      "probability": 0.012980496531262271,
+      "odds": 77,
+      "payouts": {
+        "Group 5": 15
+      }
+    },
+    "Group 6": {
+      "probability": 0.017307328708349695,
+      "odds": 58,
+      "payouts": {
+        "Group 6": 15
+      }
+    }
+  },
+  "System 11": {
+    "cost": 462,
+    "winning_odds": 20,
+    "win_something": 0.049580406358625304,
+    "win_nothing": 0.9504195936413747,
+    "Group 0": {
+      "probability": 0.000007271986852247771,
+      "odds": 137514,
+      "payouts": {
+        "Group 1": 1,
+        "Group 2": 6,
+        "Group 3": 24,
+        "Group 4": 60,
+        "Group 5": 90,
+        "Group 6": 120
+      }
+    },
+    "Group 1": {
+      "probability": 0.00004944951059528485,
+      "odds": 20223,
+      "payouts": {
+        "Group 1": 1,
+        "Group 3": 30,
+        "Group 5": 150
+      }
+    },
+    "Group 2": {
+      "probability": 0.00029669706357170905,
+      "odds": 3370,
+      "payouts": {
+        "Group 2": 1,
+        "Group 3": 5,
+        "Group 4": 25,
+        "Group 5": 50,
+        "Group 6": 100
+      }
+    },
+    "Group 3": {
+      "probability": 0.0016318338496444,
+      "odds": 613,
+      "payouts": {
+        "Group 3": 6,
+        "Group 5": 75
+      }
+    },
+    "Group 4": {
+      "probability": 0.004079584624111,
+      "odds": 245,
+      "payouts": {
+        "Group 4": 6,
+        "Group 5": 15,
+        "Group 6": 60
+      }
+    },
+    "Group 5": {
+      "probability": 0.018649529710221713,
+      "odds": 54,
+      "payouts": {
+        "Group 5": 21
+      }
+    },
+    "Group 6": {
+      "probability": 0.02486603961362895,
+      "odds": 40,
+      "payouts": {
+        "Group 6": 21
+      }
+    }
+  },
+  "System 12": {
+    "cost": 924,
+    "winning_odds": 14,
+    "win_something": 0.06941838649155722,
+    "win_nothing": 0.9305816135084427,
+    "Group 0": {
+      "probability": 0.00001745276844539465,
+      "odds": 57298,
+      "payouts": {
+        "Group 1": 1,
+        "Group 2": 6,
+        "Group 3": 30,
+        "Group 4": 75,
+        "Group 5": 150,
+        "Group 6": 200
+      }
+    },
+    "Group 1": {
+      "probability": 0.00009599022644967059,
+      "odds": 10418,
+      "payouts": {
+        "Group 1": 1,
+        "Group 3": 36,
+        "Group 5": 225
+      }
+    },
+    "Group 2": {
+      "probability": 0.0005759413586980235,
+      "odds": 1736,
+      "payouts": {
+        "Group 2": 1,
+        "Group 3": 6,
+        "Group 4": 30,
+        "Group 5": 75,
+        "Group 6": 150
+      }
+    },
+    "Group 3": {
+      "probability": 0.002632874782619536,
+      "odds": 380,
+      "payouts": {
+        "Group 3": 7,
+        "Group 5": 105
+      }
+    },
+    "Group 4": {
+      "probability": 0.0065821869565488396,
+      "odds": 152,
+      "payouts": {
+        "Group 4": 7,
+        "Group 5": 21,
+        "Group 6": 84
+      }
+    },
+    "Group 5": {
+      "probability": 0.025505974456626754,
+      "odds": 39,
+      "payouts": {
+        "Group 5": 28
+      }
+    },
+    "Group 6": {
+      "probability": 0.034007965942169004,
+      "odds": 29,
+      "payouts": {
+        "Group 6": 28
+      }
+    }
+  }
+}
