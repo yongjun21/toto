@@ -14,7 +14,7 @@ const outlets = {
   data: []
 }
 
-const draws = data.map(draw => {
+const draws = data.filter(draw => draw.drawNo >= 1335).map(draw => {
   Object.keys(draw.winningShares).forEach(group => {
     const row = Object.assign({draw: draw.drawNo, group}, draw.winningShares[group])
     shares.data.push(row)

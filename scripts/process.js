@@ -31,6 +31,7 @@ data.forEach(draw => {
   draw.winningShares = winningShares
 })
 
+correct1371(ordered[1371])
 correct2586(ordered[2586])
 
 data.forEach(draw => {
@@ -128,6 +129,17 @@ data.forEach(draw => {
 })
 
 fs.writeFileSync('data/processed.json', JSON.stringify(data, null, 2))
+
+function correct1371 (draw) {
+  const winningShares = draw.winningShares
+  const tmp = winningShares['Group 6']
+  winningShares['Group 6'] = winningShares['Group 5']
+  winningShares['Group 5'] = winningShares['Group 4']
+  winningShares['Group 4'] = winningShares['Group 3']
+  winningShares['Group 3'] = winningShares['Group 2']
+  winningShares['Group 2'] = winningShares['Group 1']
+  winningShares['Group 1'] = tmp
+}
 
 function correct2586 (draw) {
   const winningShares = draw.winningShares
