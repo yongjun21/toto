@@ -3,6 +3,7 @@ const Papa = require('papaparse')
 const fs = require('fs')
 
 const data = require('../data/processed.json')
+const structure = require('../data/structure.json')
 
 const shares = {
   fields: ['draw', 'group', 'shareAmount', 'numberOfShares', 'snowballed', 'cascaded', 'allocated'],
@@ -51,9 +52,31 @@ draws.unshift([
   'snowballed_1', 'snowballed_2', 'consecutive'
 ])
 
+const oddsNpayouts = {
+  fields: ['format', 'bet_type', 'match', 'probability', 'odds', 'Group 1', 'Group 2', 'Group 3', 'Group 4', 'Group 5', 'Group 6', 'Group 7'],
+  data: []
+}
+
+Object.keys(structure).forEach(format => {
+  Object.keys(structure[format]).forEach(betType => {
+    const matches = structure[format][betType].match
+    Object.keys(matches).forEach(match => {
+      const row = {
+        format,
+        bet_type: betType,
+        match,
+        probability: matches[match].probability,
+        odds: matches[match].odds
+      }
+      oddsNpayouts.data.push(Object.assign(row, matches[match].payouts))
+    })
+  })
+})
+
 fs.writeFileSync('data/processed/draws.csv', Papa.unparse(draws))
 fs.writeFileSync('data/processed/shares.csv', Papa.unparse(shares))
 fs.writeFileSync('data/processed/outlets.csv', Papa.unparse(outlets))
+fs.writeFileSync('data/processed/structure.csv', Papa.unparse(oddsNpayouts))
 
 googleapis.sheets.spreadsheets.values.upload({
   spreadsheetId: '19mEjQL-oHPpdruFbMYGRt685aiA9oZGWRZIyiu0vm7k',
@@ -73,5 +96,12 @@ googleapis.sheets.spreadsheets.values.upload({
   spreadsheetId: '19mEjQL-oHPpdruFbMYGRt685aiA9oZGWRZIyiu0vm7k',
   range: 'Outlets!A1:D',
   resource: outlets,
+  valueInputOption: 'USER_ENTERED'
+}).then(res => console.log(res.data)).catch(console.error)
+
+googleapis.sheets.spreadsheets.values.upload({
+  spreadsheetId: '19mEjQL-oHPpdruFbMYGRt685aiA9oZGWRZIyiu0vm7k',
+  range: 'Odds & Payouts!A1:L',
+  resource: oddsNpayouts,
   valueInputOption: 'USER_ENTERED'
 }).then(res => console.log(res.data)).catch(console.error)

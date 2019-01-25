@@ -5,6 +5,11 @@ const _setISODay = require('date-fns/set_iso_day')
 const data = require('../data/scrapped.json')
 const hongbao = require('../data/hongbao.json')
 
+const ordered = []
+data.forEach(draw => {
+  ordered[draw.drawNo] = draw
+})
+
 const patterns = [
   /Group (1|2) winning tickets sold at:/,
   /Group (1|2) has no winner, and the prize amount of \$([0-9,]+) will be snowballed to the next draw\./,
@@ -17,13 +22,20 @@ data.forEach(draw => {
   draw.week = _setISODay(drawDate, 4).getFullYear() + 'W' + _getISOWeek(drawDate).toString().padStart(2, '0')
   if (hongbao.includes(draw.drawNo)) draw.isHongbao = true
   const winningShares = {}
-  const winningOutlets = []
   draw.winningShares.forEach(row => {
     winningShares[row.prizeGroup] = {
       shareAmount: row.shareAmount,
       numberOfShares: row.numberOfShares
     }
   })
+  draw.winningShares = winningShares
+})
+
+correct2586(ordered[2586])
+
+data.forEach(draw => {
+  const winningShares = draw.winningShares
+  const winningOutlets = []
   draw.winningOutlets.forEach(row => {
     let match
     match = row.title.match(patterns[0])
@@ -68,16 +80,8 @@ data.forEach(draw => {
       draw.isCascade = true
     }
   })
-  draw.winningShares = winningShares
   draw.winningOutlets = winningOutlets
 })
-
-const ordered = []
-data.forEach(draw => {
-  ordered[draw.drawNo] = draw
-})
-
-correct2586(ordered[2586])
 
 ordered.forEach((draw, i) => {
   if (i === ordered.length - 1) return
@@ -129,12 +133,9 @@ function correct2586 (draw) {
   const winningShares = draw.winningShares
   winningShares['Group 2'] = winningShares['Group 3']
   winningShares['Group 3'] = winningShares['Group 1']
-  const average = (winningShares['Group 2'].shareAmount * winningShares['Group 2'].numberOfShares +
-                   winningShares['Group 3'].shareAmount * winningShares['Group 3'].numberOfShares +
-                   winningShares['Group 4'].shareAmount * winningShares['Group 4'].numberOfShares) / 3
   winningShares['Group 1'] = {
-    shareAmount: Math.round(average / 13 * 31),
-    numberOfShares: 0
+    shareAmount: null,
+    numberOfShares: null
   }
 }
 
