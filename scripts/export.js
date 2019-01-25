@@ -10,7 +10,7 @@ const shares = {
   data: []
 }
 const outlets = {
-  fields: ['draw', 'group', 'outlet', 'ticket'],
+  fields: ['draw', 'group', 'outlet', 'quickpick', 'bet_type'],
   data: []
 }
 
@@ -94,7 +94,7 @@ googleapis.sheets.spreadsheets.values.upload({
 
 googleapis.sheets.spreadsheets.values.upload({
   spreadsheetId: '19mEjQL-oHPpdruFbMYGRt685aiA9oZGWRZIyiu0vm7k',
-  range: 'Outlets!A1:D',
+  range: 'Outlets!A1:E',
   resource: outlets,
   valueInputOption: 'USER_ENTERED'
 }).then(res => console.log(res.data)).catch(console.error)

@@ -43,18 +43,19 @@ data.forEach(draw => {
     if (match) {
       const group = 'Group ' + match[1]
       row.outlets.forEach(outlet => {
-        const match = outlet.match(/\( (\d+) (.+) \)$/)
+        const match = outlet.match(/\( (\d+) (QuickPick )?(.+) \)$/)
         if (match) {
           const times = +match[1]
-          const ticket = match[2]
+          const quickpick = match[3] ? 1 : 0
+          const ticket = match[3] || match[2]
           outlet = outlet.slice(0, match.index).trim()
           for (let n = 0; n < times; n++) {
-            winningOutlets.push({group, outlet, ticket})
+            winningOutlets.push({group, outlet, quickpick, bet_type: ticket})
           }
         } else if (outlet.startsWith('iTOTO - System 12')) {
           const ticket = 'iTOTO - System 12'
           outlet = null
-          winningOutlets.push({group, outlet, ticket})
+          winningOutlets.push({group, outlet, quickpick: true, bet_type: ticket})
         } else {
           console.log(outlet)
         }
