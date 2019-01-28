@@ -31,7 +31,14 @@ data.forEach(draw => {
   draw.winningShares = winningShares
 })
 
-correct1371(ordered[1371])
+correctCommon(ordered[1365])
+correctCommon(ordered[1371])
+correctCommon(ordered[1380])
+correctCommon(ordered[1388])
+correctCommon(ordered[1392])
+correctCommon(ordered[1418])
+correctCommon(ordered[1707])
+correctCommon(ordered[1748])
 correct2586(ordered[2586])
 
 data.forEach(draw => {
@@ -112,15 +119,16 @@ data.forEach(draw => {
   let prizePool = draw.winningShares['Group 2'].allocated +
                   draw.winningShares['Group 3'].allocated +
                   draw.winningShares['Group 4'].allocated
+  const unusual = ![1, 4].includes(draw.dayOfWeek)
   if (draw.drawNo < 2995) {
-    if (draw.isHongbao) {
+    if (draw.isHongbao || unusual || draw.winningShares['Group 1'].allocated === 500000) {
       draw.prizePool = Math.round(prizePool / 0.39)
     } else {
       prizePool += draw.winningShares['Group 1'].allocated
-      draw.prizePool = Math.round(prizePool / 0.7)
+      draw.prizePool = Math.round(prizePool / 0.72)
     }
   } else {
-    if (draw.isHongbao) {
+    if (draw.isHongbao || unusual || draw.winningShares['Group 1'].allocated === 1000000) {
       draw.prizePool = Math.round(prizePool / 0.165)
     } else {
       prizePool += draw.winningShares['Group 1'].allocated
@@ -131,7 +139,7 @@ data.forEach(draw => {
 
 fs.writeFileSync('data/processed.json', JSON.stringify(data, null, 2))
 
-function correct1371 (draw) {
+function correctCommon (draw) {
   const winningShares = draw.winningShares
   const tmp = winningShares['Group 6']
   winningShares['Group 6'] = winningShares['Group 5']
