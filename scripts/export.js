@@ -2,6 +2,8 @@ const googleapis = require('@st-graphics/backend/client/googleapis')
 const Papa = require('papaparse')
 const fs = require('fs')
 
+const {getDiscrepency} = require('./check')
+
 const data = require('../data/processed.json')
 const structure = require('../data/structure.json')
 
@@ -41,7 +43,8 @@ const draws = data.filter(draw => draw.drawNo >= 1335).map(draw => {
     draw.prizePool,
     draw.winningShares['Group 1'].snowballed || 0,
     draw.winningShares['Group 2'].snowballed || 0,
-    draw.consecutive
+    draw.consecutive,
+    getDiscrepency(draw)
   ]
 })
 
@@ -49,7 +52,8 @@ draws.unshift([
   'draw_no', 'draw_date', 'week', 'day_of_week', 'is_hong_bao',
   'win_1', 'win_2', 'win_3', 'win_4', 'win_5', 'win_6', 'additional',
   'total_allocated', 'prize_pool',
-  'snowballed_1', 'snowballed_2', 'consecutive'
+  'snowballed_1', 'snowballed_2', 'consecutive',
+  'discrepency'
 ])
 
 const oddsNpayouts = {
@@ -80,7 +84,7 @@ fs.writeFileSync('data/processed/structure.csv', Papa.unparse(oddsNpayouts))
 
 googleapis.sheets.spreadsheets.values.upload({
   spreadsheetId: '19mEjQL-oHPpdruFbMYGRt685aiA9oZGWRZIyiu0vm7k',
-  range: 'Draws!A1:Q',
+  range: 'Draws!A1:R',
   resource: {values: draws},
   valueInputOption: 'USER_ENTERED'
 }).then(res => console.log(res.data)).catch(console.error)

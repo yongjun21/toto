@@ -1,38 +1,39 @@
-const {getOdds} = require('./chance')
-const data = require('../data/processed.json')
+const structure = require('../data/structure.json')
 
-// const odds = getOdds(49, 6)
-const odds = getOdds(45, 6)
-
-const total = {
-  prizePool: 0,
-  allocated: 0,
-  wins: {
-    'Group 1': 0,
-    'Group 2': 0,
-    'Group 3': 0,
-    'Group 4': 0,
-    'Group 5': 0,
-    'Group 6': 0
-  },
-  spent: 0
+exports.estimatePool = function (draw) {
+  if (draw.drawNo < 1335) return null
+  if (draw.drawNo < 2995) {
+    return Math.round(getTotalWinners(draw) / structure['456']['Ordinary'].win_something * 0.5 * 0.5)
+  } else {
+    return Math.round(getTotalWinners(draw) / structure['496']['Ordinary'].win_something * 0.5)
+  }
 }
-// total.wins['Group 7'] = 0
 
-data.forEach(draw => {
-  // if (draw.drawNo < 2995) return
-  if (draw.drawNo < 1335) return
-  if (draw.drawNo >= 2995) return
-  total.prizePool += draw.prizePool
-  total.allocated += draw.totalAllocated
-  Object.keys(total.wins).forEach(group => {
-    total.wins[group] += draw.winningShares[group].numberOfShares || 0
+exports.getDiscrepency = function (draw) {
+  if (draw.drawNo < 1335) return null
+  const group1 = draw.winningShares['Group 1'].allocated
+  const group234 = draw.winningShares['Group 2'].allocated +
+                   draw.winningShares['Group 3'].allocated +
+                   draw.winningShares['Group 4'].allocated
+  if (draw.drawNo < 2995) {
+    return Math.round(group1 / 0.33 - group234 / 0.39)
+  } else {
+    return Math.round(group1 / 0.38 - group234 / 0.165)
+  }
+}
+
+exports.wrongPrize = function (draw) {
+  if (draw.drawNo < 2995) {
+    if (draw.winningShares['Group 6'].shareAmount !== 20) throw new Error()
+  } else {
+    if (draw.winningShares['Group 7'].shareAmount !== 10) throw new Error()
+  }
+}
+
+function getTotalWinners (draw) {
+  let total = 0
+  Object.keys(draw.winningShares).forEach(group => {
+    total += draw.winningShares[group].numberOfShares
   })
-})
-
-Object.keys(total.wins).forEach(group => {
-  total.spent += total.wins[group] * odds[group] / Object.keys(total.wins).length
-})
-total.spent *= 0.5
-
-console.log(total)
+  return total
+}

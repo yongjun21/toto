@@ -2,6 +2,8 @@ const fs = require('fs')
 const _getISOWeek = require('date-fns/get_iso_week')
 const _setISODay = require('date-fns/set_iso_day')
 
+const {getDiscrepency} = require('./check')
+
 const data = require('../data/scrapped.json')
 const hongbao = require('../data/hongbao.json')
 
@@ -119,16 +121,16 @@ data.forEach(draw => {
   let prizePool = draw.winningShares['Group 2'].allocated +
                   draw.winningShares['Group 3'].allocated +
                   draw.winningShares['Group 4'].allocated
-  const unusual = ![1, 4].includes(draw.dayOfWeek)
+  const hasDiscrepency = Math.abs(getDiscrepency(draw)) > 10000
   if (draw.drawNo < 2995) {
-    if (draw.isHongbao || unusual || draw.winningShares['Group 1'].allocated === 500000) {
+    if (draw.isHongbao || draw.winningShares['Group 1'].allocated === 500000 || hasDiscrepency) {
       draw.prizePool = Math.round(prizePool / 0.39)
     } else {
       prizePool += draw.winningShares['Group 1'].allocated
       draw.prizePool = Math.round(prizePool / 0.72)
     }
   } else {
-    if (draw.isHongbao || unusual || draw.winningShares['Group 1'].allocated === 1000000) {
+    if (draw.isHongbao || draw.winningShares['Group 1'].allocated === 1000000 || hasDiscrepency) {
       draw.prizePool = Math.round(prizePool / 0.165)
     } else {
       prizePool += draw.winningShares['Group 1'].allocated
