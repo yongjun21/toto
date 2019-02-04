@@ -57,7 +57,7 @@ data.forEach(draw => {
           const times = +match[1]
           const quickpick = match[2] ? 1 : 0
           const ticket = match[3]
-          outlet = outlet.slice(0, match.index).trim()
+          outlet = outlet.slice(0, match.index).trim().replace(/\s+/g, ' ')
           for (let n = 0; n < times; n++) {
             winningOutlets.push({group, outlet, quickpick, bet_type: ticket})
           }
@@ -66,7 +66,7 @@ data.forEach(draw => {
           const outlets = outlet.split('\n')
             .map(str => str.trim())
             .filter((str, i) => i > 0 && str.length > 0)
-            .map(str => str.replace(/^\d+\.\s+/, ''))
+            .map(str => str.replace(/^\d+\.\s+/, '').replace(/\s+/g, ' '))
           outlets.forEach(outlet => {
             winningOutlets.push({group, outlet, quickpick: 1, bet_type: ticket})
           })
