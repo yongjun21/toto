@@ -1,5 +1,5 @@
 const fs = require('fs')
-const {combi} = require('./chance')
+const {Expectation, BinomialInverseMoment} = require('./chance')
 
 const STRUCTURE = require('../data/structure.json')
 
@@ -23,21 +23,7 @@ const ALLOCATION = {
   }
 }
 
-class Expectation {
-  add (event, probability, outcome, extra = {}) {
-    const expected = probability * ((outcome instanceof Expectation) ? outcome.inspect() : outcome)
-    this[event] = Object.assign({probability, outcome, expected}, extra)
-    return this
-  }
-
-  inspect () {
-    return Object.keys(this).reduce((sum, event) => {
-      return sum + this[event].expected
-    }, 0)
-  }
-}
-
-const test = payoutFactory(STRUCTURE['496'], ALLOCATION['496'], 0.5)(10000000, {'Group 1': 5800000}, true, 'Ordinary')
+const test = payoutFactory(STRUCTURE['496'], ALLOCATION['496'], 0.5)(3000000, {}, true, 'Ordinary')
 console.log(test)
 fs.writeFileSync('data/tmp.json', JSON.stringify(test, null, 2))
 
@@ -50,48 +36,48 @@ function payoutFactory (structure, allocation, conversion) {
   delete odds['Group 0']
   return (prizePool, snowballed = {}, isCascade = false, betType = 'Ordinary') => {
     const prizes = getPrizes(allocation, prizePool, snowballed)
-    const tickets = Math.round(prizePool / conversion)
+    const stakes = Math.round(prizePool / conversion)
     const match = structure[betType].match
     const expectation = new Expectation()
     Object.keys(match).forEach(group => {
       expectation.add(
         group,
         match[group].probability,
-        getExpectedOutcome(match[group].payouts, tickets, odds, prizes, isCascade)
+        getExpectedOutcome(match[group].payouts, stakes, odds, prizes, isCascade)
       )
     })
     return expectation
   }
 }
 
-function getExpectedOutcome (payouts, tickets, odds, prizes, isCascade) {
+function getExpectedOutcome (payouts, stakes, odds, prizes, isCascade) {
   const expectation = new Expectation()
   Object.keys(payouts).forEach((group, i) => {
-    let expectedShares = tickets * odds[group]
-    let residueProb = 1
-    for (let n = 0; n < payouts[group]; n++) {
-      const probability = combi(tickets, n) * Math.pow(odds[group], n) * Math.pow(1 - odds[group], tickets - n)
-      if (!Number.isFinite(probability)) continue
-      expectedShares -= probability * n
-      residueProb -= probability
+    const expectedShares = payouts[group] + stakes * odds[group]
+    const expectedPrize = 'share' in prizes[group]
+                        ? new BinomialInverseMoment(stakes, odds[group], payouts[group])
+                            .transform(prizes[group].share, prizes[group].fixed || 0)
+                            .transform(payouts[group])
+                        : prizes[group].fixed * payouts[group]
+    const extras = {
+      shares: expectedShares,
+      received: payouts[group]
     }
-    expectedShares /= residueProb
-    let expectedPrize = prizes[group].fixed || 0
-    if ('share' in prizes[group]) {
-      expectedPrize += prizes[group].share / expectedShares
-    }
-    expectation.add(group, payouts[group], expectedPrize, {shares: expectedShares})
+    expectation.add(group, 1, expectedPrize, extras)
   })
   if (!isCascade) return expectation
   const topGroup = Object.keys(payouts).sort()[0]
   if (topGroup == null || topGroup === 'Group 1') return expectation
-  const cascadePrize = prizes['Group 1'].share / expectation[topGroup].shares
   const cascadeOdd = Object.keys(odds)
     .filter(group => group < topGroup)
     .reduce((prob, group) => {
-      return prob * Math.pow(1 - odds[group], tickets)
+      return prob * Math.pow(1 - odds[group], stakes)
     }, 1)
-  return expectation.add('Cascaded', payouts[topGroup] * cascadeOdd, cascadePrize)
+  if (cascadeOdd < 1e-9) return expectation
+  const cascadePrize = new BinomialInverseMoment(stakes, odds[topGroup], payouts[topGroup])
+                         .transform(prizes['Group 1'].share)
+                         .transform(payouts[topGroup])
+  return expectation.add('Cascaded', cascadeOdd, cascadePrize)
 }
 
 function getPrizes (allocation, prizePool, snowballed) {
