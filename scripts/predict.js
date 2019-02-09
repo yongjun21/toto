@@ -52,32 +52,29 @@ function payoutFactory (structure, allocation, conversion) {
 
 function getExpectedOutcome (payouts, stakes, odds, prizes, isCascade) {
   const expectation = new Expectation()
+  const topGroup = Object.keys(payouts).sort()[0]
   Object.keys(payouts).forEach((group, i) => {
     const expectedShares = payouts[group] + stakes * odds[group]
-    const expectedPrize = 'share' in prizes[group]
-                        ? new BinomialInverseMoment(stakes, odds[group], payouts[group])
-                            .transform(prizes[group].share, prizes[group].fixed || 0)
-                            .transform(payouts[group])
-                        : prizes[group].fixed * payouts[group]
-    const extras = {
-      shares: expectedShares,
-      received: payouts[group]
+    if ('pooled' in prizes[group]) {
+      let base = prizes[group].pooled
+      if (isCascade && topGroup != null && topGroup !== 'Group 1') {
+        const cascadeOdd = Object.keys(odds)
+          .filter(group => group < topGroup)
+          .reduce((prob, group) => prob * Math.pow(1 - odds[group], stakes), 1)
+        if (cascadeOdd >= 1e-9) {
+          base = new Expectation()
+          base.add('Group share', 1, prizes[group].pooled)
+          base.add('Casade share', cascadeOdd, prizes['Group 1'].pooled)
+        }
+      }
+      const outcome = new BinomialInverseMoment(base, stakes, odds[group], payouts[group])
+      expectation.add(group, payouts[group], outcome, {expectedShares})
     }
-    expectation.add(group, 1, expectedPrize, extras)
+    if ('fixed' in prizes[group]) {
+      expectation.add(group, payouts[group], prizes[group].fixed)
+    }
   })
-  if (!isCascade) return expectation
-  const topGroup = Object.keys(payouts).sort()[0]
-  if (topGroup == null || topGroup === 'Group 1') return expectation
-  const cascadeOdd = Object.keys(odds)
-    .filter(group => group < topGroup)
-    .reduce((prob, group) => {
-      return prob * Math.pow(1 - odds[group], stakes)
-    }, 1)
-  if (cascadeOdd < 1e-9) return expectation
-  const cascadePrize = new BinomialInverseMoment(stakes, odds[topGroup], payouts[topGroup])
-                         .transform(prizes['Group 1'].share)
-                         .transform(payouts[topGroup])
-  return expectation.add('Cascaded', cascadeOdd, cascadePrize)
+  return expectation
 }
 
 function getPrizes (allocation, prizePool, snowballed) {
@@ -85,8 +82,8 @@ function getPrizes (allocation, prizePool, snowballed) {
   Object.keys(allocation).forEach(group => {
     prizes[group] = {...allocation[group]}
     if ('share' in prizes[group]) {
-      prizes[group].share *= prizePool
-      if (group in snowballed) prizes[group].share += snowballed[group]
+      prizes[group].pooled = prizes[group].share * prizePool
+      if (group in snowballed) prizes[group].pooled += snowballed[group]
     }
   })
   return prizes

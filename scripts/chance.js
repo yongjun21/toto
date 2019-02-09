@@ -35,22 +35,42 @@ function getGroupPayout (group, available, drawed, picked) {
 
 class Expectation {
   constructor () {
-    this.events = []
+    this._events = []
   }
 
   add (event, probability, outcome, extras = {}) {
-    const expected = probability * ((outcome instanceof Expectation) ? outcome.value() : outcome)
+    const outcomeValue = (outcome instanceof Expectation)
+                       ? outcome.value
+                       : outcome
+    const expected = probability * outcomeValue
     const row = {event, probability, outcome, expected}
-    this.events.push(Object.assign(row, extras))
+    this._events.push(Object.assign(row, extras))
     return this
   }
 
-  value () {
-    return this.events.reduce((sum, row) => sum + row.expected, 0)
+  get value () {
+    return this._events.reduce((sum, row) => sum + row.expected, 0)
+  }
+
+  get events () {
+    return this._events
+  }
+
+  mapEvents (fn) {
+    return this.events.map(row => {
+      const mapped = Object.assign({}, row)
+      if (mapped.outcome instanceof Expectation) {
+        mapped.outcome = mapped.outcome.mapEvents(fn)
+      } else {
+        mapped.outcome = fn(mapped.outcome)
+      }
+      mapped.expected = mapped.probability * mapped.outcome
+      return mapped
+    })
   }
 
   [require('util').inspect.custom] () {
-    return this.value()
+    return this.value
   }
 
   toJSON () {
@@ -59,11 +79,14 @@ class Expectation {
 }
 
 class BinomialInverseMoment extends Expectation {
-  constructor (n, p, A = 1) {
+  constructor (base, n, p, A = 1) {
     super()
+    this.base = base
     this.shape = [n, p]
     this.offset = A
-    this.transformations = []
+    this.baseValue = (base instanceof Expectation)
+                   ? base.value
+                   : base
     if (this.shape in BinomialInverseMoment.memo) {
       this.probabilities = BinomialInverseMoment.memo[this.shape]
     } else {
@@ -80,20 +103,21 @@ class BinomialInverseMoment extends Expectation {
     }
   }
 
-  transform (scale = 1, offset = 0) {
-    this.transformations.push(value => scale * value + offset)
-    return this
+  get value () {
+    return this.probabilities.reduce((expected, probability, x) => {
+      const outcomeValue = this.baseValue / (x + this.offset)
+      return expected + probability * outcomeValue
+    }, 0)
   }
 
-  simplify (groupBy, epsilon = 1e6) {
+  asEvents (delta, epsilon = 1e6) {
     const groups = []
     let lastGroup = null
     let lastIndex = -1
     const cumProbabilities = new Float64Array(this.probabilities.length)
     this.probabilities.forEach((probability, x) => {
-      const outcome = this.transformations
-        .reduce((outcome, transform) => transform(outcome), 1 / (x + this.offset))
-      const group = groupBy(outcome)
+      const outcomeValue = this.baseValue / (x + this.offset)
+      const group = Math.round(outcomeValue / delta) * delta
       if (group !== lastGroup) {
         groups.push(group)
         cumProbabilities[x] = 1
@@ -104,47 +128,47 @@ class BinomialInverseMoment extends Expectation {
     })
     groups.reverse()
     let openRange = null
-    return cumProbabilities.reduce((events, probability, x) => {
-      if (probability < 1) return events
-      const outcome = groups.pop()
+    const events = cumProbabilities.reduce((rows, probability, x) => {
+      if (probability < 1) return rows
+      const outcomeValue = groups.pop()
       if (openRange) {
         openRange.push(x - 1 + this.offset)
         openRange = null
       }
-      if (probability < 1 + epsilon) return events
+      if (probability < 1 + epsilon) return rows
       probability -= 1
+
       const row = {
+        shares: [x + this.offset],
         probability,
-        outcome,
-        expected: probability * outcome,
-        between: [x + this.offset]
+        outcome: outcomeValue
       }
-      openRange = row.between
-      return events.concat(row)
+      openRange = row.shares
+      return rows.concat(row)
     }, [])
+    if (openRange) openRange.push(this.shape[0] + this.offset)
+    events.forEach(row => {
+      const outcomeValue = row.shares[0] === row.shares[1]
+                         ? this.baseValue / row.shares[0]
+                         : row.outcome
+      const scale = v => v * outcomeValue / this.baseValue
+      row.outcome = (this.base instanceof Expectation)
+                  ? this.base.mapEvents(scale)
+                  : scale(this.base)
+      row.expected = row.probability * outcomeValue
+    })
+    return events
   }
 
-  value () {
-    return this.probabilities.reduce((expected, probability, x) => {
-      const outcome = this.transformations
-        .reduce((outcome, transform) => transform(outcome), 1 / (x + this.offset))
-      return expected + probability * outcome
-    }, 0)
-  }
-
-  asEvents () {
-    return this.simplify(value => Math.round(value / 100) * 100, 0.01)
+  get events () {
+    return this.asEvents(100, 0.01)
       .map(row => {
-        const event = row.between[0] === row.between[1]
-                    ? row.between[0] + ' winner(s)'
-                    : `${row.between[0]}-${row.between[1]} winners`
-        delete row.between
+        const event = row.shares[0] === row.shares[1]
+                    ? row.shares[0] + ' winner(s)'
+                    : `${row.shares[0]}-${row.shares[1]} winners`
+        delete row.shares
         return Object.assign({event}, row)
       })
-  }
-
-  toJSON () {
-    return this.asEvents()
   }
 }
 BinomialInverseMoment.memo = {}
