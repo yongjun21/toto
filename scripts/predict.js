@@ -23,7 +23,7 @@ const ALLOCATION = {
   }
 }
 
-const test = payoutFactory(STRUCTURE['496'], ALLOCATION['496'], 0.5)(3000000, {}, true, 'Ordinary')
+const test = payoutFactory(STRUCTURE['496'], ALLOCATION['496'], 0.5)(3000000, {}, false, 'System 7')
 console.log(test)
 fs.writeFileSync('data/tmp.json', JSON.stringify(test, null, 2))
 
@@ -41,7 +41,7 @@ function payoutFactory (structure, allocation, conversion) {
     const expectation = new Expectation()
     Object.keys(match).forEach(group => {
       expectation.add(
-        group,
+        'Match ' + group,
         match[group].probability,
         getExpectedOutcome(match[group].payouts, stakes, odds, prizes, isCascade)
       )

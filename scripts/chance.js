@@ -14,12 +14,12 @@ function getOdds (available, drawed, picked = drawed) {
 function getPayouts (available, drawed, picked = drawed) {
   const payouts = {}
   for (let group = 0; group < drawed * 2; group++) {
-    payouts['Group ' + group] = getGroupPayout(group, available, drawed, picked)
+    payouts['Group ' + group] = getPayout(group, available, drawed, picked)
   }
   return payouts
 }
 
-function getGroupPayout (group, available, drawed, picked) {
+function getPayout (group, available, drawed, picked) {
   const payout = {}
   const match = drawed - Math.floor(group / 2)
   const nomatch = group % 2 ? picked - match : picked - match - 1
@@ -35,7 +35,7 @@ function getGroupPayout (group, available, drawed, picked) {
 
 class Expectation {
   constructor () {
-    this._events = []
+    this.events = []
   }
 
   add (event, probability, outcome, extras = {}) {
@@ -44,29 +44,12 @@ class Expectation {
                        : outcome
     const expected = probability * outcomeValue
     const row = {event, probability, outcome, expected}
-    this._events.push(Object.assign(row, extras))
+    this.events.push(Object.assign(row, extras))
     return this
   }
 
   get value () {
-    return this._events.reduce((sum, row) => sum + row.expected, 0)
-  }
-
-  get events () {
-    return this._events
-  }
-
-  mapEvents (fn) {
-    return this.events.map(row => {
-      const mapped = Object.assign({}, row)
-      if (mapped.outcome instanceof Expectation) {
-        mapped.outcome = mapped.outcome.mapEvents(fn)
-      } else {
-        mapped.outcome = fn(mapped.outcome)
-      }
-      mapped.expected = mapped.probability * mapped.outcome
-      return mapped
-    })
+    return this.events.reduce((sum, row) => sum + row.expected, 0)
   }
 
   [require('util').inspect.custom] () {
@@ -101,77 +84,60 @@ class BinomialInverseMoment extends Expectation {
       }
       BinomialInverseMoment.memo[this.shape] = this.probabilities
     }
+    this.events = this.asEvents(Math.floor(base / (Math.log2(n) + 1)))
   }
 
-  get value () {
-    return this.probabilities.reduce((expected, probability, x) => {
+  asEvents (outcomeWidth, probabilityWidth = 0.01) {
+    let lastRow = null
+    const firstPass = this.probabilities.reduce((rows, probability, x) => {
       const outcomeValue = this.baseValue / (x + this.offset)
-      return expected + probability * outcomeValue
-    }, 0)
-  }
-
-  asEvents (delta, epsilon = 1e6) {
-    const groups = []
-    let lastGroup = null
-    let lastIndex = -1
-    const cumProbabilities = new Float64Array(this.probabilities.length)
-    this.probabilities.forEach((probability, x) => {
-      const outcomeValue = this.baseValue / (x + this.offset)
-      const group = Math.round(outcomeValue / delta) * delta
-      if (group !== lastGroup) {
-        groups.push(group)
-        cumProbabilities[x] = 1
-        lastGroup = group
-        lastIndex = x
+      if (lastRow && (lastRow.probability + probability < probabilityWidth) > 0) {
+        lastRow.probability += probability
+        lastRow.expected += probability * outcomeValue
+        return rows
       }
-      cumProbabilities[lastIndex] += probability
-    })
-    groups.reverse()
-    let openRange = null
-    const events = cumProbabilities.reduce((rows, probability, x) => {
-      if (probability < 1) return rows
-      const outcomeValue = groups.pop()
-      if (openRange) {
-        openRange.push(x - 1 + this.offset)
-        openRange = null
-      }
-      if (probability < 1 + epsilon) return rows
-      probability -= 1
-
-      const row = {
-        shares: [x + this.offset],
+      if (lastRow) lastRow.event.push(x + this.offset - 1)
+      lastRow = {
+        event: [x + this.offset],
         probability,
-        outcome: outcomeValue
+        outcome: null,
+        expected: probability * outcomeValue
       }
-      openRange = row.shares
-      return rows.concat(row)
+      return rows.concat(lastRow)
     }, [])
-    if (openRange) openRange.push(this.shape[0] + this.offset)
+    const secondPass = firstPass.reduce((grouped, row) => {
+      const effectiveOutcome = row.expected / row.probability
+      const group = Math.floor(effectiveOutcome / outcomeWidth)
+      if (group in grouped) {
+        grouped[group].event[1] = row.event[1]
+        grouped[group].probability += row.probability
+        grouped[group].expected += row.expected
+      } else {
+        grouped[group] = row
+      }
+      return grouped
+    }, {})
+    const events = Object.values(secondPass).sort((a, b) => a.event[0] - b.event[0])
     events.forEach(row => {
-      const outcomeValue = row.shares[0] === row.shares[1]
-                         ? this.baseValue / row.shares[0]
-                         : row.outcome
-      const scale = v => v * outcomeValue / this.baseValue
-      row.outcome = (this.base instanceof Expectation)
-                  ? this.base.mapEvents(scale)
-                  : scale(this.base)
-      row.expected = row.probability * outcomeValue
+      row.event = row.event[0] === row.event[1] ? `${row.event[0]} shares`
+                : row.event[1] == null ? `>${row.event[0] - 1} shares`
+                : `${row.event[0]}-${row.event[1]} shares`
+      row.outcome = row.expected / row.probability
     })
+    if (events.length === 1) {
+      const expectedShare = this.shape[0] * this.shape[1] + this.offset
+      events[0].event = `~${Math.round(expectedShare)} shares`
+      events[0].probability = 1
+      events[0].outcome = events.expected
+    }
     return events
-  }
-
-  get events () {
-    return this.asEvents(100, 0.01)
-      .map(row => {
-        const event = row.shares[0] === row.shares[1]
-                    ? row.shares[0] + ' winner(s)'
-                    : `${row.shares[0]}-${row.shares[1]} winners`
-        delete row.shares
-        return Object.assign({event}, row)
-      })
   }
 }
 BinomialInverseMoment.memo = {}
+
+function list () {
+
+}
 
 function combi (n, r) {
   if (n < 0 || r < 0 || n - r < 0) return 0
