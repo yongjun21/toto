@@ -9,14 +9,14 @@ fetch(url)
   .then($ => {
     const outlets = []
     const $table = $('#tblOutletSearchResult')
-    $table.find('td > ul > li').each(function () {
+    $table.find('td > ul > li').each(function (index) {
       const $outlet = $(this)
       const $name = $outlet.find('b')
       const name = $name.text().trim()
       $name.remove()
       const address = $outlet.text().trim().split(/\s{2,}/)
       const postal = address.pop()
-      outlets.push({name, address: address.join(' '), postal})
+      outlets.push({index: index + 1, name, address: address.join(' '), postal})
     })
     return outlets
   })

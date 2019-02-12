@@ -1,5 +1,6 @@
 [
   {
+    "index": 1,
     "name": "Livewire (Marina Bay Sands)",
     "address": "2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",
     "postal": "018972",
@@ -7,6 +8,7 @@
     "longitude": 103.858982235919
   },
   {
+    "index": 2,
     "name": "Livewire (Resorts World Sentosa)",
     "address": "26 Sentosa Gateway #B1-208",
     "postal": "098138",
@@ -14,6 +16,7 @@
     "longitude": 103.819935355296
   },
   {
+    "index": 3,
     "name": "Livewire (Singapore Pools)",
     "address": "210 Middle Rd #01-01",
     "postal": "188994",
@@ -21,6 +24,7 @@
     "longitude": 103.85127462841
   },
   {
+    "index": 4,
     "name": "SportsBuzz@Kranji",
     "address": "1 Turf Club Avenue, Singapore Turf Club, Singapore Racecourse",
     "postal": "738078",
@@ -28,6 +32,7 @@
     "longitude": 103.759210217078
   },
   {
+    "index": 5,
     "name": "Singapore Pools - Main Branch",
     "address": "210 Middle Rd #01-01",
     "postal": "188994",
@@ -35,6 +40,7 @@
     "longitude": 103.85127462841
   },
   {
+    "index": 6,
     "name": "Singapore Pools 64 Circuit Rd Branch",
     "address": "Blk 64 Circuit Rd #01-355",
     "postal": "370064",
@@ -42,6 +48,7 @@
     "longitude": 103.887148432844
   },
   {
+    "index": 7,
     "name": "Singapore Pools 88 Circuit Rd Branch",
     "address": "Blk 88 Circuit Rd #01-961",
     "postal": "370088",
@@ -49,6 +56,7 @@
     "longitude": 103.885851746701
   },
   {
+    "index": 8,
     "name": "Singapore Pools Anchorvale Rd Branch",
     "address": "Blk 308 Anchorvale Rd #01-05",
     "postal": "540308",
@@ -56,6 +64,7 @@
     "longitude": 103.886426650492
   },
   {
+    "index": 9,
     "name": "Singapore Pools Ang Mo Kio N2 Branch",
     "address": "Blk 202 Ang Mo Kio Ave 3 #01-1662/1664",
     "postal": "560202",
@@ -63,6 +72,7 @@
     "longitude": 103.844516260527
   },
   {
+    "index": 10,
     "name": "Singapore Pools Ang Mo Kio N2A Branch",
     "address": "Blk 226A Ang Mo Kio Ave 1 #01-625",
     "postal": "561226",
@@ -70,6 +80,7 @@
     "longitude": 103.839283930528
   },
   {
+    "index": 11,
     "name": "Singapore Pools Ang Mo Kio N4 Branch",
     "address": "Blk 447 Ang Mo Kio Ave 10 #01-1685",
     "postal": "560447",
@@ -77,6 +88,7 @@
     "longitude": 103.855967139125
   },
   {
+    "index": 12,
     "name": "Singapore Pools Ang Mo Kio N6 Branch",
     "address": "Blk 630 Ang Mo Kio Ave 4 #01-968",
     "postal": "560630",
@@ -84,6 +96,7 @@
     "longitude": 103.841068277331
   },
   {
+    "index": 13,
     "name": "Singapore Pools Ang Mo Kio N7 Branch",
     "address": "Blk 726 Ang Mo Kio Ave 6 #01-4158",
     "postal": "560726",
@@ -91,6 +104,7 @@
     "longitude": 103.84644830631
   },
   {
+    "index": 14,
     "name": "Singapore Pools Balestier Rd Branch",
     "address": "Blk 2 Balestier Rd #01-641",
     "postal": "320002",
@@ -98,6 +112,7 @@
     "longitude": 103.842935480003
   },
   {
+    "index": 15,
     "name": "Singapore Pools Bedok North Branch",
     "address": "Blk 509 Bedok North St 3 #01-129",
     "postal": "460509",
@@ -105,6 +120,7 @@
     "longitude": 103.931265025162
   },
   {
+    "index": 16,
     "name": "Singapore Pools Bedok Town Centre Branch",
     "address": "Blk 204 Bedok North Street 1 #01-415",
     "postal": "460204",
@@ -112,6 +128,7 @@
     "longitude": 103.929995919076
   },
   {
+    "index": 17,
     "name": "Singapore Pools Bencoolen Branch",
     "address": "180 Bencoolen Street, The Bencoolen #01-59",
     "postal": "189646",
@@ -119,6 +136,7 @@
     "longitude": 103.853356159052
   },
   {
+    "index": 18,
     "name": "Singapore Pools Beo Crescent Branch",
     "address": "Blk 36 Beo Crescent #01-45",
     "postal": "160036",
@@ -126,6 +144,7 @@
     "longitude": 103.827180352264
   },
   {
+    "index": 19,
     "name": "Singapore Pools Bishan N1 Branch",
     "address": "Blk 152 Bishan St 11 #01-211",
     "postal": "570152",
@@ -133,6 +152,7 @@
     "longitude": 103.85464173325
   },
   {
+    "index": 20,
     "name": "Singapore Pools Bishan N2 Branch",
     "address": "Blk 279 Bishan St 24 #01-52",
     "postal": "570279",
@@ -140,6 +160,7 @@
     "longitude": 103.843785252615
   },
   {
+    "index": 21,
     "name": "Singapore Pools Bukit Batok Central Branch",
     "address": "Blk 642 Bukit Batok Central #01-56",
     "postal": "650642",
@@ -147,6 +168,7 @@
     "longitude": 103.751706683374
   },
   {
+    "index": 22,
     "name": "Singapore Pools Bukit Batok N3 Branch",
     "address": "Blk 324 Bukit Batok St 33 #01-47",
     "postal": "650324",
@@ -154,6 +176,7 @@
     "longitude": 103.747628122263
   },
   {
+    "index": 23,
     "name": "Singapore Pools Bukit Gombak Branch",
     "address": "Blk 374 Bukit Batok St 31 #01-170",
     "postal": "650374",
@@ -161,6 +184,7 @@
     "longitude": 103.750736425731
   },
   {
+    "index": 24,
     "name": "Singapore Pools Bukit Panjang Branch",
     "address": "Blk 257 Bangkit Rd #01-49",
     "postal": "670257",
@@ -168,6 +192,7 @@
     "longitude": 103.773212348159
   },
   {
+    "index": 25,
     "name": "Singapore Pools Canberra Link Branch",
     "address": "Blk 505 Canberra Link #01-02",
     "postal": "750505",
@@ -175,6 +200,7 @@
     "longitude": 103.822534715231
   },
   {
+    "index": 26,
     "name": "Singapore Pools Chai Chee Branch",
     "address": "Blk 36 Chai Chee Ave #01-167",
     "postal": "461036",
@@ -182,6 +208,7 @@
     "longitude": 103.92543538387
   },
   {
+    "index": 27,
     "name": "Singapore Pools Changi Rd Branch",
     "address": "324K Changi Rd",
     "postal": "419799",
@@ -189,6 +216,7 @@
     "longitude": 103.908195057177
   },
   {
+    "index": 28,
     "name": "Singapore Pools Cheong Chin Nam Rd Branch",
     "address": "5 Cheong Chin Nam Rd",
     "postal": "599730",
@@ -196,6 +224,7 @@
     "longitude": 103.775237357015
   },
   {
+    "index": 29,
     "name": "Singapore Pools Chin Swee Branch",
     "address": "Blk 52 Chin Swee Rd #01-65/69",
     "postal": "160052",
@@ -203,6 +232,7 @@
     "longitude": 103.841580109275
   },
   {
+    "index": 30,
     "name": "Singapore Pools Chinatown Point Branch",
     "address": "133 New Bridge Road, Chinatown Point #01-36",
     "postal": "059413",
@@ -210,6 +240,7 @@
     "longitude": 103.844697081142
   },
   {
+    "index": 31,
     "name": "Singapore Pools Choa Chu Kang Branch",
     "address": "Blk 303 Choa Chu Kang Ave 4 #01-721",
     "postal": "680303",
@@ -217,6 +248,7 @@
     "longitude": 103.743802293189
   },
   {
+    "index": 32,
     "name": "Singapore Pools Clementi N3 Branch",
     "address": "Blk 325 Clementi Ave 5 #01-145",
     "postal": "120325",
@@ -224,6 +256,7 @@
     "longitude": 103.766817400667
   },
   {
+    "index": 33,
     "name": "Singapore Pools Clementi N7 Branch",
     "address": "Blk 722 Clementi West St 2 #01-164",
     "postal": "120722",
@@ -231,6 +264,7 @@
     "longitude": 103.76371403028
   },
   {
+    "index": 34,
     "name": "Singapore Pools Clementi Town Centre Branch",
     "address": "Blk 446 Clementi Ave 3 #01-183",
     "postal": "120446",
@@ -238,6 +272,7 @@
     "longitude": 103.764927758669
   },
   {
+    "index": 35,
     "name": "Singapore Pools Commonwealth Crescent Branch",
     "address": "Blk 116 Commonwealth Crescent #01-135",
     "postal": "140116",
@@ -245,6 +280,7 @@
     "longitude": 103.800028892853
   },
   {
+    "index": 36,
     "name": "Singapore Pools Empress Rd Branch",
     "address": "Blk 8 Empress Rd #01-35",
     "postal": "260008",
@@ -252,6 +288,7 @@
     "longitude": 103.805373811937
   },
   {
+    "index": 37,
     "name": "Singapore Pools Everton Park Branch",
     "address": "Blk 7 Everton Park #01-15",
     "postal": "080007",
@@ -259,6 +296,7 @@
     "longitude": 103.838680470477
   },
   {
+    "index": 38,
     "name": "Singapore Pools Fajar Rd Branch",
     "address": "Blk 445 Fajar Rd Fajar Shopping Centre #02-540",
     "postal": "670445",
@@ -266,6 +304,7 @@
     "longitude": 103.770768305101
   },
   {
+    "index": 39,
     "name": "Singapore Pools Gek Poh Shopping Centre",
     "address": "Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338",
     "postal": "640762",
@@ -273,6 +312,7 @@
     "longitude": 103.697732091001
   },
   {
+    "index": 40,
     "name": "Singapore Pools Geylang Bahru Branch",
     "address": "Blk 57 Geylang Bahru #01-3503",
     "postal": "330057",
@@ -280,6 +320,7 @@
     "longitude": 103.86914775647
   },
   {
+    "index": 41,
     "name": "Singapore Pools Geylang Rd Branch",
     "address": "149 Geylang Rd #01-02",
     "postal": "389233",
@@ -287,6 +328,7 @@
     "longitude": 103.874198687406
   },
   {
+    "index": 42,
     "name": "Singapore Pools Ghim Moh Branch",
     "address": "Blk 21 Ghim Moh Rd #01-161",
     "postal": "270021",
@@ -294,6 +336,7 @@
     "longitude": 103.788545950724
   },
   {
+    "index": 43,
     "name": "Singapore Pools Great World City Branch",
     "address": "1 Kim Seng Promenade #B1-13C Great World City",
     "postal": "237994",
@@ -301,6 +344,7 @@
     "longitude": 103.832015762404
   },
   {
+    "index": 44,
     "name": "Singapore Pools Holland Drive Branch",
     "address": "Blk 46 Holland Dr #01-371/373",
     "postal": "270046",
@@ -308,6 +352,7 @@
     "longitude": 103.792695569227
   },
   {
+    "index": 45,
     "name": "Singapore Pools Hougang N1 Branch",
     "address": "Blk 106 Hougang Ave 1 #01-1209/1211",
     "postal": "530106",
@@ -315,6 +360,7 @@
     "longitude": 103.890680792553
   },
   {
+    "index": 46,
     "name": "Singapore Pools Hougang N2 Branch",
     "address": "Blk 211 Hougang St 21 #01-309",
     "postal": "530211",
@@ -322,6 +368,7 @@
     "longitude": 103.887717332865
   },
   {
+    "index": 47,
     "name": "Singapore Pools Hougang N3 Branch",
     "address": "Blk 322 Hougang Ave 5 #01-70",
     "postal": "530322",
@@ -329,6 +376,7 @@
     "longitude": 103.89697867894
   },
   {
+    "index": 48,
     "name": "Singapore Pools IMM Branch",
     "address": "2 Jurong East St 21 #02-63, IMM Building",
     "postal": "609601",
@@ -336,6 +384,7 @@
     "longitude": 103.746894731666
   },
   {
+    "index": 49,
     "name": "Singapore Pools Jln Batu Branch",
     "address": "Blk 7 Jln Batu #01-99",
     "postal": "431007",
@@ -343,6 +392,7 @@
     "longitude": 103.88359641393
   },
   {
+    "index": 50,
     "name": "Singapore Pools Jln Tiga Branch",
     "address": "Blk 43 Jln Tiga #01-08",
     "postal": "390043",
@@ -350,6 +400,7 @@
     "longitude": 103.884729523853
   },
   {
+    "index": 51,
     "name": "Singapore Pools Jurong East Branch",
     "address": "Blk 351 Jurong East St 31 #01-93",
     "postal": "600351",
@@ -357,6 +408,7 @@
     "longitude": 103.730778253202
   },
   {
+    "index": 52,
     "name": "Singapore Pools Jurong West N2 Branch",
     "address": "Blk 276 Jurong West 25 #01-05",
     "postal": "640276",
@@ -364,6 +416,7 @@
     "longitude": 103.703730685947
   },
   {
+    "index": 53,
     "name": "Singapore Pools Jurong West N4 Branch",
     "address": "Blk 498 Jurong West St 41 #01-472",
     "postal": "640498",
@@ -371,6 +424,7 @@
     "longitude": 103.724307319237
   },
   {
+    "index": 54,
     "name": "Singapore Pools Jurong West N5 Branch",
     "address": "Blk 508 Jurong West St 52 #01-166",
     "postal": "640508",
@@ -378,6 +432,7 @@
     "longitude": 103.718715391434
   },
   {
+    "index": 55,
     "name": "Singapore Pools King George's Ave Branch",
     "address": "Blk 803 King George's Ave #01-200/202",
     "postal": "200803",
@@ -385,6 +440,7 @@
     "longitude": 103.860912781098
   },
   {
+    "index": 56,
     "name": "Singapore Pools Lengkok Bahru Branch",
     "address": "Blk 63B Lengkok Bahru #01-364",
     "postal": "152063",
@@ -392,6 +448,7 @@
     "longitude": 103.815318433481
   },
   {
+    "index": 57,
     "name": "Singapore Pools Lor 1 Toa Payoh Branch",
     "address": "Blk 111 Lor 1 Toa Payoh #01-354",
     "postal": "310111",
@@ -399,6 +456,7 @@
     "longitude": 103.845306137194
   },
   {
+    "index": 58,
     "name": "Singapore Pools Lor 25A Geylang Branch",
     "address": "62 Lor 25A Geylang",
     "postal": "388251",
@@ -406,6 +464,7 @@
     "longitude": 103.883256016535
   },
   {
+    "index": 59,
     "name": "Singapore Pools Lor 4 Toa Payoh Branch",
     "address": "Blk 85 Lor 4 Toa Payoh #01-340",
     "postal": "310085",
@@ -413,6 +472,7 @@
     "longitude": 103.848428644103
   },
   {
+    "index": 60,
     "name": "Singapore Pools Lor 8 Toa Payoh Branch",
     "address": "Blk 212 Lor 8 Toa Payoh #01-39",
     "postal": "310212",
@@ -420,6 +480,7 @@
     "longitude": 103.85433449712
   },
   {
+    "index": 61,
     "name": "Singapore Pools Lorong Lew Lian Branch",
     "address": "Blk 2 Lor Lew Lian #01-46",
     "postal": "531002",
@@ -427,6 +488,7 @@
     "longitude": 103.875680063863
   },
   {
+    "index": 62,
     "name": "Singapore Pools Lucky Plaza Branch",
     "address": "304 Orchard Rd Lucky Plaza #B1-119",
     "postal": "238863",
@@ -434,6 +496,7 @@
     "longitude": 103.833961913093
   },
   {
+    "index": 63,
     "name": "Singapore Pools New Upper Changi Branch",
     "address": "Blk 26 New Upp Changi Rd #01-666/668",
     "postal": "462026",
@@ -441,6 +504,7 @@
     "longitude": 103.934207271148
   },
   {
+    "index": 64,
     "name": "Singapore Pools Pasir Ris N2 Branch",
     "address": "Blk 259 Pasir Ris St 21 Loyang Point #02-29",
     "postal": "510259",
@@ -448,6 +512,7 @@
     "longitude": 103.964598499523
   },
   {
+    "index": 65,
     "name": "Singapore Pools Pasir Ris N7 Branch",
     "address": "Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358",
     "postal": "510735",
@@ -455,6 +520,7 @@
     "longitude": 103.936574613663
   },
   {
+    "index": 66,
     "name": "Singapore Pools Peace Centre Branch",
     "address": "1 Sophia Rd Peace Centre #01-24/25",
     "postal": "228149",
@@ -462,6 +528,7 @@
     "longitude": 103.849176263468
   },
   {
+    "index": 67,
     "name": "Singapore Pools People's Park Centre",
     "address": "101 Upp Cross St, People's Park Centre, #01-12",
     "postal": "058357",
@@ -469,6 +536,7 @@
     "longitude": 103.843980122838
   },
   {
+    "index": 68,
     "name": "Singapore Pools Potong Pasir Branch",
     "address": "Blk 148 Potong Pasir Ave 1 #01-73",
     "postal": "350148",
@@ -476,6 +544,7 @@
     "longitude": 103.86777426102
   },
   {
+    "index": 69,
     "name": "Singapore Pools Serangoon Central Branch",
     "address": "Blk 254 Serangoon Central Dr #01-209",
     "postal": "550254",
@@ -483,6 +552,7 @@
     "longitude": 103.871216925982
   },
   {
+    "index": 70,
     "name": "Singapore Pools Siglap Branch",
     "address": "697B East Coast Road",
     "postal": "459060",
@@ -490,6 +560,7 @@
     "longitude": 103.92217067808
   },
   {
+    "index": 71,
     "name": "Singapore Pools Silat Ave Branch",
     "address": "Blk 150 Silat Avenue #01-42",
     "postal": "160150",
@@ -497,6 +568,7 @@
     "longitude": 103.831425856916
   },
   {
+    "index": 72,
     "name": "Singapore Pools Sim Lim Square Branch",
     "address": "1 Rochor Canal Rd Sim Lim Square #B1-37",
     "postal": "188504",
@@ -504,6 +576,7 @@
     "longitude": 103.853037816787
   },
   {
+    "index": 73,
     "name": "Singapore Pools Suntec City",
     "address": "3 Temasek Boulevard #B1-143 Suntec City Mall",
     "postal": "038983",
@@ -511,6 +584,7 @@
     "longitude": 103.859014406736
   },
   {
+    "index": 74,
     "name": "Singapore Pools Tampines Mart Branch",
     "address": "11 Tampines St 32 Tampines Mart #01-03",
     "postal": "529287",
@@ -518,6 +592,7 @@
     "longitude": 103.960042188281
   },
   {
+    "index": 75,
     "name": "Singapore Pools Tampines N4 Branch",
     "address": "Blk 481 Tampines St 44 #01-277",
     "postal": "520481",
@@ -525,6 +600,7 @@
     "longitude": 103.953251115722
   },
   {
+    "index": 76,
     "name": "Singapore Pools Tanjong Pagar Branch",
     "address": "Blk 1 Tanjong Pagar Plaza #01-49/50",
     "postal": "082001",
@@ -532,6 +608,7 @@
     "longitude": 103.842393164815
   },
   {
+    "index": 77,
     "name": "Singapore Pools Teban Gardens Branch",
     "address": "Blk 37 Teban Gardens Rd #01-308",
     "postal": "600037",
@@ -539,6 +616,7 @@
     "longitude": 103.742652199249
   },
   {
+    "index": 78,
     "name": "Singapore Pools Teck Whye Branch",
     "address": "Blk 141 Teck Whye Lane #01-271",
     "postal": "680141",
@@ -546,6 +624,7 @@
     "longitude": 103.75257991701
   },
   {
+    "index": 79,
     "name": "Singapore Pools Telok Blangah Crescent Branch",
     "address": "Blk 6 Telok Blangah Crescent #01-418",
     "postal": "090006",
@@ -553,6 +632,7 @@
     "longitude": 103.818484019328
   },
   {
+    "index": 80,
     "name": "Singapore Pools Upp Boon Keng Branch",
     "address": "Blk 18 Upp Boon Keng Rd #01-1149/1151",
     "postal": "380018",
@@ -560,6 +640,7 @@
     "longitude": 103.872301458156
   },
   {
+    "index": 81,
     "name": "Singapore Pools Whampoa Dr Branch",
     "address": "Blk 88 Whampoa Dr #01-857",
     "postal": "320088",
@@ -567,6 +648,7 @@
     "longitude": 103.855171553668
   },
   {
+    "index": 82,
     "name": "Singapore Pools Woodlands 888 Plaza Branch",
     "address": "Blk 888 Woodlands Dr 50 888 Plaza #01-711",
     "postal": "730888",
@@ -574,6 +656,7 @@
     "longitude": 103.795314383823
   },
   {
+    "index": 83,
     "name": "Singapore Pools Woodlands N3 Branch",
     "address": "Blk 305 Woodlands St 31 #01-77",
     "postal": "730305",
@@ -581,6 +664,7 @@
     "longitude": 103.774102414119
   },
   {
+    "index": 84,
     "name": "Singapore Pools Woodlands N5 Branch",
     "address": "Blk 548 Woodlands Dr 44 Vista Point #02-04",
     "postal": "730548",
@@ -588,6 +672,7 @@
     "longitude": 103.793927429476
   },
   {
+    "index": 85,
     "name": "Singapore Pools Woodlands N8 Branch",
     "address": "Blk 883 Woodlands St 82 #02-468",
     "postal": "730883",
@@ -595,6 +680,7 @@
     "longitude": 103.79054801524
   },
   {
+    "index": 86,
     "name": "Singapore Pools Yishun N1 Branch",
     "address": "Blk 101 Yishun Ave 5 #01-37",
     "postal": "760101",
@@ -602,6 +688,7 @@
     "longitude": 103.827667722074
   },
   {
+    "index": 87,
     "name": "Singapore Pools Yishun N2 Branch",
     "address": "Blk 256 Yishun Ring Rd #01-1001",
     "postal": "760256",
@@ -609,6 +696,7 @@
     "longitude": 103.839979155802
   },
   {
+    "index": 88,
     "name": "Singapore Pools Yishun N4 Branch",
     "address": "Blk 415 Yishun Ave 11 #01-311",
     "postal": "760415",
@@ -616,6 +704,7 @@
     "longitude": 103.845870092641
   },
   {
+    "index": 89,
     "name": "Singapore Pools Yishun N7 Branch",
     "address": "Blk 761 Yishun St 72 #01-340",
     "postal": "760761",
@@ -623,6 +712,7 @@
     "longitude": 103.833259035976
   },
   {
+    "index": 90,
     "name": "7-Eleven Bedok North",
     "address": "Blk 123 Bedok North St 2 #01-158",
     "postal": "460123",
@@ -630,6 +720,7 @@
     "longitude": 103.937343347878
   },
   {
+    "index": 91,
     "name": "7-Eleven Bukit Batok West",
     "address": "Blk 132 Bukit Batok West Ave 6 #01-304",
     "postal": "650132",
@@ -637,6 +728,7 @@
     "longitude": 103.745625196086
   },
   {
+    "index": 92,
     "name": "7-Eleven Changi",
     "address": "38-A Changi Rd",
     "postal": "419701",
@@ -644,6 +736,7 @@
     "longitude": 103.898830002214
   },
   {
+    "index": 93,
     "name": "7-Eleven Choa Chu Kang Drive",
     "address": "Blk 689B Choa Chu Kang Dr #01-306",
     "postal": "682689",
@@ -651,6 +744,7 @@
     "longitude": 103.749793059631
   },
   {
+    "index": 94,
     "name": "7-Eleven Circular Rd",
     "address": "58 Circular Rd #01-01",
     "postal": "049413",
@@ -658,6 +752,7 @@
     "longitude": 103.849244561902
   },
   {
+    "index": 95,
     "name": "7-Eleven Clementi Street 11",
     "address": "Blk 109 Clementi Street 11 #01-15",
     "postal": "120109",
@@ -665,6 +760,7 @@
     "longitude": 103.770776117357
   },
   {
+    "index": 96,
     "name": "7-Eleven Erskine Road",
     "address": "7 Erskine Rd",
     "postal": "069320",
@@ -672,6 +768,7 @@
     "longitude": 103.845162765083
   },
   {
+    "index": 97,
     "name": "7-Eleven Eunos",
     "address": "Blk 1A Eunos Crescent #01-2469/2471",
     "postal": "401001",
@@ -679,6 +776,7 @@
     "longitude": 103.902727807563
   },
   {
+    "index": 98,
     "name": "7-Eleven Foch Road",
     "address": "27 Foch Rd Hoa Nam Building #01-07/08",
     "postal": "209264",
@@ -686,6 +784,7 @@
     "longitude": 103.859968760923
   },
   {
+    "index": 99,
     "name": "7-Eleven Jln Leban",
     "address": "6 Jln Leban Sembawang Hill Estates",
     "postal": "577549",
@@ -693,6 +792,7 @@
     "longitude": 103.829054373613
   },
   {
+    "index": 100,
     "name": "7-Eleven Kim Tian",
     "address": "8 Kim Tian Rd",
     "postal": "169247",
@@ -700,6 +800,7 @@
     "longitude": 103.829289476252
   },
   {
+    "index": 101,
     "name": "7-Eleven McCallum Street",
     "address": "3 McCallum Street",
     "postal": "069044",
@@ -707,6 +808,7 @@
     "longitude": 103.847576353932
   },
   {
+    "index": 102,
     "name": "7-Eleven Owen Road",
     "address": "Blk 45 Owen Rd #01-295",
     "postal": "210045",
@@ -714,6 +816,7 @@
     "longitude": 103.850825476141
   },
   {
+    "index": 103,
     "name": "7-Eleven Plaza Singapura",
     "address": "68 Orchard Rd Plaza Singapura #01-51",
     "postal": "238839",
@@ -721,6 +824,7 @@
     "longitude": 103.845047621297
   },
   {
+    "index": 104,
     "name": "7-Eleven Sin Ming",
     "address": "244H Upp Thomson Rd",
     "postal": "574369",
@@ -728,6 +832,7 @@
     "longitude": 103.834697074344
   },
   {
+    "index": 105,
     "name": "7-Eleven Sixth Avenue",
     "address": "6 Sixth Ave",
     "postal": "276472",
@@ -735,6 +840,7 @@
     "longitude": 103.79511451776
   },
   {
+    "index": 106,
     "name": "7-Eleven Tai Thong Crescent",
     "address": "27 Tai Thong Crescent",
     "postal": "347857",
@@ -742,6 +848,7 @@
     "longitude": 103.869752965954
   },
   {
+    "index": 107,
     "name": "7-Eleven Upp Thomson",
     "address": "912 Upp Thomson Rd",
     "postal": "787113",
@@ -749,6 +856,7 @@
     "longitude": 103.818134626792
   },
   {
+    "index": 108,
     "name": "7-Eleven Yishun",
     "address": "Blk 102 Yishun Ave 5 #01-137",
     "postal": "760102",
@@ -756,6 +864,7 @@
     "longitude": 103.828762985019
   },
   {
+    "index": 109,
     "name": "A P Mini Mart",
     "address": "Blk 234 Lor 8 Toa Payoh #01-286",
     "postal": "310234",
@@ -763,6 +872,7 @@
     "longitude": 103.857914069837
   },
   {
+    "index": 110,
     "name": "A P Minimart Bedok Reservoir",
     "address": "Blk 121 Bedok Reservoir Road, #01-200",
     "postal": "470121",
@@ -770,6 +880,7 @@
     "longitude": 103.909992224709
   },
   {
+    "index": 111,
     "name": "Afro Asia Co Pte Ltd",
     "address": "Blk 604, Yishun Street 61, #01-323",
     "postal": "760604",
@@ -777,6 +888,7 @@
     "longitude": 103.83554529409
   },
   {
+    "index": 112,
     "name": "B.H. Mini Mart",
     "address": "Blk 137 Potong Pasir Ave 3 #01-142",
     "postal": "350137",
@@ -784,6 +896,7 @@
     "longitude": 103.865845367722
   },
   {
+    "index": 113,
     "name": "Balestier Khalsa Football Club",
     "address": "297 Lor 6 Toa Payoh Toa Payoh Stadium",
     "postal": "319389",
@@ -791,6 +904,7 @@
     "longitude": 103.851280023328
   },
   {
+    "index": 114,
     "name": "Cheers Bedok North",
     "address": "Blk 539 Bedok North St 3 #01-625",
     "postal": "460539",
@@ -798,6 +912,7 @@
     "longitude": 103.925307290709
   },
   {
+    "index": 115,
     "name": "Cheers Changi Village",
     "address": "Blk 4 Changi Village Rd #01-2074",
     "postal": "500004",
@@ -805,6 +920,7 @@
     "longitude": 103.98746284567
   },
   {
+    "index": 116,
     "name": "Cheers Haig Rd",
     "address": "Blk 12 Haig Rd #01-333/335",
     "postal": "430012",
@@ -812,6 +928,7 @@
     "longitude": 103.896129520656
   },
   {
+    "index": 117,
     "name": "Cheers Harbourfront",
     "address": "1 Maritime Square Harbourfront Centre #01-82",
     "postal": "099253",
@@ -819,6 +936,7 @@
     "longitude": 103.820243325181
   },
   {
+    "index": 118,
     "name": "Cheers Hougang Ave 3",
     "address": "Blk 23 Hougang Ave 3 #01-281",
     "postal": "530023",
@@ -826,6 +944,7 @@
     "longitude": 103.890727960772
   },
   {
+    "index": 119,
     "name": "Cheers Hougang Central",
     "address": "Blk 810 Hougang Central #01-214",
     "postal": "530810",
@@ -833,6 +952,7 @@
     "longitude": 103.893369990045
   },
   {
+    "index": 120,
     "name": "Cheers New Upper Changi Road",
     "address": "Blk 59 New Upp Changi Rd #01-1272",
     "postal": "461059",
@@ -840,6 +960,7 @@
     "longitude": 103.940695612461
   },
   {
+    "index": 121,
     "name": "Cheng Chew Wah Agency",
     "address": "20 Frankel Terrace",
     "postal": "458022",
@@ -847,6 +968,7 @@
     "longitude": 103.914496949874
   },
   {
+    "index": 122,
     "name": "Cheng Tai Boon Beng",
     "address": "150 Orchard Road #01-63 Orchard Plaza",
     "postal": "238841",
@@ -854,6 +976,7 @@
     "longitude": 103.841150144584
   },
   {
+    "index": 123,
     "name": "Chng Siow Eng Agency",
     "address": "Blk 625 Elias Rd Elias Mall #01-314",
     "postal": "510625",
@@ -861,6 +984,7 @@
     "longitude": 103.941978174681
   },
   {
+    "index": 124,
     "name": "Choice Decor Bedok North",
     "address": "Blk 416 Bedok North Ave 2 #01-31",
     "postal": "460416",
@@ -868,6 +992,7 @@
     "longitude": 103.930684870347
   },
   {
+    "index": 125,
     "name": "Choice Decor Co-Operative Society Ltd",
     "address": "Blk 22 Sin Ming Rd #01-232",
     "postal": "570022",
@@ -875,6 +1000,7 @@
     "longitude": 103.839396679952
   },
   {
+    "index": 126,
     "name": "Chong Hoe Tong",
     "address": "Blk 21 Lor 7 Toa Payoh #01-290",
     "postal": "310021",
@@ -882,6 +1008,7 @@
     "longitude": 103.857495922448
   },
   {
+    "index": 127,
     "name": "Chop Yeo Thong Heng",
     "address": "Blk 83 MacPherson Lane #01-249",
     "postal": "360083",
@@ -889,6 +1016,7 @@
     "longitude": 103.885517887171
   },
   {
+    "index": 128,
     "name": "Chop Yeo Thong Heng (International Plaza)",
     "address": "10 Anson Road #01-68 International Plaza",
     "postal": "079903",
@@ -896,6 +1024,7 @@
     "longitude": 103.845923683565
   },
   {
+    "index": 129,
     "name": "Chua Hong Kim Trading",
     "address": "Blk 237 Serangoon Ave 3 #01-108",
     "postal": "550237",
@@ -903,6 +1032,7 @@
     "longitude": 103.87013457465
   },
   {
+    "index": 130,
     "name": "Chua Yan Kee",
     "address": "Blk 49 Tanglin Halt Road #01-349",
     "postal": "142049",
@@ -910,6 +1040,7 @@
     "longitude": 103.797359760167
   },
   {
+    "index": 131,
     "name": "Chuan Hao Departmental Store",
     "address": "Blk 19A Dover Crescent #01-04",
     "postal": "131019",
@@ -917,6 +1048,7 @@
     "longitude": 103.78454843987
   },
   {
+    "index": 132,
     "name": "Clifford Gift Shop",
     "address": "Blk 532 Ang Mo Kio Ave 10 #01-2459",
     "postal": "560532",
@@ -924,6 +1056,7 @@
     "longitude": 103.854594160601
   },
   {
+    "index": 133,
     "name": "Cold Storage Compass One",
     "address": "1 Sengkang Square, #B1-25, Compass One",
     "postal": "545078",
@@ -931,6 +1064,7 @@
     "longitude": 103.895070061064
   },
   {
+    "index": 134,
     "name": "Cold Storage Northpoint",
     "address": "930 Yishun Ave 2 #B1-09/12 Northpoint Shopping Centre",
     "postal": "769098",
@@ -938,6 +1072,7 @@
     "longitude": 103.835776491468
   },
   {
+    "index": 135,
     "name": "Cold Storage UE Square",
     "address": "81 Clemenceau Ave UE Square #02-18",
     "postal": "239917",
@@ -945,6 +1080,7 @@
     "longitude": 103.842702921783
   },
   {
+    "index": 136,
     "name": "Dawn Florist",
     "address": "21 Hougang St 51 Hougang Green Shopping Mall #01-04A",
     "postal": "538719",
@@ -952,6 +1088,7 @@
     "longitude": 103.887832017102
   },
   {
+    "index": 137,
     "name": "Delisia Agency Pte Ltd",
     "address": "149 Rochor Rd Fu Lu Shou Complex #B1-26",
     "postal": "188425",
@@ -959,6 +1096,7 @@
     "longitude": 103.854497441286
   },
   {
+    "index": 138,
     "name": "Everbright  Services",
     "address": "Blk 108 Depot Road #01-17",
     "postal": "100108",
@@ -966,6 +1104,7 @@
     "longitude": 103.810292618353
   },
   {
+    "index": 139,
     "name": "Evercool Engineering",
     "address": "Blk 95 Lor 4 Toa Payoh #01-50",
     "postal": "310095",
@@ -973,6 +1112,7 @@
     "longitude": 103.848993316875
   },
   {
+    "index": 140,
     "name": "Everstream Trading",
     "address": "Blk 283 Bukit Batok East Avenue 3 #01-281",
     "postal": "650283",
@@ -980,6 +1120,7 @@
     "longitude": 103.757539380939
   },
   {
+    "index": 141,
     "name": "FairPrice Xpress MacPherson",
     "address": "110 MacPherson Rd, Exxon-Mobil",
     "postal": "348501",
@@ -987,6 +1128,7 @@
     "longitude": 103.872188869956
   },
   {
+    "index": 142,
     "name": "Fatt Chye Heng Trading",
     "address": "Blk 7 Hougang Ave 3 #01-48",
     "postal": "530007",
@@ -994,6 +1136,7 @@
     "longitude": 103.893510807642
   },
   {
+    "index": 143,
     "name": "Gerk Chwee Trading",
     "address": "4 Kensington Park Rd",
     "postal": "557256",
@@ -1001,6 +1144,7 @@
     "longitude": 103.86603515676
   },
   {
+    "index": 144,
     "name": "Giant Beauty World",
     "address": "144 Upper Bukit Timah Road Beauty World Centre #B1-01",
     "postal": "588177",
@@ -1008,6 +1152,7 @@
     "longitude": 103.776539385406
   },
   {
+    "index": 145,
     "name": "Giant Buangkok Cresent",
     "address": "Blk 982 Buangkok Cresent #01-01",
     "postal": "530982",
@@ -1015,6 +1160,7 @@
     "longitude": 103.879309094304
   },
   {
+    "index": 146,
     "name": "Giant Compassvale Bow",
     "address": "Blk 266 Compassvale Bow #01-02",
     "postal": "540266",
@@ -1022,6 +1168,7 @@
     "longitude": 103.897039857818
   },
   {
+    "index": 147,
     "name": "Giant Edgefield",
     "address": "Blk 671 Edgefield Plains #02-01",
     "postal": "820671",
@@ -1029,6 +1176,7 @@
     "longitude": 103.911991277154
   },
   {
+    "index": 148,
     "name": "Giant Greenridge",
     "address": "Blk 524A Jelapang Rd Greenridge Shopping Centre #03-13/18",
     "postal": "671524",
@@ -1036,6 +1184,7 @@
     "longitude": 103.766228468185
   },
   {
+    "index": 149,
     "name": "Giant Parkway Parade",
     "address": "80 Marine Parade Rd Parkway Parade #03-27/30",
     "postal": "449269",
@@ -1043,6 +1192,7 @@
     "longitude": 103.905279491524
   },
   {
+    "index": 150,
     "name": "Giant Paya Lebar Square",
     "address": "60 Paya Lebar Road, Paya Lebar Square #B1-01/05",
     "postal": "409051",
@@ -1050,6 +1200,7 @@
     "longitude": 103.892580778514
   },
   {
+    "index": 151,
     "name": "Giant Pioneer Mall",
     "address": "Blk 638 Jurong West Street 61 Pioneer Mall #03-01",
     "postal": "640638",
@@ -1057,6 +1208,7 @@
     "longitude": 103.697174842118
   },
   {
+    "index": 152,
     "name": "Giant Sembawang Shopping Centre",
     "address": "604 Sembawang Road Sembawang Shopping Centre #B1-25",
     "postal": "758459",
@@ -1064,6 +1216,7 @@
     "longitude": 103.824845207237
   },
   {
+    "index": 153,
     "name": "Giant Sunshine Place",
     "address": "475 Choa Chu Kang Ave 3 Sunshine Place #01-01/10",
     "postal": "680475",
@@ -1071,6 +1224,7 @@
     "longitude": 103.739015486021
   },
   {
+    "index": 154,
     "name": "Giant Tanjong Katong",
     "address": "845 Geylang Road #01-08 Tanjong Katong Complex",
     "postal": "400845",
@@ -1078,6 +1232,7 @@
     "longitude": 103.894359081999
   },
   {
+    "index": 155,
     "name": "Goh Geok Kwee (Bukit Merah)",
     "address": "Blk 124 Bukit Merah Lane 1 #01-148",
     "postal": "150124",
@@ -1085,6 +1240,7 @@
     "longitude": 103.803532208512
   },
   {
+    "index": 156,
     "name": "Goh Geok Kwee Agency",
     "address": "Blk 61 Telok Blangah Heights #01-107",
     "postal": "100061",
@@ -1092,6 +1248,7 @@
     "longitude": 103.812007084346
   },
   {
+    "index": 157,
     "name": "Golden Lagoon Trading",
     "address": "Blk 136 Marsiling Road #01-2182",
     "postal": "730136",
@@ -1099,6 +1256,7 @@
     "longitude": 103.777752029807
   },
   {
+    "index": 158,
     "name": "Hao Mart Geylang Lor 24",
     "address": "448 & 450 Geylang Road",
     "postal": "389407",
@@ -1106,6 +1264,7 @@
     "longitude": 103.88364674203
   },
   {
+    "index": 159,
     "name": "Hin Teck Leong Trading Company",
     "address": "Blk 74 Whampoa Drive #01-342",
     "postal": "320074",
@@ -1113,6 +1272,7 @@
     "longitude": 103.857752875203
   },
   {
+    "index": 160,
     "name": "Hin Teck Leong Trading Company",
     "address": "Blk 640 Rowell Rd #01-68",
     "postal": "200640",
@@ -1120,6 +1280,7 @@
     "longitude": 103.854713903431
   },
   {
+    "index": 161,
     "name": "Hock Soon Ann",
     "address": "Block 73 Bedok South Ave 3 #01-454",
     "postal": "460073",
@@ -1127,6 +1288,7 @@
     "longitude": 103.943971359147
   },
   {
+    "index": 162,
     "name": "Hougang United Football Club",
     "address": "100 Hougang Ave 2 Hougang Stadium",
     "postal": "538856",
@@ -1134,6 +1296,7 @@
     "longitude": 103.885957512282
   },
   {
+    "index": 163,
     "name": "Ichido Kopitiam City",
     "address": "Block 277C Compassvale Link #01-13 (Unit 2B)",
     "postal": "543277",
@@ -1141,6 +1304,7 @@
     "longitude": 103.893607838756
   },
   {
+    "index": 164,
     "name": "Jake Merchandise Associates",
     "address": "Blk 503 Tampines Central 1 #01-283",
     "postal": "520503",
@@ -1148,6 +1312,7 @@
     "longitude": 103.945102946956
   },
   {
+    "index": 165,
     "name": "Keppel Credit Union Co-operative Ltd",
     "address": "Blk 1 Jalan Bukit Merah #01-4536",
     "postal": "150001",
@@ -1155,6 +1320,7 @@
     "longitude": 103.808242400418
   },
   {
+    "index": 166,
     "name": "Kim Chwee Trading",
     "address": "Blk 256 Jurong East Street 24 #01-385",
     "postal": "600256",
@@ -1162,6 +1328,7 @@
     "longitude": 103.738263367232
   },
   {
+    "index": 167,
     "name": "Kis Store",
     "address": "3 Pickering Street (South Bridge Road) #01-49",
     "postal": "048660",
@@ -1169,6 +1336,7 @@
     "longitude": 103.847429981846
   },
   {
+    "index": 168,
     "name": "Kwek Lee Eng Agency",
     "address": "200 Jln Sultan Textile Centre #01-29",
     "postal": "199018",
@@ -1176,6 +1344,7 @@
     "longitude": 103.861630792094
   },
   {
+    "index": 169,
     "name": "Laura's Gifts",
     "address": "Blk 442 Pasir Ris Dr 6 #01-42",
     "postal": "510442",
@@ -1183,6 +1352,7 @@
     "longitude": 103.957951722203
   },
   {
+    "index": 170,
     "name": "Lee Ah Lan Trading",
     "address": "Blk 61 Teban Gardens Road #01-05 Teban Place",
     "postal": "600061",
@@ -1190,6 +1360,7 @@
     "longitude": 103.738292803395
   },
   {
+    "index": 171,
     "name": "Lee Eng Trading Store",
     "address": "Blk 201B Tampines St 21 #01-1083",
     "postal": "522201",
@@ -1197,6 +1368,7 @@
     "longitude": 103.953009918868
   },
   {
+    "index": 172,
     "name": "Lee Wah TV & Electric Co",
     "address": "623 Geylang Rd",
     "postal": "389561",
@@ -1204,6 +1376,7 @@
     "longitude": 103.887422305529
   },
   {
+    "index": 173,
     "name": "Li Li Cheng Supermarket (Punggol) Pte Ltd",
     "address": "Blk 273C Punggol Place #01-884",
     "postal": "823273",
@@ -1211,6 +1384,7 @@
     "longitude": 103.901262391698
   },
   {
+    "index": 174,
     "name": "Li Thoe Trading",
     "address": "Blk 119 Aljunied Ave 2 #01-78",
     "postal": "380119",
@@ -1218,6 +1392,7 @@
     "longitude": 103.886058091225
   },
   {
+    "index": 175,
     "name": "Lim Heng Ee",
     "address": "Blk 16 Upp Boon Keng Rd #01-1113",
     "postal": "380016",
@@ -1225,6 +1400,7 @@
     "longitude": 103.871651573593
   },
   {
+    "index": 176,
     "name": "Lucky Hill",
     "address": "Blk 112 Bukit Purmei Road #01-209",
     "postal": "090112",
@@ -1232,6 +1408,7 @@
     "longitude": 103.825932928075
   },
   {
+    "index": 177,
     "name": "Mee Lee Cheong Pte Ltd",
     "address": "Blk 139 Tampines St 11 #01-88",
     "postal": "521139",
@@ -1239,6 +1416,7 @@
     "longitude": 103.944509228
   },
   {
+    "index": 178,
     "name": "Metro Woodlands",
     "address": "1 Woodlands Square Causeway Point #01-18/19",
     "postal": "738099",
@@ -1246,6 +1424,7 @@
     "longitude": 103.78598151419
   },
   {
+    "index": 179,
     "name": "Nalayanee Trading Enterprise",
     "address": "127 Upp Paya Lebar Rd",
     "postal": "534839",
@@ -1253,6 +1432,7 @@
     "longitude": 103.886436894324
   },
   {
+    "index": 180,
     "name": "Nan Huat Wine Store",
     "address": "Blk 513 Bishan St 13 #01-508",
     "postal": "570513",
@@ -1260,6 +1440,7 @@
     "longitude": 103.849467349041
   },
   {
+    "index": 181,
     "name": "Nel's Store",
     "address": "Blk 741 Bedok Reservoir Rd #01-3073",
     "postal": "470741",
@@ -1267,6 +1448,7 @@
     "longitude": 103.922272109998
   },
   {
+    "index": 182,
     "name": "Ng Nam Thye Trading",
     "address": "Blk 399 Yung Sheng Road #01-07 Taman Jurong Shopping Centre",
     "postal": "610399",
@@ -1274,6 +1456,7 @@
     "longitude": 103.720462024006
   },
   {
+    "index": 183,
     "name": "Ng Nam Thye Trading - Big Mac Centre",
     "address": "51 Ang Mo Kio Avenue 3 #01-01B",
     "postal": "569922",
@@ -1281,6 +1464,7 @@
     "longitude": 103.847159679585
   },
   {
+    "index": 184,
     "name": "Ng Teo Guan Self Service",
     "address": "Blk 301 Ubi Ave 1 #01-251",
     "postal": "400301",
@@ -1288,6 +1472,7 @@
     "longitude": 103.901953040703
   },
   {
+    "index": 185,
     "name": "NTUC FP  Yew Tee",
     "address": "21, 23 & 25 Choa Chu Kang North 6 #B1-01 to 07 Yew Tee Point",
     "postal": "689715",
@@ -1295,6 +1480,7 @@
     "longitude": 103.747405114336
   },
   {
+    "index": 186,
     "name": "NTUC FP Ang Mo Kio Hypermarket",
     "address": "53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26",
     "postal": "569933",
@@ -1302,6 +1488,7 @@
     "longitude": 103.848410737143
   },
   {
+    "index": 187,
     "name": "NTUC FP Bedok North St 1",
     "address": "Blk 212 Bedok North St 1 #01-147",
     "postal": "460212",
@@ -1309,6 +1496,7 @@
     "longitude": 103.931640022396
   },
   {
+    "index": 188,
     "name": "NTUC FP Bedok North St 4",
     "address": "Blk 89 Bedok North St 4 #01-77/79",
     "postal": "460089",
@@ -1316,6 +1504,7 @@
     "longitude": 103.938051284737
   },
   {
+    "index": 189,
     "name": "NTUC FP Bishan St 13",
     "address": "Blk 510 Bishan St 13 #01-01 & 02-01",
     "postal": "570510",
@@ -1323,6 +1512,7 @@
     "longitude": 103.849691980373
   },
   {
+    "index": 190,
     "name": "NTUC FP Boon Lay",
     "address": "Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200",
     "postal": "640221",
@@ -1330,6 +1520,7 @@
     "longitude": 103.712429315389
   },
   {
+    "index": 191,
     "name": "NTUC FP Bukit Batok MRT Station",
     "address": "10 Bukit Batok Central Bukit Batok MRT Station #01-08",
     "postal": "659958",
@@ -1337,6 +1528,7 @@
     "longitude": 103.749566764129
   },
   {
+    "index": 192,
     "name": "NTUC FP Bukit Merah",
     "address": "Blk 166 Bukit Merah Central #02-3531",
     "postal": "150166",
@@ -1344,6 +1536,7 @@
     "longitude": 103.817667202598
   },
   {
+    "index": 193,
     "name": "NTUC FP Bukit Panjang Plaza",
     "address": "1 Jelebu Road #01-15 & #02-20 Bukit Panjang Plaza",
     "postal": "677743",
@@ -1351,6 +1544,7 @@
     "longitude": 103.764357180314
   },
   {
+    "index": 194,
     "name": "NTUC FP Bukit Timah Plaza",
     "address": "1 Jalan Anak Bukit Bukit Timah Plaza #B1-01",
     "postal": "588996",
@@ -1358,6 +1552,7 @@
     "longitude": 103.778600077834
   },
   {
+    "index": 195,
     "name": "NTUC FP Changi Business Park Hypermarket",
     "address": "8 Changi Business Park Ave 1 #01-51 & #02-51",
     "postal": "486018",
@@ -1365,6 +1560,7 @@
     "longitude": 103.963893685641
   },
   {
+    "index": 196,
     "name": "NTUC FP Clementi Avenue 2",
     "address": "Blk 352 Clementi Avenue 2 #01-141/143",
     "postal": "120352",
@@ -1372,6 +1568,7 @@
     "longitude": 103.771350557894
   },
   {
+    "index": 197,
     "name": "NTUC FP Clementi Avenue 3",
     "address": "Blk 451 Clementi Avenue 3 #01-307",
     "postal": "120451",
@@ -1379,6 +1576,7 @@
     "longitude": 103.765476756863
   },
   {
+    "index": 198,
     "name": "NTUC FP Coronation",
     "address": "587 Bukit Timah Rd Coronation Shopping Plaza #01-01",
     "postal": "269707",
@@ -1386,6 +1584,7 @@
     "longitude": 103.809999570047
   },
   {
+    "index": 199,
     "name": "NTUC FP Dawson Place",
     "address": "Blk 57 Dawson Road #01-07 Dawson Place",
     "postal": "142057",
@@ -1393,6 +1592,7 @@
     "longitude": 103.810958956467
   },
   {
+    "index": 200,
     "name": "NTUC FP Downtown East",
     "address": "#02-127, E Hub Downtown East, 1 Pasir Ris Close",
     "postal": "519599",
@@ -1400,6 +1600,7 @@
     "longitude": 103.955036447226
   },
   {
+    "index": 201,
     "name": "NTUC FP Eastpoint Mall",
     "address": "3 Simei St 6 East Point Mall #05-01",
     "postal": "528833",
@@ -1407,6 +1608,7 @@
     "longitude": 103.953024496946
   },
   {
+    "index": 202,
     "name": "NTUC FP Havelock Road",
     "address": "Blk 50 Havelock Road #01-755",
     "postal": "160050",
@@ -1414,6 +1616,7 @@
     "longitude": 103.826793749912
   },
   {
+    "index": 203,
     "name": "NTUC FP Hillion Mall",
     "address": "17 Petir Road, Hillion Mall, #B2-67",
     "postal": "678278",
@@ -1421,6 +1624,7 @@
     "longitude": 103.762842789877
   },
   {
+    "index": 204,
     "name": "NTUC FP Hougang Mall",
     "address": "90 Hougang Ave 10 NTUC Hougang Mall #B1-07",
     "postal": "538766",
@@ -1428,6 +1632,7 @@
     "longitude": 103.893775562605
   },
   {
+    "index": 205,
     "name": "NTUC FP Hougang St 21",
     "address": "Blk 202 Hougang St 21 #01-00",
     "postal": "530202",
@@ -1435,6 +1640,7 @@
     "longitude": 103.884049323685
   },
   {
+    "index": 206,
     "name": "NTUC FP Jem Hypermart",
     "address": "50 Jurong Gateway Road #B1-21/22",
     "postal": "608549",
@@ -1442,6 +1648,7 @@
     "longitude": 103.743278742341
   },
   {
+    "index": 207,
     "name": "NTUC FP Jurong East",
     "address": "Blk 135 Jurong East Street 13 #01-337",
     "postal": "600135",
@@ -1449,6 +1656,7 @@
     "longitude": 103.739676885744
   },
   {
+    "index": 208,
     "name": "NTUC FP Jurong Point",
     "address": "1 Jurong West Central 2 Jurong Point #B1-09",
     "postal": "648886",
@@ -1456,6 +1664,7 @@
     "longitude": 103.70668501289
   },
   {
+    "index": 209,
     "name": "NTUC FP Jurong Point Hypermart",
     "address": "63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre",
     "postal": "648331",
@@ -1463,6 +1672,7 @@
     "longitude": 103.705350996191
   },
   {
+    "index": 210,
     "name": "NTUC FP Kallang Bahru",
     "address": "Blk 71 Kallang Bahru #01-529",
     "postal": "330071",
@@ -1470,6 +1680,7 @@
     "longitude": 103.870389998344
   },
   {
+    "index": 211,
     "name": "NTUC FP Kallang Wave Mall",
     "address": "1 Stadium Place Level 1, 01-29 Kallang Wave Mall",
     "postal": "397628",
@@ -1477,6 +1688,7 @@
     "longitude": 103.873149707591
   },
   {
+    "index": 212,
     "name": "NTUC FP Killiney Rd",
     "address": "131 Killiney Rd CGH Building #01-01/02/03",
     "postal": "239571",
@@ -1484,6 +1696,7 @@
     "longitude": 103.838541255824
   },
   {
+    "index": 213,
     "name": "NTUC FP Limbang Shopping Centre",
     "address": "Blk 533 Choa Chu Kang St 51 Limbang Shopping Centre #01-11",
     "postal": "680533",
@@ -1491,6 +1704,7 @@
     "longitude": 103.743099573442
   },
   {
+    "index": 214,
     "name": "NTUC FP Lot 1 Shoppers Mall",
     "address": "21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05",
     "postal": "689812",
@@ -1498,6 +1712,7 @@
     "longitude": 103.745011766388
   },
   {
+    "index": 215,
     "name": "NTUC FP Marine Parade",
     "address": "6 Marine Parade Central",
     "postal": "449411",
@@ -1505,6 +1720,7 @@
     "longitude": 103.907183628134
   },
   {
+    "index": 216,
     "name": "NTUC FP Marsiling MRT Station",
     "address": "71 Woodlands Ave 3 Marsiling MRT Station #01-01",
     "postal": "739044",
@@ -1512,6 +1728,7 @@
     "longitude": 103.774074641403
   },
   {
+    "index": 217,
     "name": "NTUC FP New Upper Changi",
     "address": "Blk 57 New Upp Changi Rd #01-1334/1338",
     "postal": "461057",
@@ -1519,6 +1736,7 @@
     "longitude": 103.941568704132
   },
   {
+    "index": 218,
     "name": "NTUC FP Pasir Ris White Sands",
     "address": "1 Pasir Ris Central St 3 White Sands #B1-10",
     "postal": "518457",
@@ -1526,6 +1744,7 @@
     "longitude": 103.949715694737
   },
   {
+    "index": 219,
     "name": "NTUC FP Punggol Plaza",
     "address": "Blk 168 Punggol Field Rd Punggol Plaza #03-01",
     "postal": "820168",
@@ -1533,6 +1752,7 @@
     "longitude": 103.913047322951
   },
   {
+    "index": 220,
     "name": "NTUC FP Rivervale Mall",
     "address": "11 Rivervale Crescent Rivervale Mall #03-01",
     "postal": "545082",
@@ -1540,6 +1760,7 @@
     "longitude": 103.904483668323
   },
   {
+    "index": 221,
     "name": "NTUC FP Sengkang East",
     "address": "Blk 279 Sengkang East Ave #01-06",
     "postal": "540279",
@@ -1547,6 +1768,7 @@
     "longitude": 103.89299549602
   },
   {
+    "index": 222,
     "name": "NTUC FP Senja",
     "address": "Blk 628 Senja Rd Senja Grand #01-01",
     "postal": "670628",
@@ -1554,6 +1776,7 @@
     "longitude": 103.760410617887
   },
   {
+    "index": 223,
     "name": "NTUC FP Serangoon Central Hypermart",
     "address": "23 Serangoon Central #03-42 NEX",
     "postal": "556083",
@@ -1561,6 +1784,7 @@
     "longitude": 103.872296143862
   },
   {
+    "index": 224,
     "name": "NTUC FP Serangoon North",
     "address": "Blk 152B Serangoon North Ave 1 #01-384",
     "postal": "552152",
@@ -1568,6 +1792,7 @@
     "longitude": 103.87303579046
   },
   {
+    "index": 225,
     "name": "NTUC FP Shaw Plaza",
     "address": "360 Balestier Rd Shaw Plaza #B1-01",
     "postal": "329783",
@@ -1575,6 +1800,7 @@
     "longitude": 103.851158022291
   },
   {
+    "index": 226,
     "name": "NTUC FP Sun Plaza",
     "address": "30 Sembawang Drive #B1-01/02",
     "postal": "757713",
@@ -1582,6 +1808,7 @@
     "longitude": 103.819502127155
   },
   {
+    "index": 227,
     "name": "NTUC FP Tai Seng",
     "address": "18 Tai Seng Street, Mapletree 18 #B1-13",
     "postal": "539775",
@@ -1589,6 +1816,7 @@
     "longitude": 103.888825620348
   },
   {
+    "index": 228,
     "name": "NTUC FP Tampines Mall",
     "address": "4 Tampines Central 5 Tampines Mall #B1-12",
     "postal": "529510",
@@ -1596,6 +1824,7 @@
     "longitude": 103.944698751072
   },
   {
+    "index": 229,
     "name": "NTUC FP Tampines St 11",
     "address": "Blk 107 Tampines St 11 #01-353/359",
     "postal": "521107",
@@ -1603,6 +1832,7 @@
     "longitude": 103.948158723814
   },
   {
+    "index": 230,
     "name": "NTUC FP Tampines St 44",
     "address": "Blk 475 Tampines St 44 #01-145",
     "postal": "520475",
@@ -1610,6 +1840,7 @@
     "longitude": 103.953129640464
   },
   {
+    "index": 231,
     "name": "NTUC FP Tampines Street  83",
     "address": "Blk 866A #01-K1 Tampines St 83",
     "postal": "521866",
@@ -1617,6 +1848,7 @@
     "longitude": 103.93447789778
   },
   {
+    "index": 232,
     "name": "NTUC FP Tanjong Pagar",
     "address": "Blk 5 Tanjong Pagar Rd Tanjong Pagar Plaza #01-01",
     "postal": "081005",
@@ -1624,6 +1856,7 @@
     "longitude": 103.843006115698
   },
   {
+    "index": 233,
     "name": "NTUC FP Telok Blangah",
     "address": "Blk 78A Telok Blangah Street 32 #01-01",
     "postal": "101078",
@@ -1631,6 +1864,7 @@
     "longitude": 103.808980553946
   },
   {
+    "index": 234,
     "name": "NTUC FP Thomson Plaza",
     "address": "301 Upp Thomson Rd Thomson Plaza #03-25/31",
     "postal": "574408",
@@ -1638,6 +1872,7 @@
     "longitude": 103.830919782333
   },
   {
+    "index": 235,
     "name": "NTUC FP Tiong Bahru Plaza",
     "address": "302 Tiong Bahru Road Tiong Bahru Plaza #B1-01/02",
     "postal": "168732",
@@ -1645,6 +1880,7 @@
     "longitude": 103.827015256194
   },
   {
+    "index": 236,
     "name": "NTUC FP Toa Payoh",
     "address": "Blk 192 Lor 4 Toa Payoh #02-674",
     "postal": "310192",
@@ -1652,6 +1888,7 @@
     "longitude": 103.850487239503
   },
   {
+    "index": 237,
     "name": "NTUC FP Toa Payoh HDB Centre",
     "address": "Blk 500 Lor 6 Toa Payoh HDB Centre #01-33",
     "postal": "310500",
@@ -1659,6 +1896,7 @@
     "longitude": 103.847092284316
   },
   {
+    "index": 238,
     "name": "NTUC FP Warehouse Club",
     "address": "1 Joo Koon Circle #03-21 Fairprice Hub",
     "postal": "629117",
@@ -1666,6 +1904,7 @@
     "longitude": 103.678410551835
   },
   {
+    "index": 239,
     "name": "NTUC FP Woodgrove",
     "address": "30 Woodlands Ave 1 The Woodgrove #01-11",
     "postal": "739065",
@@ -1673,6 +1912,7 @@
     "longitude": 103.781136882893
   },
   {
+    "index": 240,
     "name": "NTUC FP Woodlands Civic Centre",
     "address": "900 South Woodlands Dr Woodlands Civic Centre #B1-01",
     "postal": "730900",
@@ -1680,6 +1920,7 @@
     "longitude": 103.786930895956
   },
   {
+    "index": 241,
     "name": "NTUC FP Yishun",
     "address": "301 Yishun Ave 2 Yishun MRT Station #01-02",
     "postal": "769093",
@@ -1687,6 +1928,7 @@
     "longitude": 103.83500504643
   },
   {
+    "index": 242,
     "name": "NTUC FP Yishun Ring Rd",
     "address": "Blk 849 Yishun Ring Rd #01-3701/3703",
     "postal": "760849",
@@ -1694,6 +1936,7 @@
     "longitude": 103.835347787187
   },
   {
+    "index": 243,
     "name": "NTUC FP Yung Kuang",
     "address": "Blk 63-66 Yung Kuang Road #01-119/02-119",
     "postal": "610063",
@@ -1701,6 +1944,7 @@
     "longitude": 103.722691571538
   },
   {
+    "index": 244,
     "name": "NTUC Punggol Oasis",
     "address": "681 Punggol Drive #B1-01 Oasis Terraces",
     "postal": "820681",
@@ -1708,6 +1952,7 @@
     "longitude": 103.913215101343
   },
   {
+    "index": 245,
     "name": "OCN (Singapore) Pte Ltd",
     "address": "Blk 501 West Coast Drive #01-266",
     "postal": "120501",
@@ -1715,6 +1960,7 @@
     "longitude": 103.759312529215
   },
   {
+    "index": 246,
     "name": "Ong Eng Siang Trading",
     "address": "Blk 71 Seng Poh Road #01-43",
     "postal": "160071",
@@ -1722,6 +1968,7 @@
     "longitude": 103.83250362707
   },
   {
+    "index": 247,
     "name": "Overseas Emporium (Pte) Ltd",
     "address": "1 Park Rd People's Park Complex #02-70",
     "postal": "059108",
@@ -1729,6 +1976,7 @@
     "longitude": 103.842519563895
   },
   {
+    "index": 248,
     "name": "Papillon Florist Pte Ltd",
     "address": "Blk 133 Jalan Bukit Merah #01-1520",
     "postal": "160133",
@@ -1736,6 +1984,7 @@
     "longitude": 103.82740093837
   },
   {
+    "index": 249,
     "name": "PFG Framing & Trading",
     "address": "Blk 960 Jurong West Street 92 #01-182",
     "postal": "640960",
@@ -1743,6 +1992,7 @@
     "longitude": 103.691459639611
   },
   {
+    "index": 250,
     "name": "Pinthely Floral Centre",
     "address": "5001 Beach Road #02-35 Golden Mile Complex",
     "postal": "199588",
@@ -1750,6 +2000,7 @@
     "longitude": 103.865163649543
   },
   {
+    "index": 251,
     "name": "Precise Optics",
     "address": "111 North Bridge Road, #02-03 Peninsula Plaza",
     "postal": "179098",
@@ -1757,6 +2008,7 @@
     "longitude": 103.850803356823
   },
   {
+    "index": 252,
     "name": "Premier Security Cooperative Society Ltd",
     "address": "Blk 574 Ang Mo Kio Ave 10 #01-1823",
     "postal": "560574",
@@ -1764,6 +2016,7 @@
     "longitude": 103.856396509138
   },
   {
+    "index": 253,
     "name": "Prime Chai Chee",
     "address": "25A Chai Chee Rd #01-459",
     "postal": "461025",
@@ -1771,6 +2024,7 @@
     "longitude": 103.924149636605
   },
   {
+    "index": 254,
     "name": "Prime Compassvale St",
     "address": "Blk 263 Compassvale St #01-01",
     "postal": "540263",
@@ -1778,6 +2032,7 @@
     "longitude": 103.896042268385
   },
   {
+    "index": 255,
     "name": "Prime Hougang",
     "address": "Blk 159A Hougang St 11 #01-01",
     "postal": "531159",
@@ -1785,6 +2040,7 @@
     "longitude": 103.879444507283
   },
   {
+    "index": 256,
     "name": "Prime Keat Hong",
     "address": "Blk 253 Choa Chu Kang Avenue 1 #B1-07/10 Keat Hong Shopping Centre",
     "postal": "680253",
@@ -1792,6 +2048,7 @@
     "longitude": 103.744393648768
   },
   {
+    "index": 257,
     "name": "Prime Mahota Century Square",
     "address": "2 Tampines Central 5 #B1-08 Century Square",
     "postal": "529509",
@@ -1799,6 +2056,7 @@
     "longitude": 103.943812302253
   },
   {
+    "index": 258,
     "name": "Prime Punggol Field",
     "address": "Blk 108 Punggol Field #01-02",
     "postal": "820108",
@@ -1806,6 +2064,7 @@
     "longitude": 103.908866307025
   },
   {
+    "index": 259,
     "name": "Prime Serangoon North",
     "address": "Blk 542B Serangoon North Ave 3 #02-01",
     "postal": "552542",
@@ -1813,6 +2072,7 @@
     "longitude": 103.871416978631
   },
   {
+    "index": 260,
     "name": "Prime Woodlands",
     "address": "Blk 678 Woodlands Ave 6 #01-716",
     "postal": "730678",
@@ -1820,6 +2080,7 @@
     "longitude": 103.801293104268
   },
   {
+    "index": 261,
     "name": "Rangoon Provision Shop",
     "address": "681 Race Course Road #01-309",
     "postal": "210681",
@@ -1827,6 +2088,7 @@
     "longitude": 103.855272733514
   },
   {
+    "index": 262,
     "name": "S E Store",
     "address": "Blk 352 Jurong East St 31 #01-121",
     "postal": "600352",
@@ -1834,6 +2096,7 @@
     "longitude": 103.730400848037
   },
   {
+    "index": 263,
     "name": "Seah Geok Eng Agency",
     "address": "Blk 118 Rivervale Dr Rivervale Plaza #01-15",
     "postal": "540118",
@@ -1841,6 +2104,7 @@
     "longitude": 103.901841044122
   },
   {
+    "index": 264,
     "name": "Seah Geok Eng Upper Serangoon View",
     "address": "Blk 476D Upper Serangoon View #02-02",
     "postal": "537476",
@@ -1848,6 +2112,7 @@
     "longitude": 103.903623796196
   },
   {
+    "index": 265,
     "name": "Seah Koon Huat",
     "address": "Blk 11A Boon Tiong Rd #01-10",
     "postal": "161011",
@@ -1855,6 +2120,7 @@
     "longitude": 103.828789865335
   },
   {
+    "index": 266,
     "name": "Seah Koon Huat",
     "address": "Blk 116 Bukit Merah View #01-233",
     "postal": "151116",
@@ -1862,6 +2128,7 @@
     "longitude": 103.821532226321
   },
   {
+    "index": 267,
     "name": "Seng Yeok Chan Agency",
     "address": "Blk 338 Ang Mo Kio Ave 1 #01-1657",
     "postal": "560338",
@@ -1869,6 +2136,7 @@
     "longitude": 103.848986957428
   },
   {
+    "index": 268,
     "name": "Sheng Moh Fruits & Provision Store",
     "address": "29 Jalan Mas Puteh",
     "postal": "128632",
@@ -1876,6 +2144,7 @@
     "longitude": 103.762107337081
   },
   {
+    "index": 269,
     "name": "Sheng Siong Junction 9",
     "address": "18 Yishun Avenue 9 #02-05 to #02-10 Junction 9",
     "postal": "768897",
@@ -1883,6 +2152,7 @@
     "longitude": 103.84166098599
   },
   {
+    "index": 270,
     "name": "Sheng Siong Marsiling Mall",
     "address": "Blk 4 Woodlands Street 12 #02-61",
     "postal": "738623",
@@ -1890,6 +2160,7 @@
     "longitude": 103.77988189197
   },
   {
+    "index": 271,
     "name": "Sheng Siong Tanglin Halt",
     "address": "Blk 88 Tanglin Halt Rd #01-10",
     "postal": "141088",
@@ -1897,6 +2168,7 @@
     "longitude": 103.798174301286
   },
   {
+    "index": 272,
     "name": "Singapore Turf Club Majestic",
     "address": "80 Eu Tong Sen Street",
     "postal": "059810",
@@ -1904,6 +2176,7 @@
     "longitude": 103.843197416212
   },
   {
+    "index": 273,
     "name": "Soh Choo Trading",
     "address": "Blk 19 Marsiling Lane #01-303",
     "postal": "730019",
@@ -1911,6 +2184,7 @@
     "longitude": 103.777294228046
   },
   {
+    "index": 274,
     "name": "Springdale Garments Co",
     "address": "Blk 408 Ang Mo Kio Ave 10 #01-795",
     "postal": "560408",
@@ -1918,6 +2192,7 @@
     "longitude": 103.854587757902
   },
   {
+    "index": 275,
     "name": "Superbowl Jurong Pte Ltd",
     "address": "3 Yuan Ching Road",
     "postal": "618642",
@@ -1925,6 +2200,7 @@
     "longitude": 103.725247131607
   },
   {
+    "index": 276,
     "name": "Tampines Trading",
     "address": "Blk 828 Tampines St 81 #01-234",
     "postal": "520828",
@@ -1932,6 +2208,7 @@
     "longitude": 103.934588111014
   },
   {
+    "index": 277,
     "name": "Tampines Trading 824",
     "address": "Blk 824 Tampines St 81 #01-14",
     "postal": "520824",
@@ -1939,6 +2216,7 @@
     "longitude": 103.932714940894
   },
   {
+    "index": 278,
     "name": "Tan Ah Leck Trading",
     "address": "Blk 151 Bukit Batok Street 11 #01-254",
     "postal": "650151",
@@ -1946,6 +2224,7 @@
     "longitude": 103.744211483999
   },
   {
+    "index": 279,
     "name": "Tan Boon Tin Agency",
     "address": "Blk 56 Marine Terrace #01-253",
     "postal": "440056",
@@ -1953,6 +2232,7 @@
     "longitude": 103.91537607851
   },
   {
+    "index": 280,
     "name": "Tan Kai Huat Provision Shop",
     "address": "Blk 123 Hougang Ave 1 #01-1408",
     "postal": "530123",
@@ -1960,6 +2240,7 @@
     "longitude": 103.88625894527
   },
   {
+    "index": 281,
     "name": "Tan Wee Fong Trading",
     "address": "Blk 24 Bendemeer Rd #01-529",
     "postal": "330024",
@@ -1967,6 +2248,7 @@
     "longitude": 103.862324355167
   },
   {
+    "index": 282,
     "name": "Tay Ah Tho Trading",
     "address": "Blk 768 Woodlands Ave 6 Woodlands Mart #01-21",
     "postal": "730768",
@@ -1974,6 +2256,7 @@
     "longitude": 103.798140993891
   },
   {
+    "index": 283,
     "name": "Tay Sui Lan Agency",
     "address": "11 Collyer Quay The Arcade #02-13",
     "postal": "049317",
@@ -1981,6 +2264,7 @@
     "longitude": 103.852068574086
   },
   {
+    "index": 284,
     "name": "Teo Khar Bee Agency",
     "address": "Blk 84 Redhill Lane #01-356",
     "postal": "150084",
@@ -1988,6 +2272,7 @@
     "longitude": 103.818851050403
   },
   {
+    "index": 285,
     "name": "Teo Sook Cheng Agency",
     "address": "Blk 293 Yishun St 22 #01-225",
     "postal": "760293",
@@ -1995,6 +2280,7 @@
     "longitude": 103.837605235958
   },
   {
+    "index": 286,
     "name": "Tong Aik Huat",
     "address": "Blk 685 Hougang St 61 #01-160",
     "postal": "530685",
@@ -2002,6 +2288,7 @@
     "longitude": 103.886022660348
   },
   {
+    "index": 287,
     "name": "Tuas View",
     "address": "71 Pioneer Road Tuas Amenity Centre #02-02/03",
     "postal": "639591",
@@ -2009,6 +2296,7 @@
     "longitude": 103.652226413169
   },
   {
+    "index": 288,
     "name": "Tuck Lee Long",
     "address": "Blk 159 Ang Mo Kio Ave 4 #01-536",
     "postal": "560159",
@@ -2016,6 +2304,7 @@
     "longitude": 103.839858129785
   },
   {
+    "index": 289,
     "name": "U Stars Sumang Walk",
     "address": "Blk 218 Sumang Walk #01-01",
     "postal": "820218",
@@ -2023,6 +2312,7 @@
     "longitude": 103.89538702242
   },
   {
+    "index": 290,
     "name": "U Stars Supermarket Keat Hong Link",
     "address": "Blk 817 Keat Hong Link, #01-14",
     "postal": "680817",
@@ -2030,6 +2320,7 @@
     "longitude": 103.749700036701
   },
   {
+    "index": 291,
     "name": "Uni-Foto Pte Ltd",
     "address": "400 Orchard Rd Orchard Towers #B1-11",
     "postal": "238875",
@@ -2037,6 +2328,7 @@
     "longitude": 103.82921413868
   },
   {
+    "index": 292,
     "name": "Vitatron & Medical Co",
     "address": "60 Smith St",
     "postal": "058963",
@@ -2044,6 +2336,7 @@
     "longitude": 103.8433288831
   },
   {
+    "index": 293,
     "name": "Wanrise Trading",
     "address": "Blk 47 Sims Place #01-177",
     "postal": "380047",
@@ -2051,6 +2344,7 @@
     "longitude": 103.879025382959
   },
   {
+    "index": 294,
     "name": "Wong Teck Chow Enterprise (Pte) Ltd",
     "address": "390 Victoria St #01-33 Village Hotel Bugis",
     "postal": "188061",
@@ -2058,6 +2352,7 @@
     "longitude": 103.857804288546
   },
   {
+    "index": 295,
     "name": "Xie Sheng Dept Service Co",
     "address": "Blk 632 Bedok Reservoir Rd #01-820",
     "postal": "470632",
@@ -2065,6 +2360,7 @@
     "longitude": 103.914145075793
   },
   {
+    "index": 296,
     "name": "Yeo Soon Huat",
     "address": "Blk 70 Lor 4 Toa Payoh #01-347",
     "postal": "310070",
