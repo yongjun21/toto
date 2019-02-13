@@ -38,3 +38,11 @@ exports._pick = function (obj, keys) {
   })
   return picked
 }
+
+exports._omit = function (obj, keys) {
+  const omited = Object.assign({}, obj)
+  keys.forEach(key => {
+    delete omited[key]
+  })
+  return omited
+}

@@ -1,3 +1,5 @@
+const {_omit} = require('./helpers')
+
 function getOdds (available, drawed, picked = drawed) {
   const odds = {}
   const combinations = combi(available, picked)
@@ -36,6 +38,7 @@ function getPayout (group, available, drawed, picked) {
 class Expectation {
   constructor () {
     this.events = []
+    this.events.list = list
   }
 
   add (event, probability, outcome, extras = {}) {
@@ -52,12 +55,26 @@ class Expectation {
     return this.events.reduce((sum, row) => sum + row.expected, 0)
   }
 
+  transform (fn) {
+    const expectation = new Expectation()
+    this.events.forEach(row => {
+      const extras = _omit(row, ['event', 'probability', 'outcome', 'expected'])
+      expectation.add(
+        row.event,
+        row.probability,
+        row.outcome instanceof Expectation ? row.outcome.transform(fn) : fn(row.outcome),
+        extras
+      )
+    })
+    return expectation
+  }
+
   [require('util').inspect.custom] () {
     return this.value
   }
 
   toJSON () {
-    return this.events
+    return this.events.list()
   }
 }
 
@@ -85,6 +102,15 @@ class BinomialInverseMoment extends Expectation {
       BinomialInverseMoment.memo[this.shape] = this.probabilities
     }
     this.events = this.asEvents(Math.floor(base / (Math.log2(n) + 1)))
+  }
+
+  transform (fn) {
+    return new BinomialInverseMoment(
+      this.base instanceof Expectation ? this.base.transform(fn) : fn(this.base),
+      this.shape[0],
+      this.shape[1],
+      this.offset
+    )
   }
 
   asEvents (outcomeWidth, probabilityWidth = 0.01) {
@@ -119,24 +145,117 @@ class BinomialInverseMoment extends Expectation {
     }, {})
     const events = Object.values(secondPass).sort((a, b) => a.event[0] - b.event[0])
     events.forEach(row => {
-      row.event = row.event[0] === row.event[1] ? `${row.event[0]} shares`
-                : row.event[1] == null ? `>${row.event[0] - 1} shares`
-                : `${row.event[0]}-${row.event[1]} shares`
-      row.outcome = row.expected / row.probability
+      if (events.length === 1) {
+        const expectedShare = this.shape[0] * this.shape[1] + this.offset
+        row.event = `~${Math.round(expectedShare)} shares`
+        row.probability = 1
+      } else {
+        row.event = row.event[0] === row.event[1] ? `${row.event[0]} shares`
+                  : row.event[1] == null ? `>${row.event[0] - 1} shares`
+                  : `${row.event[0]}-${row.event[1]} shares`
+      }
+      const effectiveOutcome = row.expected / row.probability
+      row.outcome = this.base instanceof Expectation
+                  ? this.base.transform(outcome => outcome / this.baseValue * effectiveOutcome)
+                  : effectiveOutcome
     })
-    if (events.length === 1) {
-      const expectedShare = this.shape[0] * this.shape[1] + this.offset
-      events[0].event = `~${Math.round(expectedShare)} shares`
-      events[0].probability = 1
-      events[0].outcome = events.expected
-    }
+    events.list = list
     return events
   }
 }
 BinomialInverseMoment.memo = {}
 
 function list () {
+  const concurrents = this
+    .filter(row => row.probability >= 1)
+    .map(row => {
+      let events
+      if (row.outcome instanceof Expectation) {
+        events = row.outcome.events.list().map(r => ({
+          event: `[${row.event}](${r.event})`,
+          probability: r.probability,
+          outcome: r.outcome
+        }))
+      } else {
+        events = [{
+          event: row.probability > 1 ? `[${row.event}]` : row.event,
+          probability: 1,
+          outcome: row.outcome
+        }]
+      }
+      events.forEach(item => {
+        if (row.probability > 1) {
+          item.event = `${row.probability}${item.event}`
+          item.outcome *= row.probability
+        }
+      })
+      return events
+    })
 
+  if (concurrents.length === this.length) {
+    return getExpandedForm(concurrents, reduce)
+  }
+
+  const mutuallyExclusive = this
+    .filter(event => event.probability < 1)
+    .reduce((events, row) => {
+      if (row.outcome instanceof Expectation) {
+        row.outcome.events.list().forEach(r => {
+          events.push({
+            event: `${row.event} * ${r.event.includes(' + ') ? `(${r.event})` : r.event}`,
+            probability: row.probability * r.probability,
+            outcome: r.outcome
+          })
+        })
+      } else {
+        events.push(row)
+      }
+      return events
+    }, [])
+
+  const residualProbability = 1 - mutuallyExclusive
+    .reduce((sum, item) => sum + item.probability, 0)
+  if (concurrents.length > 0 && residualProbability > 0.000001) {
+    mutuallyExclusive.push({
+      event: null,
+      probability: residualProbability,
+      outcome: 0
+    })
+  }
+
+  return getExpandedForm([...concurrents, mutuallyExclusive], reduce)
+
+  function reduce (a, b) {
+    return {
+      event: b.event == null ? `${a.event}` : `${a.event} + ${b.event}`,
+      probability: a.probability * b.probability,
+      outcome: a.outcome + b.outcome
+    }
+  }
+}
+
+function getExpandedForm (sets, reduce) {
+  let expandedForm = sets.pop() || []
+  while (sets.length > 0) {
+    const factor = sets.pop()
+    expandedForm = factor.reduce((arr, a) => {
+      return arr.concat(expandedForm.map(b => reduce(a, b)))
+    }, [])
+  }
+  return expandedForm
+}
+
+function * poissonGenerator (rate) {
+  let eventTime = Math.log(Math.random()) / (-rate)
+  while (true) {
+    let eventCount = 0
+    while (eventTime < 1) {
+      eventCount++
+      eventTime += Math.log(Math.random()) / (-rate)
+    }
+    eventTime -= 1
+    yield eventCount
+  }
 }
 
 function combi (n, r) {
@@ -153,3 +272,4 @@ exports.getPayouts = getPayouts
 exports.combi = combi
 exports.Expectation = Expectation
 exports.BinomialInverseMoment = BinomialInverseMoment
+exports.poissonGenerator = poissonGenerator

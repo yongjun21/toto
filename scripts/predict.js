@@ -23,7 +23,7 @@ const ALLOCATION = {
   }
 }
 
-const test = payoutFactory(STRUCTURE['496'], ALLOCATION['496'], 0.5)(3000000, {}, false, 'System 7')
+const test = payoutFactory(STRUCTURE['496'], ALLOCATION['496'], 0.5)(3000000, {}, true, 'System 7')
 console.log(test)
 fs.writeFileSync('data/tmp.json', JSON.stringify(test, null, 2))
 
@@ -57,7 +57,7 @@ function getExpectedOutcome (payouts, stakes, odds, prizes, isCascade) {
     const expectedShares = payouts[group] + stakes * odds[group]
     if ('pooled' in prizes[group]) {
       let base = prizes[group].pooled
-      if (isCascade && topGroup != null && topGroup !== 'Group 1') {
+      if (isCascade && group === topGroup && topGroup !== 'Group 1') {
         const cascadeOdd = Object.keys(odds)
           .filter(group => group < topGroup)
           .reduce((prob, group) => prob * Math.pow(1 - odds[group], stakes), 1)
