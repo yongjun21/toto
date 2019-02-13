@@ -17,6 +17,8 @@ const historical = {
   data: []
 }
 
+const hongbaos = []
+
 const outletIndices = outlets.data.reduce((indices, row) => {
   indices[row.name + ' - ' + row.address] = row.index
   return indices
@@ -39,7 +41,29 @@ data.forEach(draw => {
     row.group = row.group.slice(-1)
     historical.data.push(Object.assign(row, base))
   })
+
+  if (draw.isHongbao) {
+    hongbaos.push([
+      draw.drawNo,
+      draw.drawDate,
+      draw.winningNumbers[0],
+      draw.winningNumbers[1],
+      draw.winningNumbers[2],
+      draw.winningNumbers[3],
+      draw.winningNumbers[4],
+      draw.winningNumbers[5],
+      draw.additionalNumber,
+      draw.winningShares['Group 1'].numberOfShares,
+      draw.winningShares['Group 1'].shareAmount
+    ])
+  }
 })
+
+hongbaos.unshift([
+  'draw', 'draw_date',
+  'win_1', 'win_2', 'win_3', 'win_4', 'win_5', 'win_6', 'additional',
+  'winners', 'share_amount'
+])
 
 closed.data = [...closedOutlets].sort().map((outlet, index) => {
   const [first, ...rest] = outlet.split(' - ')
@@ -73,6 +97,13 @@ googleapis.sheets.spreadsheets.values.upload({
   spreadsheetId: '1rkLhyuS7u9nV-Cq8XpFkAnvShpKFOwPJBDGTmsGrf9E',
   range: 'Historical!A1:H',
   resource: historical,
+  valueInputOption: 'USER_ENTERED'
+}).then(res => console.log(res.data)).catch(console.error)
+
+googleapis.sheets.spreadsheets.values.upload({
+  spreadsheetId: '1rkLhyuS7u9nV-Cq8XpFkAnvShpKFOwPJBDGTmsGrf9E',
+  range: 'HongBaos!A1:K',
+  resource: {values: hongbaos},
   valueInputOption: 'USER_ENTERED'
 }).then(res => console.log(res.data)).catch(console.error)
 
