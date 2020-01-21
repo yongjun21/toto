@@ -17,7 +17,7 @@ const cipher = [
   ['w', 'x', 'y', 'z', '0', '1', '2', '3', '4', '5']
 ]
 
-scrapRange(1282, 3500)
+scrapRange(1282, 3600)
 
 function scrapRange (from, to) {
   const draws = []
@@ -27,7 +27,7 @@ function scrapRange (from, to) {
   promiseMap(draws, scrap, {concurrency: 10}).then(results => {
     const filtered = results.filter(row => row != null)
     console.log(filtered.length)
-    fs.writeFileSync(`data/scrapped.json`, JSON.stringify(filtered, null, 2))
+    fs.writeFileSync('data/scrapped.json', JSON.stringify(filtered, null, 2))
   })
 }
 

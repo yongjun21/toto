@@ -20,14 +20,10 @@ exports.promiseMap = function (iterable, mapper, options) {
     if (next.done) return null
     const i = index++
     const mapped = mapper(next.value, i)
-    if (mapped instanceof Promise) {
-      return mapped.then(resolved => {
-        results[i] = resolved
-      }).then(wrappedMapper)
-    } else {
-      results[i] = mapped
+    return Promise.resolve(mapped).then(resolved => {
+      results[i] = resolved
       return wrappedMapper()
-    }
+    })
   }
 }
 

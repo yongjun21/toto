@@ -57,7 +57,7 @@ draws.unshift([
 ])
 
 const oddsNpayouts = {
-  fields: ['format', 'bet_type', 'match', 'probability', 'odds', 'Group 1', 'Group 2', 'Group 3', 'Group 4', 'Group 5', 'Group 6', 'Group 7'],
+  fields: ['format', 'bet_type', 'stakes', 'match', 'probability', 'odds', 'Group 1', 'Group 2', 'Group 3', 'Group 4', 'Group 5', 'Group 6', 'Group 7'],
   data: []
 }
 
@@ -68,6 +68,7 @@ Object.keys(structure).forEach(format => {
       const row = {
         format,
         bet_type: betType,
+        stakes: structure[format][betType].stakes,
         match,
         probability: matches[match].probability,
         odds: matches[match].odds
@@ -105,7 +106,7 @@ googleapis.sheets.spreadsheets.values.upload({
 
 googleapis.sheets.spreadsheets.values.upload({
   spreadsheetId: '19mEjQL-oHPpdruFbMYGRt685aiA9oZGWRZIyiu0vm7k',
-  range: 'Odds & Payouts!A1:L',
+  range: 'Odds & Payouts!A1:M',
   resource: oddsNpayouts,
   valueInputOption: 'USER_ENTERED'
 }).then(res => console.log(res.data)).catch(console.error)

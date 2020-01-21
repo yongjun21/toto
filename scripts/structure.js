@@ -24,7 +24,7 @@ const structure = {
 }
 
 function getStructure (available, drawed, picked = drawed) {
-  const cost = combi(picked, drawed)
+  const stakes = combi(picked, drawed)
   const odds = getOdds(available, drawed, picked)
   const payouts = getPayouts(available, drawed, picked)
   return upTo => {
@@ -33,7 +33,7 @@ function getStructure (available, drawed, picked = drawed) {
       groups.push('Group ' + k)
     }
     const structure = {
-      cost,
+      stakes,
       winning_odds: null,
       win_something: 0,
       win_nothing: 1,

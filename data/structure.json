@@ -1,7 +1,7 @@
 {
   "456": {
     "Ordinary": {
-      "cost": 1,
+      "stakes": 1,
       "winning_odds": 321,
       "win_something": 0.003119682359614294,
       "win_nothing": 0.9968803176403858,
@@ -56,7 +56,7 @@
       }
     },
     "System 7": {
-      "cost": 7,
+      "stakes": 7,
       "winning_odds": 146,
       "win_something": 0.006837650910254427,
       "win_nothing": 0.9931623490897457,
@@ -120,7 +120,7 @@
       }
     },
     "System 8": {
-      "cost": 28,
+      "stakes": 28,
       "winning_odds": 78,
       "win_something": 0.01283042916622043,
       "win_nothing": 0.9871695708337794,
@@ -189,7 +189,7 @@
       }
     },
     "System 9": {
-      "cost": 84,
+      "stakes": 84,
       "winning_odds": 46,
       "win_something": 0.021641432872289368,
       "win_nothing": 0.9783585671277106,
@@ -260,7 +260,7 @@
       }
     },
     "System 10": {
-      "cost": 210,
+      "stakes": 210,
       "winning_odds": 30,
       "win_something": 0.03375656296813415,
       "win_nothing": 0.9662434370318658,
@@ -331,7 +331,7 @@
       }
     },
     "System 11": {
-      "cost": 462,
+      "stakes": 462,
       "winning_odds": 20,
       "win_something": 0.049580406358625304,
       "win_nothing": 0.9504195936413747,
@@ -402,7 +402,7 @@
       }
     },
     "System 12": {
-      "cost": 924,
+      "stakes": 924,
       "winning_odds": 14,
       "win_something": 0.06941838649155722,
       "win_nothing": 0.9305816135084427,
@@ -475,7 +475,7 @@
   },
   "496": {
     "Ordinary": {
-      "cost": 1,
+      "stakes": 1,
       "winning_odds": 54,
       "win_something": 0.018637545002022336,
       "win_nothing": 0.9813624549979778,
@@ -537,7 +537,7 @@
       }
     },
     "System 7": {
-      "cost": 7,
+      "stakes": 7,
       "winning_odds": 32,
       "win_something": 0.030951780257978224,
       "win_nothing": 0.9690482197420217,
@@ -610,7 +610,7 @@
       }
     },
     "System 8": {
-      "cost": 28,
+      "stakes": 28,
       "winning_odds": 21,
       "win_something": 0.04696028609072087,
       "win_nothing": 0.9530397139092789,
@@ -690,7 +690,7 @@
       }
     },
     "System 9": {
-      "cost": 84,
+      "stakes": 84,
       "winning_odds": 15,
       "win_something": 0.06674315508728089,
       "win_nothing": 0.9332568449127191,
@@ -774,7 +774,7 @@
       }
     },
     "System 10": {
-      "cost": 210,
+      "stakes": 210,
       "winning_odds": 11,
       "win_something": 0.09027063857247548,
       "win_nothing": 0.9097293614275247,
@@ -859,7 +859,7 @@
       }
     },
     "System 11": {
-      "cost": 462,
+      "stakes": 462,
       "winning_odds": 9,
       "win_something": 0.1174177349015462,
       "win_nothing": 0.8825822650984538,
@@ -944,7 +944,7 @@
       }
     },
     "System 12": {
-      "cost": 924,
+      "stakes": 924,
       "winning_odds": 7,
       "win_something": 0.1479780626404123,
       "win_nothing": 0.8520219373595876,
