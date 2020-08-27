@@ -115,11 +115,13 @@ data.shift()
 data.forEach(draw => {
   draw.consecutive = getConsecutive(draw.drawNo)
   delete draw.isCascade
+  draw.totalDistributed = 0
   draw.totalAllocated = 0
   Object.keys(draw.winningShares).forEach(group => {
     const winningShares = draw.winningShares[group]
     const totalAmount = (winningShares.numberOfShares || 1) * winningShares.shareAmount
     winningShares.allocated = totalAmount - (winningShares.snowballed || 0) - (winningShares.cascaded || 0)
+    draw.totalDistributed += winningShares.numberOfShares * winningShares.shareAmount
     draw.totalAllocated += winningShares.allocated
   })
   if (draw.drawNo < 1335) return
