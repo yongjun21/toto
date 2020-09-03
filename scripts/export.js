@@ -8,7 +8,7 @@ const data = require('../data/processed.json')
 const structure = require('../data/structure.json')
 
 const shares = {
-  fields: ['draw', 'group', 'shareAmount', 'numberOfShares', 'snowballed', 'cascaded', 'allocated'],
+  fields: ['draw', 'group', 'shareAmount', 'numberOfShares', 'snowballed', 'cascaded'],
   data: []
 }
 const outlets = {
