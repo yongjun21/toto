@@ -128,7 +128,8 @@ data.forEach(draw => {
   let prizePool = draw.winningShares['Group 2'].allocated +
                   draw.winningShares['Group 3'].allocated +
                   draw.winningShares['Group 4'].allocated
-  const hasDiscrepency = Math.abs(getDiscrepency(draw)) > 10000
+  draw.discrepency = getDiscrepency(draw)
+  const hasDiscrepency = Math.abs(draw.discrepency) > 10000
   if (draw.drawNo < 2995) {
     if (draw.isHongbao || draw.winningShares['Group 1'].allocated === 500000 || hasDiscrepency) {
       draw.prizePool = Math.round(prizePool / 0.39)

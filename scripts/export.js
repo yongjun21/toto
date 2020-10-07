@@ -2,8 +2,6 @@ const googleapis = require('@st-graphics/googleapis')
 const Papa = require('papaparse')
 const fs = require('fs')
 
-const {getDiscrepency} = require('./check')
-
 const data = require('../data/processed.json')
 const structure = require('../data/structure.json')
 
@@ -45,7 +43,7 @@ const draws = data.filter(draw => draw.drawNo >= 1335).map(draw => {
     draw.winningShares['Group 1'].snowballed || 0,
     draw.winningShares['Group 2'].snowballed || 0,
     draw.consecutive,
-    getDiscrepency(draw)
+    draw.discrepency
   ]
 })
 
