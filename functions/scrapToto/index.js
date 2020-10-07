@@ -8,43 +8,33 @@ const AWS = require('aws-sdk')
 const gzip = require('util').promisify(require('zlib').gzip)
 const s3 = new AWS.S3({ apiVersion: '2006-03-01', region: 'ap-southeast-1' })
 
-const assert = require('assert').strict
-
 const ENDPOINT = 'https://assets.yongjun.sg/toto/'
 
 exports.handler = async function () {
-  const [scrappedData, processedData] = await Promise.all([
-    axios.get(ENDPOINT + 'scrapped.json').then(res => res.data),
-    axios.get(ENDPOINT + 'data.json').then(res => res.data)
-  ])
+  const data = await axios.get(ENDPOINT + 'data.json').then(res => res.data)
 
-  let lastDraw = processedData[processedData.length - 1]
-  assert.equal(scrappedData[scrappedData.length - 1].drawNo, lastDraw.drawNo)
+  let lastDraw = data[data.length - 1]
 
   while (true) {
     try {
       const scrapped = await scrap(lastDraw.drawNo + 1)
-      scrappedData.push(scrapped)
-      await uploadS3(JSON.stringify(scrappedData), 'toto/scrapped.json')
-
       const processed = process(scrapped, lastDraw)
-      processedData.push(processed)
-      await uploadS3(JSON.stringify(processedData), 'toto/data.json')
-
-      const [drawsCSV, sharesCSV, outletsCSV] = exportCSV(processedData)
-
-      await Promise.all([
-        uploadS3(drawsCSV, 'toto/draws.csv'),
-        uploadS3(sharesCSV, 'toto/shares.csv'),
-        uploadS3(outletsCSV, 'toto/outlets.csv')
-      ])
-
+      data.push(processed)
       lastDraw = processed
     } catch (err) {
       if (err.message === '404') break
       else throw err
     }
   }
+
+  const [drawsCSV, sharesCSV, outletsCSV] = exportCSV(data)
+
+  return Promise.all([
+    uploadS3(JSON.stringify(data), 'toto/data.json'),
+    uploadS3(drawsCSV, 'toto/draws.csv'),
+    uploadS3(sharesCSV, 'toto/shares.csv'),
+    uploadS3(outletsCSV, 'toto/outlets.csv')
+  ])
 }
 
 function uploadS3 (data, filename) {
