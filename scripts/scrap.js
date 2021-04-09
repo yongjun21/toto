@@ -17,7 +17,7 @@ const cipher = [
   ['w', 'x', 'y', 'z', '0', '1', '2', '3', '4', '5']
 ]
 
-scrapRange(1282, 3650)
+scrapRange(1282, 3750)
 
 function scrapRange (from, to) {
   const draws = []
