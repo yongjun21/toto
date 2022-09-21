@@ -14552,3 +14552,1644 @@ draw,group,outlet,quickpick,bet_type
 3649,Group 2,Ng Teo Guan Self Service - Blk 301 Ubi Ave 1 #01-251,0,Ordinary Entry
 3649,Group 2,NTUC FP Bukit Merah - Blk 166 Bukit Merah Central #02-3531,0,Ordinary Entry
 3649,Group 2,Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,0,Ordinary Entry
+3650,Group 1,Prime Keat Hong - Blk 253 Choa Chu Kang Avenue 1 #B1-07/10 Keat Hong Shopping Centre,0,System 7 Entry
+3650,Group 2,Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,Ordinary Entry
+3650,Group 2,Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,Ordinary Entry
+3650,Group 2,Singapore Pools Ang Mo Kio N6 Branch - Blk 630 Ang Mo Kio Ave 4 #01-968,0,System 9 Entry
+3650,Group 2,Cold Storage Northpoint - 930 Yishun Ave 2 #B1-09/12 Northpoint Shopping Centre,0,System 7 Entry
+3650,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3650,Group 2,Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,0,Ordinary Entry
+3651,Group 2,Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,System 7 Entry
+3651,Group 2,Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,Ordinary Entry
+3651,Group 2,Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,0,Ordinary Entry
+3652,Group 2,NTUC FP Yew Tee - 21 Choa Chu Kang North 6 #B1-01 to 07 Yew Tee Point,1,System 7 Entry
+3652,Group 2,"Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,Ordinary Entry
+3653,Group 2,Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,System 7 Entry
+3653,Group 2,Sheng Siong Junction 9 - 18 Yishun Avenue 9 #02-05 to #02-10 Junction 9,1,Ordinary Entry
+3654,Group 1,Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,System 7 Entry
+3654,Group 1,Singapore Pools Chai Chee Branch - Blk 36 Chai Chee Ave #01-167,0,System 9 Entry
+3654,Group 2,Li Thoe Trading - Blk 119 Aljunied Ave 2 #01-78,1,System 7 Entry
+3654,Group 2,Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,System 7 Entry
+3654,Group 2,Jurong East Betting Centre - Lottery Lobby (Public) - Blk 352 Jurong East St 31 #01-129,1,Ordinary Entry
+3654,Group 2,Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,Ordinary Entry
+3654,Group 2,Singapore Pools Pasir Ris N2 Branch - Blk 259 Pasir Ris St 21 Loyang Point #02-29,1,Ordinary Entry
+3654,Group 2,"Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,Ordinary Entry
+3654,Group 2,NTUC FP Punggol Plaza - Blk 168 Punggol Field Rd Punggol Plaza #03-01,0,Ordinary Entry
+3654,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3654,Group 2,• Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,iTOTO - System 12
+3654,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3654,Group 2,• 7-Eleven Yishun Ring Road - Blk 103 Yishun Ring Road #01-69,1,iTOTO - System 12
+3654,Group 2,• Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,iTOTO - System 12
+3654,Group 2,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3654,Group 2,• Cold Storage Northpoint - 930 Yishun Ave 2 #B1-09/12 Northpoint Shopping Centre,1,iTOTO - System 12
+3654,Group 2,• Everstream Trading - Blk 283 Bukit Batok East Avenue 3 #01-281,1,iTOTO - System 12
+3654,Group 2,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3654,Group 2,• Kim Chwee Trading - Blk 256 Jurong East Street 24 #01-385,1,iTOTO - System 12
+3654,Group 2,• Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,1,iTOTO - System 12
+3654,Group 2,"• NTUC FP Hillion Mall - 17 Petir Road, Hillion Mall, #B2-67",1,iTOTO - System 12
+3654,Group 2,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3654,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3654,Group 2,• NTUC FP Toa Payoh HDB Centre - Blk 500 Lor 6 Toa Payoh HDB Centre #01-33,1,iTOTO - System 12
+3654,Group 2,• Prime Serangoon North - Blk 542B Serangoon North Ave 3 #02-01,1,iTOTO - System 12
+3654,Group 2,• Sheng Siong Junction 9 - 18 Yishun Avenue 9 #02-05 to #02-10 Junction 9,1,iTOTO - System 12
+3654,Group 2,• Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,1,iTOTO - System 12
+3654,Group 2,• Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,iTOTO - System 12
+3654,Group 2,• Singapore Pools Woodlands N8 Branch - Blk 883 Woodlands St 82 #02-468,1,iTOTO - System 12
+3655,Group 1,Sheng Siong Tanglin Halt - Blk 88 Tanglin Halt Rd #01-10,1,System 7 Entry
+3655,Group 2,Golden Lagoon Trading - Blk 136 Marsiling Road #01-2182,1,System 7 Entry
+3655,Group 2,Singapore Pools Chin Swee Branch - Blk 52 Chin Swee Rd #01-65/69,1,Ordinary Entry
+3655,Group 2,Ng Teo Guan Self Service - Blk 301 Ubi Ave 1 #01-241,0,Ordinary Entry
+3656,Group 2,Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,System 7 Entry
+3656,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,0,Ordinary Entry
+3657,Group 1,Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,System 9 Entry
+3657,Group 2,Cold Storage Northpoint - 930 Yishun Ave 2 #B1-09/12 Northpoint Shopping Centre,1,System 7 Entry
+3657,Group 2,Xie Sheng Dept Service Co - Blk 632 Bedok Reservoir Rd #01-820,1,Ordinary Entry
+3658,Group 1,Cheers Hougang Ave 3 - Blk 23 Hougang Ave 3 #01-281,0,System 7 Entry
+3658,Group 1,NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,0,System 7 Entry
+3658,Group 1,Ng Nam Thye Trading - Ang Mo Kio Ave 3 - 51 Ang Mo Kio Avenue 3 #01-01B,0,Ordinary Entry
+3658,Group 1,NTUC FP Lot 1 Shoppers Mall - 21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05,0,Ordinary Entry
+3658,Group 1,Singapore Pools Ang Mo Kio N4 Branch - Blk 447 Ang Mo Kio Ave 10 #01-1685,0,Ordinary Entry
+3659,Group 1,"Singapore Pools IMM Branch - 2 Jurong East St 21 #02-63, IMM Building",1,System 7 Entry
+3659,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3660,Group 2,Superbowl Jurong Pte Ltd - 3 Yuan Ching Road,1,System 7 Entry
+3660,Group 2,Prime Serangoon North - Blk 542B Serangoon North Ave 3 #02-01,1,Ordinary Entry
+3661,Group 2,Singapore Pools Yishun N7 Branch - Blk 761 Yishun St 72 #01-340,1,System 8 Entry
+3662,Group 2,Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,System 7 Entry
+3662,Group 2,Nalayanee Trading Enterprise - 127 Upp Paya Lebar Rd,1,System 7 Entry
+3662,Group 2,Singapore Pools Teban Gardens Branch - Blk 37 Teban Gardens Rd #01-308,0,System 7 Entry
+3662,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3662,Group 2,• 7-Eleven Eunos Crescent - Blk 1A Eunos Crescent #01-2469/2471,1,iTOTO - System 12
+3662,Group 2,• 7-Eleven Sin Ming - 244H Upp Thomson Rd,1,iTOTO - System 12
+3662,Group 2,• 7-Eleven Tai Thong Crescent - 27 Tai Thong Crescent,1,iTOTO - System 12
+3662,Group 2,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3662,Group 2,• Giant Pioneer Mall - Blk 638 Jurong West Street 61 Pioneer Mall #03-01,1,iTOTO - System 12
+3662,Group 2,• Giant Sunshine Place - 475 Choa Chu Kang Ave 3 Sunshine Place #01-01/10,1,iTOTO - System 12
+3662,Group 2,• NTUC FP Clementi Avenue 3 - Blk 451 Clementi Avenue 3 #01-307,1,iTOTO - System 12
+3662,Group 2,"• NTUC FP Tai Seng - 18 Tai Seng Street, Mapletree 18 #B1-13",1,iTOTO - System 12
+3662,Group 2,• NTUC FP Tampines St 83 - Blk 866A #01-K1 Tampines St 83,1,iTOTO - System 12
+3662,Group 2,• NTUC FP Yishun Ring Rd - Blk 849 Yishun Ring Rd #01-3701/3703,1,iTOTO - System 12
+3662,Group 2,• Singapore Pools 88 Circuit Rd Branch - Blk 88 Circuit Rd #01-961,1,iTOTO - System 12
+3662,Group 2,• Singapore Pools Bishan N2 Branch - Blk 279 Bishan St 24 #01-52,1,iTOTO - System 12
+3662,Group 2,• Singapore Pools Hougang N3 Branch - Blk 322 Hougang Ave 5 #01-70,1,iTOTO - System 12
+3662,Group 2,• Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,iTOTO - System 12
+3662,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3662,Group 2,• Xie Sheng Dept Service Co - Blk 632 Bedok Reservoir Rd #01-820,1,iTOTO - System 12
+3663,Group 1,NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,System 7 Entry
+3663,Group 1,Singapore Pools Anchorvale Rd Branch - Blk 308 Anchorvale Rd #01-05,1,Ordinary Entry
+3663,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,iTOTO - System 12
+3663,Group 1,• NTUC FP Yishun - 301 Yishun Ave 2 Yishun MRT Station #01-02,1,iTOTO - System 12
+3663,Group 1,• 7-Eleven McCallum Street - 3 McCallum Street,1,iTOTO - System 12
+3663,Group 1,• Chua Yan Kee - Blk 49 Tanglin Halt Road #01-349,1,iTOTO - System 12
+3663,Group 1,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3663,Group 1,• Giant Beauty World - 144 Upper Bukit Timah Road Beauty World Centre #B1-01,1,iTOTO - System 12
+3663,Group 1,• Golden Lagoon Trading - Blk 136 Marsiling Road #01-2182,1,iTOTO - System 12
+3663,Group 1,• NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,iTOTO - System 12
+3663,Group 1,• NTUC FP Lot 1 Shoppers Mall - 21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools 64 Circuit Rd Branch - Blk 64 Circuit Rd #01-355,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Everton Park Branch - Blk 7 Everton Park #01-15,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Geylang Bahru Branch - Blk 57 Geylang Bahru #01-3503,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Lorong Lew Lian Branch - Blk 2 Lor Lew Lian #01-46,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Tampines N4 Branch - Blk 481 Tampines St 44 #01-277,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,iTOTO - System 12
+3663,Group 1,• Singapore Pools Woodlands N3 Branch - Blk 305 Woodlands St 31 #01-77,1,iTOTO - System 12
+3663,Group 1,• Soh Choo Trading - Blk 19 Marsiling Lane #01-303,1,iTOTO - System 12
+3663,Group 1,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3663,Group 1,• Tan Kai Huat Provision Shop - Blk 123 Hougang Ave 1 #01-1408,1,iTOTO - System 12
+3663,Group 1,"• U Stars Supermarket Keat Hong Link - Blk 817 Keat Hong Link, #01-14",1,iTOTO - System 12
+3663,Group 2,Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,System 9 Entry
+3663,Group 2,NTUC FP Kallang Bahru - Blk 71 Kallang Bahru #01-529,1,System 8 Entry
+3663,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3663,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,1,System 7 Entry
+3663,Group 2,Jake Merchandise Associates - Blk 503 Tampines Central 1 #01-283,1,Ordinary Entry
+3663,Group 2,Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,Ordinary Entry
+3663,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3663,Group 2,"• Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,iTOTO - System 12
+3663,Group 2,• Everbright Services - Blk 108 Depot Road #01-17,1,iTOTO - System 12
+3663,Group 2,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3663,Group 2,"• Giant Paya Lebar Square - 60 Paya Lebar Road, Paya Lebar Square #B1-01/05",1,iTOTO - System 12
+3663,Group 2,• Giant Sunshine Place - 475 Choa Chu Kang Ave 3 Sunshine Place #01-01/10,1,iTOTO - System 12
+3663,Group 2,• Kwek Lee Eng Agency - 200 Jln Sultan Textile Centre #01-29,1,iTOTO - System 12
+3663,Group 2,• Nan Huat Wine Store - Blk 513 Bishan St 13 #01-508,1,iTOTO - System 12
+3663,Group 2,• NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,1,iTOTO - System 12
+3663,Group 2,• NTUC FP Hougang Mall - 90 Hougang Ave 10 NTUC Hougang Mall #B1-07,1,iTOTO - System 12
+3663,Group 2,• NTUC FP New Upper Changi - Blk 57 New Upp Changi Rd #01-1334/1338,1,iTOTO - System 12
+3663,Group 2,• Sheng Siong Junction 9 - 18 Yishun Avenue 9 #02-05 to #02-10 Junction 9,1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Bishan N2 Branch - Blk 279 Bishan St 24 #01-52,1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Hougang N3 Branch - Blk 322 Hougang Ave 5 #01-70,1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,iTOTO - System 12
+3663,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Tampines N4 Branch - Blk 481 Tampines St 44 #01-277,1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3663,Group 2,• Singapore Pools Yishun N7 Branch - Blk 761 Yishun St 72 #01-340,1,iTOTO - System 12
+3663,Group 2,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3663,Group 2,• Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,iTOTO - System 12
+3663,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3664,Group 1,Cheers Haig Rd - Blk 12 Haig Rd #01-333/335,1,Ordinary Entry
+3664,Group 2,Wanrise Trading - Blk 47 Sims Place #01-177,1,Ordinary Entry
+3664,Group 2,"Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",0,Ordinary Entry
+3665,Group 1,Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,System 7 Entry
+3665,Group 2,Mee Lee Cheong Pte Ltd - Blk 139 Tampines St 11 #01-88,1,System 7 Entry
+3666,Group 1,Giant Compassvale Bow - Blk 266 Compassvale Bow #01-02,1,System 7 Entry
+3666,Group 2,Hao Mart Geylang Lor 24 - 448 & 450 Geylang Road,1,Ordinary Entry
+3666,Group 2,Singapore Pools Account Betting Service - -,0,System 8 Entry
+3667,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3668,Group 1,Tan Boon Tin Agency - Blk 56 Marine Terrace #01-253,1,System 7 Entry
+3668,Group 2,Singapore Pools Tampines Mart Branch - 11 Tampines St 32 Tampines Mart #01-03,1,Ordinary Entry
+3668,Group 2,Singapore Pools Account Betting Service - -,0,System 10 Entry
+3668,Group 2,NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,0,System 7 Entry
+3668,Group 2,Seng Yeok Chan Agency - Blk 338 Ang Mo Kio Ave 1 #01-1657,0,System 7 Entry
+3668,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3668,Group 2,Soh Choo Trading - Blk 19 Marsiling Lane #01-303,0,System 7 Entry
+3668,Group 2,Everstream Trading - Blk 283 Bukit Batok East Avenue 3 #01-281,0,Ordinary Entry
+3669,Group 2,Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,System 7 Entry
+3670,Group 2,Singapore Pools Lengkok Bahru Branch - Blk 63B Lengkok Bahru #01-364,1,System 8 Entry
+3670,Group 2,Pinthely Floral Centre - 5001 Beach Road #02-35 Golden Mile Complex,1,System 7 Entry
+3670,Group 2,"Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,System 7 Entry
+3670,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,1,System 7 Entry
+3670,Group 2,Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,0,System Roll Entry
+3670,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3671,Group 2,Kim Chwee Trading - Blk 256 Jurong East Street 24 #01-385,1,Ordinary Entry
+3671,Group 2,Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,Ordinary Entry
+3671,Group 2,NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,0,System 7 Entry
+3671,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3671,Group 2,"Rangoon Betting Centre - Lottery Lobby (Public) - Blk 677 Rangoon Rd, Level 2",0,Ordinary Entry
+3671,Group 2,Singapore Pools Jurong East Branch - Blk 351 Jurong East St 31 #01-93,0,Ordinary Entry
+3672,Group 2,Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,System 12 Entry
+3672,Group 2,NTUC FP Boon Lay - Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200,1,Ordinary Entry
+3672,Group 2,Singapore Pools Beo Crescent Branch - Blk 36 Beo Crescent #01-45,1,Ordinary Entry
+3672,Group 2,Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,0,System 8 Entry
+3672,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3673,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3673,Group 2,Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,Ordinary Entry
+3674,Group 1,Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,0,Ordinary Entry
+3674,Group 2,"Rangoon Betting Centre - Lottery Lobby (Public) - Blk 677 Rangoon Rd, Level 2",1,System 7 Entry
+3674,Group 2,Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,0,System 9 Entry
+3674,Group 2,NTUC FP Yung Kuang - Blk 63-66 Yung Kuang Road #01-119/02-119,0,System 7 Entry
+3674,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3674,Group 2,Singapore Pools Chai Chee Branch - Blk 36 Chai Chee Ave #01-167,0,System 7 Entry
+3674,Group 2,Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,0,System 7 Entry
+3674,Group 2,Springdale Garments Co - Blk 408 Ang Mo Kio Ave 10 #01-795,0,Ordinary Entry
+3675,Group 2,NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,1,System 7 Entry
+3675,Group 2,Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,System 7 Entry
+3675,Group 2,Singapore Pools Jurong West N4 Branch - Blk 498 Jurong West St 41 #01-472,0,System 7 Entry
+3675,Group 2,NTUC FP Killiney Rd - 131 Killiney Rd Orchard Grand Court #01-01/02/03,0,Ordinary Entry
+3675,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3675,Group 2,• Mee Lee Cheong Pte Ltd - Blk 139 Tampines St 11 #01-88,1,iTOTO - System 12
+3675,Group 2,• 7-Eleven Tai Thong Crescent - 27 Tai Thong Crescent,1,iTOTO - System 12
+3675,Group 2,• Cheers Bedok North - Blk 539 Bedok North St 3 #01-625,1,iTOTO - System 12
+3675,Group 2,• Chong Hoe Tong - Blk 21 Lor 7 Toa Payoh #01-290,1,iTOTO - System 12
+3675,Group 2,• Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,iTOTO - System 12
+3675,Group 2,• Metro Woodlands - 1 Woodlands Square Causeway Point #01-18/19,1,iTOTO - System 12
+3675,Group 2,• NTUC FP Bedok North St 1 - Blk 212 Bedok North St 1 #01-147,1,iTOTO - System 12
+3675,Group 2,• NTUC FP Boon Lay - Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200,1,iTOTO - System 12
+3675,Group 2,• NTUC FP Jurong Point - 1 Jurong West Central 2 Jurong Point #B1-09,1,iTOTO - System 12
+3675,Group 2,• NTUC FP Lot 1 Shoppers Mall - 21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05,1,iTOTO - System 12
+3675,Group 2,• NTUC FP Marine Parade - 6 Marine Parade Central,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Beo Crescent Branch - Blk 36 Beo Crescent #01-45,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Fajar Rd Branch - Blk 445 Fajar Rd Fajar Shopping Centre #02-540,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Jurong East Branch - Blk 351 Jurong East St 31 #01-93,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Pasir Ris N2 Branch - Blk 259 Pasir Ris St 21 Loyang Point #02-29,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Woodlands N5 Branch - Blk 548 Woodlands Dr 44 Vista Point #02-04,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Woodlands N8 Branch - Blk 883 Woodlands St 82 #02-468,1,iTOTO - System 12
+3675,Group 2,• Singapore Pools Yishun N2 Branch - Blk 256 Yishun Ring Rd #01-1001,1,iTOTO - System 12
+3675,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3676,Group 1,NTUC FP Havelock Road - Blk 50 Havelock Road #01-755,0,Ordinary Entry
+3676,Group 2,Singapore Pools Clementi N3 Branch - Blk 325 Clementi Ave 5 #01-145,0,System 9 Entry
+3676,Group 2,NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,0,System 8 Entry
+3676,Group 2,Sheng Siong Junction 9 - 18 Yishun Avenue 9 #02-05 to #02-10 Junction 9,0,System 8 Entry
+3676,Group 2,Singapore Pools Account Betting Service - -,0,System 8 Entry
+3676,Group 2,Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,0,System 8 Entry
+3676,Group 2,Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,0,System 7 Entry
+3676,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3676,Group 2,Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,0,Ordinary Entry
+3677,Group 2,Singapore Pools Jurong West N4 Branch - Blk 498 Jurong West St 41 #01-472,1,System 7 Entry
+3677,Group 2,Singapore Pools Ang Mo Kio N2A Branch - Blk 226A Ang Mo Kio Ave 1 #01-625,1,Ordinary Entry
+3677,Group 2,Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,Ordinary Entry
+3677,Group 2,Seng Yeok Chan Agency - Blk 338 Ang Mo Kio Ave 1 #01-1657,0,Ordinary Entry
+3678,Group 2,NTUC FP Lot 1 Shoppers Mall - 21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05,1,Ordinary Entry
+3678,Group 2,Singapore Pools Bukit Panjang Branch - Blk 257 Bangkit Rd #01-49,1,Ordinary Entry
+3678,Group 2,Wanrise Trading - Blk 47 Sims Place #01-177,0,System 7 Entry
+3678,Group 2,Wanrise Trading - Blk 47 Sims Place #01-177,0,Ordinary Entry
+3679,Group 1,Cheers Hougang Central - Blk 810 Hougang Central #01-214,0,System 8 Entry
+3679,Group 2,"NTUC FP Parkway Parade - 80 Marine Parade Rd #03-28, Parkway Parade",1,System 7 Entry
+3679,Group 2,NTUC FP Hougang St 21 - Blk 202 Hougang St 21 #01-00,1,Ordinary Entry
+3679,Group 2,Seah Koon Huat (Boon Tiong Rd) - Blk 11A Boon Tiong Rd #01-10,1,Ordinary Entry
+3680,Group 2,"Cheng Chew Wah Agency (Bedok South) - Blk 17 Bedok South Road, #01-583",1,System 7 Entry
+3680,Group 2,"Cheng Chew Wah Agency (Bedok South) - Blk 17 Bedok South Road, #01-583",1,System 7 Entry
+3680,Group 2,Singapore Pools Great World City Branch - 1 Kim Seng Promenade #B1-127 Great World City,1,Ordinary Entry
+3681,Group 2,Seah Geok Eng Agency - Blk 118 Rivervale Dr Rivervale Plaza #01-15,1,System 8 Entry
+3681,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3681,Group 2,Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,Ordinary Entry
+3681,Group 2,Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,Ordinary Entry
+3681,Group 2,"Giant Paya Lebar Square - 60 Paya Lebar Road, Paya Lebar Square #B1-01/05",0,System 8 Entry
+3682,Group 2,Tuck Lee Long - Blk 159 Ang Mo Kio Ave 4 #01-536,1,Ordinary Entry
+3682,Group 2,NTUC FP Tampines Mall - 4 Tampines Central 5 Tampines Mall #B1-12,0,System 7 Entry
+3683,Group 1,Singapore Pools Suntec City - 3 Temasek Boulevard #B1-143 Suntec City Mall,1,System 7 Entry
+3683,Group 2,Giant Beauty World - 144 Upper Bukit Timah Road Beauty World Centre #B1-01,1,System 9 Entry
+3683,Group 2,Singapore Pools Account Betting Service - -,1,System 8 Entry
+3683,Group 2,"Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,System 8 Entry
+3683,Group 2,7-Eleven Yishun Ring Road - Blk 103 Yishun Ring Road #01-69,1,System 7 Entry
+3683,Group 2,Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,System 7 Entry
+3683,Group 2,Singapore Pools Bukit Batok N3 Branch - Blk 324 Bukit Batok St 33 #01-47,1,Ordinary Entry
+3684,Group 1,Singapore Pools Cheong Chin Nam Rd Branch - 5 Cheong Chin Nam Rd,0,System 8 Entry
+3684,Group 2,Springdale Garments Co - Blk 408 Ang Mo Kio Ave 10 #01-795,1,Ordinary Entry
+3684,Group 2,7-Eleven Upp Thomson - 912 Upp Thomson Rd,0,Ordinary Entry
+3684,Group 2,7-Eleven Upp Thomson - 912 Upp Thomson Rd,0,Ordinary Entry
+3684,Group 2,NTUC FP Punggol Oasis - 681 Punggol Drive #B1-01 Oasis Terraces,0,Ordinary Entry
+3685,Group 1,NTUC FP Tampines St 44 - Blk 475 Tampines St 44 #01-145,1,Ordinary Entry
+3685,Group 2,"Singapore Pools Chinatown Point Branch - 133 New Bridge Road, Chinatown Point #01-36",1,Ordinary Entry
+3685,Group 2,Prime Century Square - 2 Tampines Central 5 #B1-08 Century Square,0,System 7 Entry
+3685,Group 2,Singapore Pools Bukit Batok Central Branch - Blk 642 Bukit Batok Central #01-56,0,System 7 Entry
+3685,Group 2,Nan Huat Wine Store - Blk 513 Bishan St 13 #01-508,0,Ordinary Entry
+3685,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3685,Group 2,Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,0,Ordinary Entry
+3686,Group 2,Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,System 7 Entry
+3686,Group 2,Cold Storage Northpoint - 930 Yishun Ave 2 #B1-09/12 Northpoint Shopping Centre,1,Ordinary Entry
+3686,Group 2,NTUC FP Rivervale Mall - 11 Rivervale Crescent Rivervale Mall #03-01,1,Ordinary Entry
+3686,Group 2,Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,0,System 8 Entry
+3687,Group 2,Cheers Harbourfront - 1 Maritime Square Harbourfront Centre #01-82,1,System 7 Entry
+3687,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3687,Group 2,Warriors Football Club (S) - Blk 1 Jalan Bukit Merah #01-4510,1,System 7 Entry
+3687,Group 2,NTUC FP Yishun - 301 Yishun Ave 2 Yishun MRT Station #01-02,0,System 8 Entry
+3688,Group 2,Springdale Garments Co - Blk 408 Ang Mo Kio Ave 10 #01-795,0,System 7 Entry
+3689,Group 2,NTUC Finest Seletar Mall - 33 Sengkang West Avenue 4 #B2-24,1,System 7 Entry
+3689,Group 2,NTUC FP Toa Payoh - Blk 192 Lor 4 Toa Payoh #01-670/672,0,Ordinary Entry
+3691,Group 1,Singapore Pools Pasir Ris N2 Branch - Blk 259 Pasir Ris St 21 Loyang Point #02-29,1,System 7 Entry
+3691,Group 1,NTUC FP Marsiling MRT Station - 71 Woodlands Ave 3 Marsiling MRT Station #01-01,0,System 7 Entry
+3691,Group 2,Singapore Pools Lengkok Bahru Branch - Blk 63B Lengkok Bahru #01-364,1,Ordinary Entry
+3691,Group 2,Springdale Garments Co - Blk 408 Ang Mo Kio Ave 10 #01-795,1,Ordinary Entry
+3691,Group 2,Singapore Pools Bukit Gombak Branch - Blk 374 Bukit Batok St 31 #01-170,0,System 7 Entry
+3691,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3691,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3692,Group 1,Singapore Pools Fajar Rd Branch - Blk 445 Fajar Rd Fajar Shopping Centre #02-540,0,System 7 Entry
+3692,Group 2,Soh Choo Trading - Blk 19 Marsiling Lane #01-303,0,System 7 Entry
+3693,Group 1,Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,Ordinary Entry
+3693,Group 2,NTUC FP Boon Lay - Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200,1,Ordinary Entry
+3694,Group 2,Singapore Pools Commonwealth Crescent Branch - Blk 116 Commonwealth Crescent #01-135,1,System 7 Entry
+3695,Group 1,"NTUC FP Parkway Parade - 80 Marine Parade Rd #03-28, Parkway Parade",1,Ordinary Entry
+3695,Group 2,Giant Pioneer Mall - Blk 638 Jurong West Street 61 Pioneer Mall #03-01,1,Ordinary Entry
+3695,Group 2,"NTUC FP Parkway Parade - 80 Marine Parade Rd #03-28, Parkway Parade",1,Ordinary Entry
+3696,Group 2,NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,0,System 7 Entry
+3697,Group 2,Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,Ordinary Entry
+3697,Group 2,Singapore Pools Ghim Moh Branch - Blk 21 Ghim Moh Rd #01-161,0,Ordinary Entry
+3698,Group 1,NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,1,System 7 Entry
+3698,Group 1,Singapore Pools Teban Gardens Branch - Blk 37 Teban Gardens Rd #01-308,1,System 7 Entry
+3698,Group 2,Giant Pioneer Mall - Blk 638 Jurong West Street 61 Pioneer Mall #03-01,0,System 7 Entry
+3699,Group 2,Kim Chwee Trading - Blk 256 Jurong East Street 24 #01-385,1,System 7 Entry
+3700,Group 1,Hock Soon Ann - Block 73 Bedok South Ave 3 #01-454,1,System 7 Entry
+3700,Group 2,Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,Ordinary Entry
+3700,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3701,Group 1,NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,System 7 Entry
+3701,Group 2,Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,Ordinary Entry
+3701,Group 2,Kwek Lee Eng Agency - 200 Jln Sultan Textile Centre #01-29,1,Ordinary Entry
+3701,Group 2,Singapore Pools Jurong West N4 Branch - Blk 498 Jurong West St 41 #01-472,1,Ordinary Entry
+3702,Group 2,"NTUC FP Hillion Mall - 17 Petir Road, Hillion Mall, #B2-67",1,System 7 Entry
+3702,Group 2,NTUC FP Jem Hypermart - 50 Jurong Gateway Road #B1-21/22,1,Ordinary Entry
+3702,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3703,Group 2,Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,1,System 7 Entry
+3703,Group 2,Singapore Pools Potong Pasir Branch - Blk 148 Potong Pasir Ave 1 #01-73,1,Ordinary Entry
+3703,Group 2,Tong Aik Huat - Blk 685 Hougang St 61 #01-160,0,Ordinary Entry
+3704,Group 2,Singapore Pools Tampines Mart Branch - 11 Tampines St 32 Tampines Mart #01-03,1,System 7 Entry
+3705,Group 1,Prime Keat Hong - Blk 253 Choa Chu Kang Avenue 1 #B1-07/10 Keat Hong Shopping Centre,1,System 7 Entry
+3705,Group 1,Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,System 7 Entry
+3705,Group 2,NTUC FP Coronation - 587 Bukit Timah Rd Coronation Shopping Plaza #01-01,1,System 7 Entry
+3705,Group 2,"NTUC FP VivoCity - 1 Harbourfront Walk, #01-23 Vivo City",1,System 7 Entry
+3705,Group 2,Singapore Pools 88 Circuit Rd Branch - Blk 88 Circuit Rd #01-961,1,System 7 Entry
+3705,Group 2,"Singapore Pools IMM Branch - 2 Jurong East St 21 #02-63, IMM Building",1,System 7 Entry
+3705,Group 2,Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,System 7 Entry
+3705,Group 2,"U Stars Supermarket Keat Hong Link - Blk 817 Keat Hong Link, #01-14",1,System 7 Entry
+3705,Group 2,Cheers Harbourfront - 1 Maritime Square Harbourfront Centre #01-82,1,Ordinary Entry
+3705,Group 2,Chong Hoe Tong - Blk 21 Lor 7 Toa Payoh #01-290,1,Ordinary Entry
+3705,Group 2,Singapore Pools Account Betting Service - -,0,System 9 Entry
+3705,Group 2,Pinthely Floral Centre - 5001 Beach Road #02-35 Golden Mile Complex,0,System 7 Entry
+3705,Group 2,Prime Buangkok Square - Blk 991 Buangkok Link #01-28 Buangkok Square,0,System 7 Entry
+3705,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3705,Group 2,• 7-Eleven Bedok North - Blk 123 Bedok North St 2 #01-158,1,iTOTO - System 12
+3705,Group 2,• 7-Eleven Changi - 38-A Changi Rd,1,iTOTO - System 12
+3705,Group 2,• 7-Eleven Sin Ming - 244H Upp Thomson Rd,1,iTOTO - System 12
+3705,Group 2,• Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,iTOTO - System 12
+3705,Group 2,• Giant Edgefield - Blk 671 Edgefield Plains #02-01,1,iTOTO - System 12
+3705,Group 2,• Jake Merchandise Associates - Blk 503 Tampines Central 1 #01-283,1,iTOTO - System 12
+3705,Group 2,• Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,1,iTOTO - System 12
+3705,Group 2,• Li Thoe Trading - Blk 119 Aljunied Ave 2 #01-78,1,iTOTO - System 12
+3705,Group 2,"• Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,iTOTO - System 12
+3705,Group 2,• NTUC FP Bedok North St 4 - Blk 89 Bedok North St 4 #01-77/79,1,iTOTO - System 12
+3705,Group 2,"• NTUC FP Parkway Parade - 80 Marine Parade Rd #03-28, Parkway Parade",1,iTOTO - System 12
+3705,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3705,Group 2,• NTUC FP Serangoon North - Blk 152B Serangoon North Ave 1 #01-384,1,iTOTO - System 12
+3705,Group 2,"• NTUC FP Tai Seng - 18 Tai Seng Street, Mapletree 18 #B1-13",1,iTOTO - System 12
+3705,Group 2,• NTUC FP Tampines Mall - 4 Tampines Central 5 Tampines Mall #B1-12,1,iTOTO - System 12
+3705,Group 2,• NTUC FP Telok Blangah - Blk 78A Telok Blangah Street 32 #01-01,1,iTOTO - System 12
+3705,Group 2,• NTUC FP Toa Payoh HDB Centre - Blk 500 Lor 6 Toa Payoh HDB Centre #01-33,1,iTOTO - System 12
+3705,Group 2,• NTUC FP Warehouse Club - 1 Joo Koon Circle #03-21 Fairprice Hub,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Balestier Rd Branch - Blk 2 Balestier Rd #01-641,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Telok Blangah Crescent Branch - Blk 6 Telok Blangah Crescent #01-418,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,iTOTO - System 12
+3705,Group 2,• Superbowl Jurong Pte Ltd - 3 Yuan Ching Road,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3705,Group 2,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3705,Group 2,• Chong Hoe Tong - Blk 21 Lor 7 Toa Payoh #01-290,1,iTOTO - System 12
+3705,Group 2,• Dawn Florist - 21 Hougang St 51 Hougang Green Shopping Mall #01-04A,1,iTOTO - System 12
+3705,Group 2,• Everstream Trading - Blk 283 Bukit Batok East Avenue 3 #01-281,1,iTOTO - System 12
+3705,Group 2,• Giant Compassvale Bow - Blk 266 Compassvale Bow #01-02,1,iTOTO - System 12
+3705,Group 2,• Hao Mart Punggol Walk - Blk 308C Punggol Walk #01-352,1,iTOTO - System 12
+3705,Group 2,• NTUC FP Lot 1 Shoppers Mall - 21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05,1,iTOTO - System 12
+3705,Group 2,• OCN (Singapore) Pte Ltd - Blk 501 West Coast Drive #01-266,1,iTOTO - System 12
+3705,Group 2,• Sheng Siong Sengkang West Avenue - Blk 455 Sengkang West Ave #01-16,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Anchorvale Rd Branch - Blk 308 Anchorvale Rd #01-05,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Ang Mo Kio N4 Branch - Blk 447 Ang Mo Kio Ave 10 #01-1685,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Bukit Gombak Branch - Blk 374 Bukit Batok St 31 #01-170,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Bukit Panjang Branch - Blk 257 Bangkit Rd #01-49,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Canberra Link Branch - Blk 505 Canberra Link #01-02,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Cheong Chin Nam Rd Branch - 5 Cheong Chin Nam Rd,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Great World City Branch - 1 Kim Seng Promenade #B1-127 Great World City,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Jurong East Branch - Blk 351 Jurong East St 31 #01-93,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,iTOTO - System 12
+3705,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,iTOTO - System 12
+3705,Group 2,• Singapore Pools Woodlands N5 Branch - Blk 548 Woodlands Dr 44 Vista Point #02-04,1,iTOTO - System 12
+3707,Group 2,Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,System 7 Entry
+3708,Group 2,Singapore Pools Account Betting Service - -,1,System 8 Entry
+3708,Group 2,Li Thoe Trading - Blk 119 Aljunied Ave 2 #01-78,1,Ordinary Entry
+3708,Group 2,Prime Compassvale St - Blk 263 Compassvale St #01-01,1,Ordinary Entry
+3708,Group 2,Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,0,System 7 Entry
+3709,Group 1,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3709,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3709,Group 1,• Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,iTOTO - System 12
+3709,Group 1,• 7-Eleven Balestier Rd - 271 Balestier Rd #01-01 Victory Point,1,iTOTO - System 12
+3709,Group 1,• 7-Eleven Changi - 38-A Changi Rd,1,iTOTO - System 12
+3709,Group 1,• Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,iTOTO - System 12
+3709,Group 1,• Cheng Chew Wah Agency - 20 Frankel Terrace,1,iTOTO - System 12
+3709,Group 1,• Chua Hong Kim Trading - Blk 237 Serangoon Ave 3 #01-108,1,iTOTO - System 12
+3709,Group 1,• Chua Yan Kee - Blk 49 Tanglin Halt Road #01-349,1,iTOTO - System 12
+3709,Group 1,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3709,Group 1,• Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,iTOTO - System 12
+3709,Group 1,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3709,Group 1,• NTUC FP Marine Parade - 6 Marine Parade Central,1,iTOTO - System 12
+3709,Group 1,• NTUC FP Yung Kuang - Blk 63-66 Yung Kuang Road #01-119/02-119,1,iTOTO - System 12
+3709,Group 1,• Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,1,iTOTO - System 12
+3709,Group 1,• Singapore Pools Ang Mo Kio N2A Branch - Blk 226A Ang Mo Kio Ave 1 #01-625,1,iTOTO - System 12
+3709,Group 1,• Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,iTOTO - System 12
+3709,Group 1,• Singapore Pools Cheong Chin Nam Rd Branch - 5 Cheong Chin Nam Rd,1,iTOTO - System 12
+3709,Group 1,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3709,Group 1,• Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,iTOTO - System 12
+3709,Group 1,• Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,iTOTO - System 12
+3709,Group 2,Singapore Pools Account Betting Service - -,1,System 9 Entry
+3709,Group 2,Singapore Pools Bukit Panjang Branch - Blk 257 Bangkit Rd #01-49,1,System 9 Entry
+3709,Group 2,Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,System 8 Entry
+3709,Group 2,NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,System 8 Entry
+3709,Group 2,Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,System 7 Entry
+3709,Group 2,7-Eleven Sin Ming - 244H Upp Thomson Rd,1,Ordinary Entry
+3709,Group 2,Giant Sembawang Shopping Centre - 604 Sembawang Road Sembawang Shopping Centre #B1-25,0,System 8 Entry
+3709,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3709,Group 2,• Tan Ah Leck Trading - Blk 151 Bukit Batok Street 11 #01-254,1,iTOTO - System 12
+3709,Group 2,"• Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,iTOTO - System 12
+3709,Group 2,• Giant Sunshine Place - 475 Choa Chu Kang Ave 3 Sunshine Place #01-01/10,1,iTOTO - System 12
+3709,Group 2,• Hao Mart Punggol Walk - Blk 308C Punggol Walk #01-352,1,iTOTO - System 12
+3709,Group 2,• Nan Huat Wine Store - Blk 513 Bishan St 13 #01-508,1,iTOTO - System 12
+3709,Group 2,• NTUC FP Boon Lay - Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200,1,iTOTO - System 12
+3709,Group 2,• NTUC FP Limbang Shopping Centre - Blk 533 Choa Chu Kang St 51 Limbang Shopping Centre #01-01,1,iTOTO - System 12
+3709,Group 2,• NTUC FP Tanjong Pagar - Blk 5 Tanjong Pagar Rd Tanjong Pagar Plaza #01-01,1,iTOTO - System 12
+3709,Group 2,• Seng Yeok Chan Agency - Blk 338 Ang Mo Kio Ave 1 #01-1657,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Ang Mo Kio N2A Branch - Blk 226A Ang Mo Kio Ave 1 #01-625,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Ang Mo Kio N6 Branch - Blk 630 Ang Mo Kio Ave 4 #01-968,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Everton Park Branch - Blk 7 Everton Park #01-15,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Fajar Rd Branch - Blk 445 Fajar Rd Fajar Shopping Centre #02-540,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Lor 4 Toa Payoh Branch - Blk 85 Lor 4 Toa Payoh #01-340,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Potong Pasir Branch - Blk 148 Potong Pasir Ave 1 #01-73,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3709,Group 2,• Singapore Pools Woodlands N8 Branch - Blk 883 Woodlands St 82 #02-468,1,iTOTO - System 12
+3709,Group 2,• Soh Choo Trading - Blk 19 Marsiling Lane #01-303,1,iTOTO - System 12
+3709,Group 2,• Tan Ah Leck Trading Jurong East - Blk 352 Jurong East Street 31 #01-121,1,iTOTO - System 12
+3711,Group 2,Tuck Lee Long - Blk 159 Ang Mo Kio Ave 4 #01-536,1,Ordinary Entry
+3711,Group 2,NTUC FP Bukit Panjang Plaza - 1 Jelebu Road #01-15 & #02-20 Bukit Panjang Plaza,0,System 9 Entry
+3711,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3712,Group 2,OCN (Singapore) Pte Ltd - Blk 501 West Coast Drive #01-266,1,System 7 Entry
+3712,Group 2,Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,System 7 Entry
+3712,Group 2,NTUC FP Havelock Road - Blk 50 Havelock Road #01-755,0,System 7 Entry
+3712,Group 2,Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,0,System 7 Entry
+3712,Group 2,NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,0,Ordinary Entry
+3713,Group 1,7-Eleven Sixth Avenue - 6 Sixth Ave,1,System 7 Entry
+3713,Group 1,Singapore Pools Suntec City - 3 Temasek Boulevard #B1-143 Suntec City Mall,1,System 7 Entry
+3713,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools Lor 8 Toa Payoh Branch - Blk 212 Lor 8 Toa Payoh #01-39,1,iTOTO - System 12
+3713,Group 1,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3713,Group 1,• 7-Eleven Sixth Avenue - 6 Sixth Ave,1,iTOTO - System 12
+3713,Group 1,"• A P Minimart Bedok Reservoir - Blk 121 Bedok Reservoir Road, #01-200",1,iTOTO - System 12
+3713,Group 1,• Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,iTOTO - System 12
+3713,Group 1,• Chng Siow Eng Agency - Blk 625 Elias Rd Elias Mall #01-314,1,iTOTO - System 12
+3713,Group 1,• Chong Hoe Tong - Blk 21 Lor 7 Toa Payoh #01-290,1,iTOTO - System 12
+3713,Group 1,• Mee Lee Cheong Pte Ltd - Blk 139 Tampines St 11 #01-88,1,iTOTO - System 12
+3713,Group 1,• Ng Nam Thye Trading - Ang Mo Kio Ave 3 - 51 Ang Mo Kio Avenue 3 #01-01B,1,iTOTO - System 12
+3713,Group 1,• OCN (Singapore) Pte Ltd - Blk 501 West Coast Drive #01-266,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools Bukit Batok N3 Branch - Blk 324 Bukit Batok St 33 #01-47,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools Potong Pasir Branch - Blk 148 Potong Pasir Ave 1 #01-73,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools Tampines Mart Branch - 11 Tampines St 32 Tampines Mart #01-03,1,iTOTO - System 12
+3713,Group 1,• Singapore Pools Tampines N4 Branch - Blk 481 Tampines St 44 #01-277,1,iTOTO - System 12
+3713,Group 1,• Soh Choo Trading - Blk 19 Marsiling Lane #01-303,1,iTOTO - System 12
+3713,Group 1,• Tan Ah Leck Trading - Blk 151 Bukit Batok Street 11 #01-254,1,iTOTO - System 12
+3713,Group 1,• Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,iTOTO - System 12
+3713,Group 2,Prime Keat Hong - Blk 253 Choa Chu Kang Avenue 1 #B1-07/10 Keat Hong Shopping Centre,1,System 7 Entry
+3713,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3713,Group 2,Singapore Pools Telok Blangah Crescent Branch - Blk 6 Telok Blangah Crescent #01-418,1,System 7 Entry
+3713,Group 2,Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,1,System 7 Entry
+3713,Group 2,Singapore Pools Yishun N2 Branch - Blk 256 Yishun Ring Rd #01-1001,1,System 7 Entry
+3713,Group 2,"Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,Ordinary Entry
+3713,Group 2,• Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,iTOTO - System 12
+3713,Group 2,• 7-Eleven Yishun Ring Road - Blk 103 Yishun Ring Road #01-69,1,iTOTO - System 12
+3713,Group 2,• Cheers Harbourfront - 1 Maritime Square Harbourfront Centre #01-82,1,iTOTO - System 12
+3713,Group 2,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3713,Group 2,• Evercool Engineering - Blk 95 Lor 4 Toa Payoh #01-50,1,iTOTO - System 12
+3713,Group 2,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3713,Group 2,• Mee Lee Cheong Pte Ltd - Blk 139 Tampines St 11 #01-88,1,iTOTO - System 12
+3713,Group 2,• Nan Huat Wine Store - Blk 513 Bishan St 13 #01-508,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Jurong Point - 1 Jurong West Central 2 Jurong Point #B1-09,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Woodgrove - 30 Woodlands Ave 1 The Woodgrove #01-11,1,iTOTO - System 12
+3713,Group 2,• Overseas Emporium (Pte) Ltd - 1 Park Rd People's Park Complex #02-70,1,iTOTO - System 12
+3713,Group 2,• Seah Koon Huat (Bukit Merah View) - Blk 116 Bukit Merah View #01-233,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Ang Mo Kio N4 Branch - Blk 447 Ang Mo Kio Ave 10 #01-1685,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Bukit Batok Central Branch - Blk 642 Bukit Batok Central #01-56,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Clementi N3 Branch - Blk 325 Clementi Ave 5 #01-145,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Funan Branch - 107 North Bridge Road #B1-02,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Geylang Bahru Branch - Blk 57 Geylang Bahru #01-3503,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Jurong West N4 Branch - Blk 498 Jurong West St 41 #01-472,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Pasir Ris N2 Branch - Blk 259 Pasir Ris St 21 Loyang Point #02-29,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Yishun N2 Branch - Blk 256 Yishun Ring Rd #01-1001,1,iTOTO - System 12
+3713,Group 2,• Springdale Garments Co - Blk 408 Ang Mo Kio Ave 10 #01-795,1,iTOTO - System 12
+3713,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3713,Group 2,• Tuck Lee Long - Blk 159 Ang Mo Kio Ave 4 #01-536,1,iTOTO - System 12
+3713,Group 2,• Chua Yan Kee - Blk 49 Tanglin Halt Road #01-349,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Dawson Place - Blk 57 Dawson Road #01-07 Dawson Place,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3713,Group 2,"• Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,iTOTO - System 12
+3713,Group 2,• Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,iTOTO - System 12
+3713,Group 2,• Evercool Engineering - Blk 95 Lor 4 Toa Payoh #01-50,1,iTOTO - System 12
+3713,Group 2,• Giant Sunshine Place - 475 Choa Chu Kang Ave 3 Sunshine Place #01-01/10,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Punggol Oasis - 681 Punggol Drive #B1-01 Oasis Terraces,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Tampines Mall - 4 Tampines Central 5 Tampines Mall #B1-12,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Tampines St 44 - Blk 475 Tampines St 44 #01-145,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Yishun Ring Rd - Blk 849 Yishun Ring Rd #01-3701/3703,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Yung Kuang - Blk 63-66 Yung Kuang Road #01-119/02-119,1,iTOTO - System 12
+3713,Group 2,• Prime Punggol Field - Blk 108 Punggol Field #01-02,1,iTOTO - System 12
+3713,Group 2,• Prime Yishun Ave 6 - Blk 461 Yishun Ave 6 #01-01,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Fajar Rd Branch - Blk 445 Fajar Rd Fajar Shopping Centre #02-540,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Woodlands N8 Branch - Blk 883 Woodlands St 82 #02-468,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Yishun N7 Branch - Blk 761 Yishun St 72 #01-340,1,iTOTO - System 12
+3713,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3713,Group 2,• 7-Eleven Eunos Crescent - Blk 1A Eunos Crescent #01-2469/2471,1,iTOTO - System 12
+3713,Group 2,• 7-Eleven McCallum Street - 3 McCallum Street,1,iTOTO - System 12
+3713,Group 2,• 7-Eleven Yishun Ring Road - Blk 103 Yishun Ring Road #01-69,1,iTOTO - System 12
+3713,Group 2,• Chng Siow Eng Agency - Blk 625 Elias Rd Elias Mall #01-314,1,iTOTO - System 12
+3713,Group 2,• Giant Buangkok Cresent - Blk 982 Buangkok Cresent #01-01,1,iTOTO - System 12
+3713,Group 2,• Jake Merchandise Associates - Blk 503 Tampines Central 1 #01-283,1,iTOTO - System 12
+3713,Group 2,"• Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,iTOTO - System 12
+3713,Group 2,• NTUC FP Hougang Mall - 90 Hougang Ave 10 NTUC Hougang Mall #B1-07,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Jurong Point - 1 Jurong West Central 2 Jurong Point #B1-09,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Thomson Plaza - 301 Upp Thomson Rd Thomson Plaza #03-36,1,iTOTO - System 12
+3713,Group 2,• NTUC FP Woodgrove - 30 Woodlands Ave 1 The Woodgrove #01-11,1,iTOTO - System 12
+3713,Group 2,• Seah Geok Eng Agency - Blk 118 Rivervale Dr Rivervale Plaza #01-15,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Empress Rd Branch - Blk 8 Empress Rd #01-35,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Peace Centre Branch - 1 Sophia Rd Peace Centre #01-24/25,1,iTOTO - System 12
+3713,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3713,Group 2,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3714,Group 2,PFG Framing & Trading - Blk 960 Jurong West Street 92 #01-182,1,System 8 Entry
+3714,Group 2,"Cheng Chew Wah Agency (Bedok South) - Blk 17 Bedok South Road, #01-583",1,System 7 Entry
+3714,Group 2,Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,System 7 Entry
+3715,Group 1,"Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,System 8 Entry
+3715,Group 2,Singapore Pools Lengkok Bahru Branch - Blk 63B Lengkok Bahru #01-364,1,System 7 Entry
+3715,Group 2,"Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",0,System 7 Entry
+3715,Group 2,Cheers New Upper Changi Rd - Blk 59 New Upp Changi Rd #01-1272,0,Ordinary Entry
+3715,Group 2,NTUC FP Killiney Rd - 131 Killiney Rd Orchard Grand Court #01-01/02/03,0,Ordinary Entry
+3715,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3715,Group 2,• NTUC FP Jurong Point - 1 Jurong West Central 2 Jurong Point #B1-09,1,iTOTO - System 12
+3715,Group 2,• 7-Eleven Eunos Crescent - Blk 1A Eunos Crescent #01-2469/2471,1,iTOTO - System 12
+3715,Group 2,• 7-Eleven Yishun Ring Road - Blk 103 Yishun Ring Road #01-69,1,iTOTO - System 12
+3715,Group 2,• Everbright Services - Blk 108 Depot Road #01-17,1,iTOTO - System 12
+3715,Group 2,• Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,1,iTOTO - System 12
+3715,Group 2,• Nalayanee Trading Enterprise - 127 Upp Paya Lebar Rd,1,iTOTO - System 12
+3715,Group 2,• Ng Nam Thye Trading - Ang Mo Kio Ave 3 - 51 Ang Mo Kio Avenue 3 #01-01B,1,iTOTO - System 12
+3715,Group 2,• NTUC FP Eastpoint Mall - 3 Simei St 6 East Point Mall #05-01,1,iTOTO - System 12
+3715,Group 2,• NTUC FP Jem Hypermart - 50 Jurong Gateway Road #B1-21/22,1,iTOTO - System 12
+3715,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3715,Group 2,• NTUC FP Sun Plaza - 30 Sembawang Drive #B1-01/02,1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Ang Mo Kio N2A Branch - Blk 226A Ang Mo Kio Ave 1 #01-625,1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Ghim Moh Branch - Blk 21 Ghim Moh Rd #01-161,1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Lor 8 Toa Payoh Branch - Blk 212 Lor 8 Toa Payoh #01-39,1,iTOTO - System 12
+3715,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3715,Group 2,• Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,iTOTO - System 12
+3715,Group 2,• Superbowl Jurong Pte Ltd - 3 Yuan Ching Road,1,iTOTO - System 12
+3715,Group 2,• Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,iTOTO - System 12
+3715,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3716,Group 1,NTUC FP Dawson Place - Blk 57 Dawson Road #01-07 Dawson Place,1,Ordinary Entry
+3716,Group 1,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3716,Group 2,NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,System 7 Entry
+3716,Group 2,NTUC FP Yew Tee - 21 Choa Chu Kang North 6 #B1-01 to 07 Yew Tee Point,0,System 10 Entry
+3717,Group 2,Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,Ordinary Entry
+3717,Group 2,Singapore Pools Telok Blangah Crescent Branch - Blk 6 Telok Blangah Crescent #01-418,0,System 7 Entry
+3717,Group 2,Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,0,Ordinary Entry
+3718,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3718,Group 2,Singapore Pools Bedok North Branch - Blk 509 Bedok North St 3 #01-129,1,Ordinary Entry
+3719,Group 1,Giant Pioneer Mall - Blk 638 Jurong West Street 61 Pioneer Mall #03-01,1,Ordinary Entry
+3719,Group 1,Tan Kai Huat Provision Shop - Blk 123 Hougang Ave 1 #01-1408,1,Ordinary Entry
+3719,Group 2,Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,System 7 Entry
+3719,Group 2,Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,Ordinary Entry
+3720,Group 1,Singapore Pools Woodlands N3 Branch - Blk 305 Woodlands St 31 #01-77,0,System 7 Entry
+3720,Group 2,7-Eleven Bedok North - Blk 123 Bedok North St 2 #01-158,1,Ordinary Entry
+3720,Group 2,Sheng Siong Marsiling Mall - Blk 4 Woodlands Street 12 #02-61,1,Ordinary Entry
+3721,Group 1,Singapore Pools Lor 8 Toa Payoh Branch - Blk 212 Lor 8 Toa Payoh #01-39,1,Ordinary Entry
+3721,Group 2,Cheers Changi Village - Blk 4 Changi Village Rd #01-2074,1,Ordinary Entry
+3721,Group 2,Singapore Pools Ang Mo Kio N6 Branch - Blk 630 Ang Mo Kio Ave 4 #01-968,1,Ordinary Entry
+3721,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3721,Group 2,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3721,Group 2,• Cheers New Upper Changi Rd - Blk 59 New Upp Changi Rd #01-1272,1,iTOTO - System 12
+3721,Group 2,"• Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,iTOTO - System 12
+3721,Group 2,"• NTUC FP Hillion Mall - 17 Petir Road, Hillion Mall, #B2-67",1,iTOTO - System 12
+3721,Group 2,• NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,iTOTO - System 12
+3721,Group 2,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3721,Group 2,• NTUC FP Limbang Shopping Centre - Blk 533 Choa Chu Kang St 51 Limbang Shopping Centre #01-01,1,iTOTO - System 12
+3721,Group 2,• Seah Geok Eng Upper Serangoon View - Blk 476D Upper Serangoon View #02-02,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Bishan N2 Branch - Blk 279 Bishan St 24 #01-52,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Chai Chee Branch - Blk 36 Chai Chee Ave #01-167,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Empress Rd Branch - Blk 8 Empress Rd #01-35,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Jalan Batu Branch - Blk 7 Jalan Batu #01-99,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Lengkok Bahru Branch - Blk 63B Lengkok Bahru #01-364,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Yishun N2 Branch - Blk 256 Yishun Ring Rd #01-1001,1,iTOTO - System 12
+3721,Group 2,• Soh Choo Trading - Blk 19 Marsiling Lane #01-303,1,iTOTO - System 12
+3721,Group 2,• Tan Boon Tin Agency - Blk 56 Marine Terrace #01-253,1,iTOTO - System 12
+3721,Group 2,• Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3721,Group 2,"• Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,iTOTO - System 12
+3721,Group 2,• Cheers Bedok North - Blk 539 Bedok North St 3 #01-625,1,iTOTO - System 12
+3721,Group 2,• Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,iTOTO - System 12
+3721,Group 2,• Metro Woodlands - 1 Woodlands Square Causeway Point #01-18/19,1,iTOTO - System 12
+3721,Group 2,• Nan Huat Wine Store - Blk 513 Bishan St 13 #01-508,1,iTOTO - System 12
+3721,Group 2,• NTUC FP Jurong Point - 1 Jurong West Central 2 Jurong Point #B1-09,1,iTOTO - System 12
+3721,Group 2,• NTUC FP Toa Payoh HDB Centre - Blk 500 Lor 6 Toa Payoh HDB Centre #01-33,1,iTOTO - System 12
+3721,Group 2,• NTUC FP Warehouse Club - 1 Joo Koon Circle #03-21 Fairprice Hub,1,iTOTO - System 12
+3721,Group 2,• Prime Chai Chee - 25A Chai Chee Rd #01-459,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Bukit Batok Central Branch - Blk 642 Bukit Batok Central #01-56,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Ghim Moh Branch - Blk 21 Ghim Moh Rd #01-161,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Jurong West N4 Branch - Blk 498 Jurong West St 41 #01-472,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Suntec City - 3 Temasek Boulevard #B1-143 Suntec City Mall,1,iTOTO - System 12
+3721,Group 2,• Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,iTOTO - System 12
+3722,Group 2,Singapore Pools Jurong East Branch - Blk 351 Jurong East St 31 #01-93,1,System 7 Entry
+3722,Group 2,Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,Ordinary Entry
+3722,Group 2,Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,1,Ordinary Entry
+3723,Group 2,"A P Minimart Bedok Reservoir - Blk 121 Bedok Reservoir Road, #01-200",1,System 7 Entry
+3723,Group 2,NTUC FP Bukit Panjang Plaza - 1 Jelebu Road #01-15 & #02-20 Bukit Panjang Plaza,1,System 7 Entry
+3723,Group 2,Singapore Pools Bukit Batok Central Branch - Blk 642 Bukit Batok Central #01-56,1,System 7 Entry
+3723,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3723,Group 2,Singapore Pools Lor 4 Toa Payoh Branch - Blk 85 Lor 4 Toa Payoh #01-340,1,Ordinary Entry
+3724,Group 1,NTUC FP Clementi Avenue 2 - Blk 352 Clementi Avenue 2 #01-141/143,1,Ordinary Entry
+3724,Group 2,NTUC FP Jurong Point - 1 Jurong West Central 2 Jurong Point #B1-09,1,System 7 Entry
+3724,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3725,Group 1,Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,System 7 Entry
+3725,Group 2,Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,Ordinary Entry
+3725,Group 2,Singapore Pools Changi Rd Branch - 324K Changi Rd,0,Ordinary Entry
+3726,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,1,System 7 Entry
+3726,Group 2,Livewire (Resorts World Sentosa) - 26 Sentosa Gateway #B1-208,0,System 7 Entry
+3726,Group 2,Singapore Pools Bukit Gombak Branch - Blk 374 Bukit Batok St 31 #01-170,0,Ordinary Entry
+3727,Group 1,Singapore Pools Ghim Moh Branch - Blk 21 Ghim Moh Rd #01-161,0,System 8 Entry
+3727,Group 2,NTUC FP Woodgrove - 30 Woodlands Ave 1 The Woodgrove #01-11,1,System 8 Entry
+3727,Group 2,NTUC FP Bukit Timah Plaza - 1 Jalan Anak Bukit Bukit Timah Plaza #B1-01,1,System 7 Entry
+3727,Group 2,Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,0,Ordinary Entry
+3728,Group 2,7-Eleven Foch Rd - 27 Foch Rd Hoa Nam Building #01-07/08,1,System 7 Entry
+3728,Group 2,Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,System 7 Entry
+3728,Group 2,Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,System 7 Entry
+3728,Group 2,Tan Ah Leck Trading - Blk 151 Bukit Batok Street 11 #01-254,1,System 7 Entry
+3728,Group 2,Ng Nam Thye Trading - Ang Mo Kio Ave 3 - 51 Ang Mo Kio Avenue 3 #01-01B,1,Ordinary Entry
+3728,Group 2,Sheng Siong Junction 9 - 18 Yishun Avenue 9 #02-05 to #02-10 Junction 9,1,Ordinary Entry
+3728,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3728,Group 2,Singapore Pools Beo Crescent Branch - Blk 36 Beo Crescent #01-45,1,Ordinary Entry
+3728,Group 2,7-Eleven Bukit Batok West - Blk 132 Bukit Batok West Ave 6 #01-304,0,System 8 Entry
+3728,Group 2,Singapore Pools Tampines N4 Branch - Blk 481 Tampines St 44 #01-277,0,System 7 Entry
+3728,Group 2,NTUC FP Clementi Avenue 2 - Blk 352 Clementi Avenue 2 #01-141/143,0,Ordinary Entry
+3729,Group 1,NTUC FP Tampines Mall - 4 Tampines Central 5 Tampines Mall #B1-12,1,System 7 Entry
+3729,Group 1,Cheng Tai Boon Beng - 150 Orchard Road #01-63 Orchard Plaza,0,Ordinary Entry
+3729,Group 2,Singapore Pools Great World City Branch - 1 Kim Seng Promenade #B1-127 Great World City,1,System 8 Entry
+3729,Group 2,Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,System 7 Entry
+3729,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,1,Ordinary Entry
+3729,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,1,Ordinary Entry
+3729,Group 2,NTUC FP Bedok North St 4 - Blk 89 Bedok North St 4 #01-77/79,1,Ordinary Entry
+3729,Group 2,NTUC FP Punggol Oasis - 681 Punggol Drive #B1-01 Oasis Terraces,1,Ordinary Entry
+3729,Group 2,Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,Ordinary Entry
+3729,Group 2,Singapore Pools Account Betting Service - -,0,System Roll Entry
+3729,Group 2,Cheng Chew Wah Agency - 20 Frankel Terrace,0,System 8 Entry
+3729,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,1,iTOTO - System 12
+3729,Group 2,"• NTUC FP Parkway Parade - 80 Marine Parade Rd #03-28, Parkway Parade",1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Ang Mo Kio N6 Branch - Blk 630 Ang Mo Kio Ave 4 #01-968,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Canberra Link Branch - Blk 505 Canberra Link #01-02,1,iTOTO - System 12
+3729,Group 2,"• Singapore Pools Chinatown Point Branch - 133 New Bridge Road, Chinatown Point #01-36",1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Clementi N3 Branch - Blk 325 Clementi Ave 5 #01-145,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,iTOTO - System 12
+3729,Group 2,"• Singapore Pools IMM Branch - 2 Jurong East St 21 #02-63, IMM Building",1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Jurong West N4 Branch - Blk 498 Jurong West St 41 #01-472,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools New Upper Changi Branch - Blk 26 New Upp Changi Rd #01-666/668,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Pasir Ris N2 Branch - Blk 259 Pasir Ris St 21 Loyang Point #02-29,1,iTOTO - System 12
+3729,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3729,Group 2,"• A P Minimart Bedok Reservoir - Blk 121 Bedok Reservoir Road, #01-200",1,iTOTO - System 12
+3729,Group 2,• Chua Hong Kim Trading - Blk 237 Serangoon Ave 3 #01-108,1,iTOTO - System 12
+3729,Group 2,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3729,Group 2,"• FairPrice Xpress MacPherson - 110 MacPherson Rd, Exxon-Mobil",1,iTOTO - System 12
+3729,Group 2,• Giant Buangkok Cresent - Blk 982 Buangkok Cresent #01-01,1,iTOTO - System 12
+3729,Group 2,• Giant Pioneer Mall - Blk 638 Jurong West Street 61 Pioneer Mall #03-01,1,iTOTO - System 12
+3729,Group 2,• Goh Geok Kwee (Bukit Merah) - Blk 124 Bukit Merah Lane 1 #01-148,1,iTOTO - System 12
+3729,Group 2,• Kis Store - 3 Pickering Street (South Bridge Road) #01-49,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Lot 1 Shoppers Mall - 21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Serangoon North - Blk 152B Serangoon North Ave 1 #01-384,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Toa Payoh HDB Centre - Blk 500 Lor 6 Toa Payoh HDB Centre #01-33,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Warehouse Club - 1 Joo Koon Circle #03-21 Fairprice Hub,1,iTOTO - System 12
+3729,Group 2,• Seah Geok Eng Agency - Blk 118 Rivervale Dr Rivervale Plaza #01-15,1,iTOTO - System 12
+3729,Group 2,• Sheng Siong Tanglin Halt - Blk 88 Tanglin Halt Rd #01-10,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Bedok North Branch - Blk 509 Bedok North St 3 #01-129,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Bukit Batok N3 Branch - Blk 324 Bukit Batok St 33 #01-47,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Changi Rd Branch - 324K Changi Rd,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Empress Rd Branch - Blk 8 Empress Rd #01-35,1,iTOTO - System 12
+3729,Group 2,"• Singapore Pools IMM Branch - 2 Jurong East St 21 #02-63, IMM Building",1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Lor 8 Toa Payoh Branch - Blk 212 Lor 8 Toa Payoh #01-39,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Woodlands N5 Branch - Blk 548 Woodlands Dr 44 Vista Point #02-04,1,iTOTO - System 12
+3729,Group 2,• Tan Boon Tin Agency - Blk 56 Marine Terrace #01-253,1,iTOTO - System 12
+3729,Group 2,• Vitatron & Medical Co - 60 Smith St,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3729,Group 2,• Hin Teck Leong Trading Company - Blk 74 Whampoa Drive #01-342,1,iTOTO - System 12
+3729,Group 2,• 7-Eleven Eunos Crescent - Blk 1A Eunos Crescent #01-2469/2471,1,iTOTO - System 12
+3729,Group 2,"• A P Minimart Bedok Reservoir - Blk 121 Bedok Reservoir Road, #01-200",1,iTOTO - System 12
+3729,Group 2,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3729,Group 2,• Giant Pioneer Mall - Blk 638 Jurong West Street 61 Pioneer Mall #03-01,1,iTOTO - System 12
+3729,Group 2,• Goh Geok Kwee (Bukit Merah) - Blk 124 Bukit Merah Lane 1 #01-148,1,iTOTO - System 12
+3729,Group 2,• Hock Soon Ann - Block 73 Bedok South Ave 3 #01-454,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Clementi Avenue 3 - Blk 451 Clementi Avenue 3 #01-307,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Yishun - 301 Yishun Ave 2 Yishun MRT Station #01-02,1,iTOTO - System 12
+3729,Group 2,• Prime Century Square - 2 Tampines Central 5 #B1-08 Century Square,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Cheong Chin Nam Rd Branch - 5 Cheong Chin Nam Rd,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Funan Branch - 107 North Bridge Road #B1-02,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Suntec City - 3 Temasek Boulevard #B1-143 Suntec City Mall,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Teban Gardens Branch - Blk 37 Teban Gardens Rd #01-308,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Yishun N7 Branch - Blk 761 Yishun St 72 #01-340,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3729,Group 2,• 7-Eleven Plaza Singapura - 68 Orchard Rd Plaza Singapura #01-51,1,iTOTO - System 12
+3729,Group 2,"• Afro Asia Co Pte Ltd - Blk 604, Yishun Street 61, #01-323",1,iTOTO - System 12
+3729,Group 2,• Chng Siow Eng Agency - Blk 625 Elias Rd Elias Mall #01-314,1,iTOTO - System 12
+3729,Group 2,• Cold Storage Northpoint - 930 Yishun Ave 2 #B1-09/12 Northpoint Shopping Centre,1,iTOTO - System 12
+3729,Group 2,• Everstream Trading - Blk 283 Bukit Batok East Avenue 3 #01-281,1,iTOTO - System 12
+3729,Group 2,• Jake Merchandise Associates - Blk 503 Tampines Central 1 #01-283,1,iTOTO - System 12
+3729,Group 2,• Li Li Cheng Supermarket (Punggol) Pte Ltd - Blk 273C Punggol Place #01-884,1,iTOTO - System 12
+3729,Group 2,• Nel's Store - Blk 741 Bedok Reservoir Rd #01-3073,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Pasir Ris White Sands - 1 Pasir Ris Central St 3 White Sands #B1-10,1,iTOTO - System 12
+3729,Group 2,• NTUC FP Warehouse Club - 1 Joo Koon Circle #03-21 Fairprice Hub,1,iTOTO - System 12
+3729,Group 2,"• Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,iTOTO - System 12
+3729,Group 2,"• Singapore Pools Chinatown Point Branch - 133 New Bridge Road, Chinatown Point #01-36",1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Everton Park Branch - Blk 7 Everton Park #01-15,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,iTOTO - System 12
+3729,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3729,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3730,Group 1,NTUC FP Bukit Batok MRT Station - 10 Bukit Batok Central Bukit Batok MRT Station #01-08,0,Ordinary Entry
+3730,Group 2,NTUC FP Clementi Avenue 3 - Blk 451 Clementi Avenue 3 #01-307,1,System 7 Entry
+3731,Group 1,NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,Ordinary Entry
+3731,Group 2,Premier Security Co-operative Ltd - Blk 555 Ang Mo Kio Avenue 10 #01-1966,1,Ordinary Entry
+3731,Group 2,Wanrise Trading - Blk 47 Sims Place #01-177,0,System 7 Entry
+3732,Group 1,"Giant Paya Lebar Square - 60 Paya Lebar Road, Paya Lebar Square #B1-01/05",1,Ordinary Entry
+3732,Group 1,"NTUC FP Woodlands Civic Centre - 900 South Woodlands Dr, #B1-01",0,System 8 Entry
+3732,Group 2,Singapore Pools Account Betting Service - -,1,System 8 Entry
+3732,Group 2,Cheng Chew Wah Agency - 20 Frankel Terrace,1,System 7 Entry
+3732,Group 2,Singapore Pools Ang Mo Kio N6 Branch - Blk 630 Ang Mo Kio Ave 4 #01-968,1,System 7 Entry
+3732,Group 2,Singapore Pools Clementi N3 Branch - Blk 325 Clementi Ave 5 #01-145,1,System 7 Entry
+3732,Group 2,Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,System 7 Entry
+3732,Group 2,Tampines Trading 824 - Blk 824 Tampines St 81 #01-14,1,System 7 Entry
+3732,Group 2,Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,System 7 Entry
+3732,Group 2,Cheng Chew Wah Agency - 20 Frankel Terrace,1,Ordinary Entry
+3732,Group 2,Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,Ordinary Entry
+3732,Group 2,Singapore Pools Woodlands N5 Branch - Blk 548 Woodlands Dr 44 Vista Point #02-04,0,System 10 Entry
+3732,Group 2,Ng Nam Thye Trading - Ang Mo Kio Ave 3 - 51 Ang Mo Kio Avenue 3 #01-01B,0,Ordinary Entry
+3732,Group 2,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3732,Group 2,• Seng Yeok Chan Agency - Blk 338 Ang Mo Kio Ave 1 #01-1657,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3732,Group 2,• 7-Eleven Owen Road - Blk 45 Owen Rd #01-295,1,iTOTO - System 12
+3732,Group 2,• Cheng Chew Wah Agency - 20 Frankel Terrace,1,iTOTO - System 12
+3732,Group 2,• Chong Hoe Tong - Blk 21 Lor 7 Toa Payoh #01-290,1,iTOTO - System 12
+3732,Group 2,• Chua Hong Kim Trading - Blk 237 Serangoon Ave 3 #01-108,1,iTOTO - System 12
+3732,Group 2,• Evercool Engineering - Blk 95 Lor 4 Toa Payoh #01-50,1,iTOTO - System 12
+3732,Group 2,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3732,Group 2,• Li Li Cheng Supermarket (Punggol) Pte Ltd - Blk 273C Punggol Place #01-884,1,iTOTO - System 12
+3732,Group 2,"• Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,iTOTO - System 12
+3732,Group 2,• Ng Nam Thye Trading - Ang Mo Kio Ave 3 - 51 Ang Mo Kio Avenue 3 #01-01B,1,iTOTO - System 12
+3732,Group 2,• NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,iTOTO - System 12
+3732,Group 2,• NTUC FP Pasir Ris White Sands - 1 Pasir Ris Central St 3 White Sands #B1-10,1,iTOTO - System 12
+3732,Group 2,"• NTUC FP Wisteria Mall - 598 Yishun Ring Road, #01-01 Wisteria Mall",1,iTOTO - System 12
+3732,Group 2,• Ong Eng Siang Trading - Blk 71 Seng Poh Road #01-43,1,iTOTO - System 12
+3732,Group 2,"• Precise Optics - 111 North Bridge Road, #02-03 Peninsula Plaza",1,iTOTO - System 12
+3732,Group 2,• Seah Geok Eng Agency - Blk 118 Rivervale Dr Rivervale Plaza #01-15,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Funan Branch - 107 North Bridge Road #B1-02,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Telok Blangah Crescent Branch - Blk 6 Telok Blangah Crescent #01-418,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Woodlands N3 Branch - Blk 305 Woodlands St 31 #01-77,1,iTOTO - System 12
+3732,Group 2,• Tan Boon Tin Agency - Blk 56 Marine Terrace #01-253,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3732,Group 2,• Cheers Harbourfront - 1 Maritime Square Harbourfront Centre #01-82,1,iTOTO - System 12
+3732,Group 2,• Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,iTOTO - System 12
+3732,Group 2,• Gerk Chwee Trading - 4 Kensington Park Rd,1,iTOTO - System 12
+3732,Group 2,• Kis Store - 3 Pickering Street (South Bridge Road) #01-49,1,iTOTO - System 12
+3732,Group 2,• Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,1,iTOTO - System 12
+3732,Group 2,"• Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,iTOTO - System 12
+3732,Group 2,• NTUC FP Boon Lay - Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200,1,iTOTO - System 12
+3732,Group 2,• NTUC FP Compassvale Link - Blk 277C Compassvale Link #01-13 (Unit 2B),1,iTOTO - System 12
+3732,Group 2,• NTUC FP Jem Hypermart - 50 Jurong Gateway Road #B1-21/22,1,iTOTO - System 12
+3732,Group 2,• NTUC FP Marsiling MRT Station - 71 Woodlands Ave 3 Marsiling MRT Station #01-01,1,iTOTO - System 12
+3732,Group 2,"• NTUC FP Parkway Parade - 80 Marine Parade Rd #03-28, Parkway Parade",1,iTOTO - System 12
+3732,Group 2,"• NTUC FP Paya Lebar Quarter - 10 Paya Lebar Road, #B2-09 Paya Lebar Quarter",1,iTOTO - System 12
+3732,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3732,Group 2,• NTUC FP Tampines Mall - 4 Tampines Central 5 Tampines Mall #B1-12,1,iTOTO - System 12
+3732,Group 2,• NTUC FP Toa Payoh - Blk 192 Lor 4 Toa Payoh #01-670/672,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Chai Chee Branch - Blk 36 Chai Chee Ave #01-167,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Peace Centre Branch - 1 Sophia Rd Peace Centre #01-24/25,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Woodlands N8 Branch - Blk 883 Woodlands St 82 #02-468,1,iTOTO - System 12
+3732,Group 2,• Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,iTOTO - System 12
+3732,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3733,Group 1,Yeo Soon Huat - Blk 70 Lor 4 Toa Payoh #01-347,1,Ordinary Entry
+3733,Group 2,NTUC FP Tiong Bahru Plaza - 302 Tiong Bahru Road Tiong Bahru Plaza #B1-01/02,1,System 7 Entry
+3734,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3734,Group 2,Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,1,System 7 Entry
+3734,Group 2,Xie Sheng Dept Service Co - Blk 632 Bedok Reservoir Rd #01-820,1,System 7 Entry
+3734,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3734,Group 2,"• Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,iTOTO - System 12
+3734,Group 2,• Xie Sheng Dept Service Co - Blk 632 Bedok Reservoir Rd #01-820,1,iTOTO - System 12
+3734,Group 2,• 7-Eleven Foch Rd - 27 Foch Rd Hoa Nam Building #01-07/08,1,iTOTO - System 12
+3734,Group 2,• Cheers Hougang Ave 3 - Blk 23 Hougang Ave 3 #01-281,1,iTOTO - System 12
+3734,Group 2,• Chop Yeo Thong Heng - Blk 83 MacPherson Lane #01-249,1,iTOTO - System 12
+3734,Group 2,• Kwek Lee Eng Agency - 200 Jln Sultan Textile Centre #01-29,1,iTOTO - System 12
+3734,Group 2,• Laura's Gifts - Blk 442 Pasir Ris Dr 6 #01-42,1,iTOTO - System 12
+3734,Group 2,• NTUC FP Jurong Point - 1 Jurong West Central 2 Jurong Point #B1-09,1,iTOTO - System 12
+3734,Group 2,• Prime Compassvale St - Blk 263 Compassvale St #01-01,1,iTOTO - System 12
+3734,Group 2,• Rangoon Provision Shop - 681 Race Course Road #01-309,1,iTOTO - System 12
+3734,Group 2,• Seah Geok Eng Agency - Blk 118 Rivervale Dr Rivervale Plaza #01-15,1,iTOTO - System 12
+3734,Group 2,• Singapore Pools Anchorvale Rd Branch - Blk 308 Anchorvale Rd #01-05,1,iTOTO - System 12
+3734,Group 2,• Singapore Pools Ang Mo Kio N6 Branch - Blk 630 Ang Mo Kio Ave 4 #01-968,1,iTOTO - System 12
+3734,Group 2,• Singapore Pools Bedok North Branch - Blk 509 Bedok North St 3 #01-129,1,iTOTO - System 12
+3734,Group 2,• Singapore Pools Commonwealth Crescent Branch - Blk 116 Commonwealth Crescent #01-135,1,iTOTO - System 12
+3734,Group 2,• Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,1,iTOTO - System 12
+3734,Group 2,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3734,Group 2,• Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,iTOTO - System 12
+3734,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3734,Group 2,• Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,iTOTO - System 12
+3734,Group 2,• Singapore Pools Yishun N7 Branch - Blk 761 Yishun St 72 #01-340,1,iTOTO - System 12
+3734,Group 2,• Teo Khar Bee Agency - Blk 84 Redhill Lane #01-356,1,iTOTO - System 12
+3734,Group 2,• Vitatron & Medical Co - 60 Smith St,1,iTOTO - System 12
+3735,Group 1,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3736,Group 2,NTUC FP Changi Business Park Hypermarket - 8 Changi Business Park Ave 1 #01-51 & #02-51,1,Ordinary Entry
+3736,Group 2,Prime Keat Hong - Blk 253 Choa Chu Kang Avenue 1 #B1-07/10 Keat Hong Shopping Centre,1,Ordinary Entry
+3737,Group 2,"Singapore Pools Chinatown Point Branch - 133 New Bridge Road, Chinatown Point #01-36",1,System 7 Entry
+3737,Group 2,"Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,Ordinary Entry
+3737,Group 2,Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,0,System 7 Entry
+3738,Group 1,Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,System Roll Entry
+3738,Group 1,NTUC FP Serangoon North - Blk 152B Serangoon North Ave 1 #01-384,1,System 7 Entry
+3738,Group 1,NTUC FP Toa Payoh HDB Centre - Blk 500 Lor 6 Toa Payoh HDB Centre #01-33,1,System 7 Entry
+3738,Group 1,Singapore Pools Siglap Branch - 697B East Coast Road,1,System 7 Entry
+3738,Group 1,7-Eleven Chua Chu Kang Drive - Blk 689B Chua Chu Kang Dr #01-306,1,Ordinary Entry
+3738,Group 1,Li Li Cheng Supermarket (Punggol) Pte Ltd - Blk 273C Punggol Place #01-884,0,System 11 Entry
+3738,Group 1,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3738,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3738,Group 1,• Singapore Pools Siglap Branch - 697B East Coast Road,1,iTOTO - System 12
+3738,Group 1,• 7-Eleven Foch Rd - 27 Foch Rd Hoa Nam Building #01-07/08,1,iTOTO - System 12
+3738,Group 1,• Bukit Merah Betting Centre - Lottery Lobby (Public) - 169 Jalan Bukit Merah Tower 2,1,iTOTO - System 12
+3738,Group 1,• Chng Siow Eng Agency - Blk 625 Elias Rd Elias Mall #01-314,1,iTOTO - System 12
+3738,Group 1,• Giant Beauty World - 144 Upper Bukit Timah Road Beauty World Centre #B1-01,1,iTOTO - System 12
+3738,Group 1,• Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,1,iTOTO - System 12
+3738,Group 1,• Li Thoe Trading - Blk 119 Aljunied Ave 2 #01-78,1,iTOTO - System 12
+3738,Group 1,• Metro Woodlands - 1 Woodlands Square Causeway Point #01-18/19,1,iTOTO - System 12
+3738,Group 1,"• NTUC FP Paya Lebar Quarter - 10 Paya Lebar Road, #B2-09 Paya Lebar Quarter",1,iTOTO - System 12
+3738,Group 1,• NTUC FP Serangoon North - Blk 152B Serangoon North Ave 1 #01-384,1,iTOTO - System 12
+3738,Group 1,• NTUC FP Yishun Ring Rd - Blk 849 Yishun Ring Rd #01-3701/3703,1,iTOTO - System 12
+3738,Group 1,• OCN (Singapore) Pte Ltd - Blk 501 West Coast Drive #01-266,1,iTOTO - System 12
+3738,Group 1,• Singapore Pools 88 Circuit Rd Branch - Blk 88 Circuit Rd #01-961,1,iTOTO - System 12
+3738,Group 1,• Singapore Pools Ang Mo Kio N6 Branch - Blk 630 Ang Mo Kio Ave 4 #01-968,1,iTOTO - System 12
+3738,Group 1,• Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,iTOTO - System 12
+3738,Group 1,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3738,Group 1,• Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,iTOTO - System 12
+3738,Group 1,• Singapore Pools New Upper Changi Branch - Blk 26 New Upp Changi Rd #01-666/668,1,iTOTO - System 12
+3738,Group 1,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3738,Group 1,• Wanrise Trading - Blk 47 Sims Place #01-177,1,iTOTO - System 12
+3738,Group 2,Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,System Roll Entry
+3738,Group 2,7-Eleven Yishun Ring Road - Blk 103 Yishun Ring Road #01-69,1,System 8 Entry
+3738,Group 2,"Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,System 8 Entry
+3738,Group 2,Singapore Pools Account Betting Service - -,1,System 8 Entry
+3738,Group 2,7-Eleven Plaza Singapura - 68 Orchard Rd Plaza Singapura #01-51,1,System 7 Entry
+3738,Group 2,Giant Compassvale Bow - Blk 266 Compassvale Bow #01-02,1,System 7 Entry
+3738,Group 2,NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,System 7 Entry
+3738,Group 2,Seng Yeok Chan Agency - Blk 338 Ang Mo Kio Ave 1 #01-1657,1,System 7 Entry
+3738,Group 2,Singapore Pools 88 Circuit Rd Branch - Blk 88 Circuit Rd #01-961,1,System 7 Entry
+3738,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3738,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3738,Group 2,Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,System 7 Entry
+3738,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,1,System 7 Entry
+3738,Group 2,Cheers New Upper Changi Rd - Blk 59 New Upp Changi Rd #01-1272,1,Ordinary Entry
+3738,Group 2,"Giant Paya Lebar Square - 60 Paya Lebar Road, Paya Lebar Square #B1-01/05",1,Ordinary Entry
+3738,Group 2,NTUC FP Compassvale Link - Blk 277C Compassvale Link #01-13 (Unit 2B),1,Ordinary Entry
+3738,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3738,Group 2,Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,1,Ordinary Entry
+3738,Group 2,Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,Ordinary Entry
+3738,Group 2,Singapore Pools Woodlands N8 Branch - Blk 883 Woodlands St 82 #02-468,1,Ordinary Entry
+3738,Group 2,Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,Ordinary Entry
+3738,Group 2,Rangoon Provision Shop - 681 Race Course Road #01-309,0,System Roll Entry
+3738,Group 2,"NTUC FP Downtown East - #02-127, E Hub Downtown East, 1 Pasir Ris Close",0,System 12 Entry
+3738,Group 2,Singapore Pools Account Betting Service - -,0,System 12 Entry
+3738,Group 2,"FairPrice Xpress MacPherson - 110 MacPherson Rd, Exxon-Mobil",0,System 11 Entry
+3738,Group 2,NTUC FP Jem Hypermart - 50 Jurong Gateway Road #B1-21/22,0,System 9 Entry
+3738,Group 2,Singapore Pools Account Betting Service - -,0,System 9 Entry
+3738,Group 2,Cheers Hougang Ave 3 - Blk 23 Hougang Ave 3 #01-281,0,System 7 Entry
+3738,Group 2,Chong Hoe Tong - Blk 21 Lor 7 Toa Payoh #01-290,0,System 7 Entry
+3738,Group 2,Lim Heng Ee - Blk 16 Upp Boon Keng Rd #01-1113,0,System 7 Entry
+3738,Group 2,Seah Geok Eng Upper Serangoon View - Blk 476D Upper Serangoon View #02-02,0,System 7 Entry
+3738,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3738,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,0,Ordinary Entry
+3738,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,0,Ordinary Entry
+3738,Group 2,Cold Storage Northpoint - 930 Yishun Ave 2 #B1-09/12 Northpoint Shopping Centre,0,Ordinary Entry
+3738,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3738,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,iTOTO - System 12
+3738,Group 2,"• Afro Asia Co Pte Ltd - Blk 604, Yishun Street 61, #01-323",1,iTOTO - System 12
+3738,Group 2,• Chng Siow Eng Agency - Blk 625 Elias Rd Elias Mall #01-314,1,iTOTO - System 12
+3738,Group 2,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3738,Group 2,• Goh Geok Kwee (Bukit Merah) - Blk 124 Bukit Merah Lane 1 #01-148,1,iTOTO - System 12
+3738,Group 2,"• Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,iTOTO - System 12
+3738,Group 2,• Metro Woodlands - 1 Woodlands Square Causeway Point #01-18/19,1,iTOTO - System 12
+3738,Group 2,• Nan Huat Wine Store - Blk 513 Bishan St 13 #01-508,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Dawson Place - Blk 57 Dawson Road #01-07 Dawson Place,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Serangoon North - Blk 152B Serangoon North Ave 1 #01-384,1,iTOTO - System 12
+3738,Group 2,• OCN (Singapore) Pte Ltd - Blk 501 West Coast Drive #01-266,1,iTOTO - System 12
+3738,Group 2,• Sheng Siong Sengkang West Avenue - Blk 455 Sengkang West Ave #01-16,1,iTOTO - System 12
+3738,Group 2,"• Singapore Pools Chinatown Point Branch - 133 New Bridge Road, Chinatown Point #01-36",1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Fajar Rd Branch - Blk 445 Fajar Rd Fajar Shopping Centre #02-540,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools New Upper Changi Branch - Blk 26 New Upp Changi Rd #01-666/668,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Woodlands N5 Branch - Blk 548 Woodlands Dr 44 Vista Point #02-04,1,iTOTO - System 12
+3738,Group 2,• Tan Kai Huat Provision Shop - Blk 123 Hougang Ave 1 #01-1408,1,iTOTO - System 12
+3738,Group 2,• Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3738,Group 2,• Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,iTOTO - System 12
+3738,Group 2,• 7-Eleven Eunos Crescent - Blk 1A Eunos Crescent #01-2469/2471,1,iTOTO - System 12
+3738,Group 2,• Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,iTOTO - System 12
+3738,Group 2,• Hock Soon Ann - Block 73 Bedok South Ave 3 #01-454,1,iTOTO - System 12
+3738,Group 2,• Lim Heng Ee - Blk 16 Upp Boon Keng Rd #01-1113,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Bedok North St 1 - Blk 212 Bedok North St 1 #01-147,1,iTOTO - System 12
+3738,Group 2,"• NTUC FP Downtown East - #02-127, E Hub Downtown East, 1 Pasir Ris Close",1,iTOTO - System 12
+3738,Group 2,• NTUC FP Eastpoint Mall - 3 Simei St 6 East Point Mall #05-01,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Hougang St 21 - Blk 202 Hougang St 21 #01-00,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Tampines Mall - 4 Tampines Central 5 Tampines Mall #B1-12,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Tampines St 83 - Blk 866A #01-K1 Tampines St 83,1,iTOTO - System 12
+3738,Group 2,• Prime Chai Chee - 25A Chai Chee Rd #01-459,1,iTOTO - System 12
+3738,Group 2,• Prime Hougang - Blk 159A Hougang St 11 #01-01,1,iTOTO - System 12
+3738,Group 2,• Seah Geok Eng Agency - Blk 118 Rivervale Dr Rivervale Plaza #01-15,1,iTOTO - System 12
+3738,Group 2,• Sheng Siong Tanglin Halt - Blk 88 Tanglin Halt Rd #01-10,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Lengkok Bahru Branch - Blk 63B Lengkok Bahru #01-364,1,iTOTO - System 12
+3738,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3738,Group 2,• Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,iTOTO - System 12
+3738,Group 2,• Vitatron & Medical Co - 60 Smith St,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3738,Group 2,• Mee Lee Cheong Pte Ltd - Blk 139 Tampines St 11 #01-88,1,iTOTO - System 12
+3738,Group 2,• 7-Eleven Eunos Crescent - Blk 1A Eunos Crescent #01-2469/2471,1,iTOTO - System 12
+3738,Group 2,• Cheers New Upper Changi Rd - Blk 59 New Upp Changi Rd #01-1272,1,iTOTO - System 12
+3738,Group 2,• Everbright Services - Blk 108 Depot Road #01-17,1,iTOTO - System 12
+3738,Group 2,• Goh Geok Kwee (Bukit Merah) - Blk 124 Bukit Merah Lane 1 #01-148,1,iTOTO - System 12
+3738,Group 2,• Hao Mart Punggol Walk - Blk 308C Punggol Walk #01-352,1,iTOTO - System 12
+3738,Group 2,• Livewire (Resorts World Sentosa) - 26 Sentosa Gateway #B1-208,1,iTOTO - System 12
+3738,Group 2,• Ng Nam Thye Trading - Blk 399 Yung Sheng Road #01-07 Taman Jurong Shopping Centre,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Eastpoint Mall - 3 Simei St 6 East Point Mall #05-01,1,iTOTO - System 12
+3738,Group 2,"• NTUC FP Tai Seng - 18 Tai Seng Street, Mapletree 18 #B1-13",1,iTOTO - System 12
+3738,Group 2,• Prime Buangkok Square - Blk 991 Buangkok Link #01-28 Buangkok Square,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Canberra Link Branch - Blk 505 Canberra Link #01-02,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Changi Rd Branch - 324K Changi Rd,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Jurong West N4 Branch - Blk 498 Jurong West St 41 #01-472,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Telok Blangah Crescent Branch - Blk 6 Telok Blangah Crescent #01-418,1,iTOTO - System 12
+3738,Group 2,• Springdale Garments Co - Blk 408 Ang Mo Kio Ave 10 #01-795,1,iTOTO - System 12
+3738,Group 2,• Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,iTOTO - System 12
+3738,Group 2,• Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3738,Group 2,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3738,Group 2,• Gerk Chwee Trading - 4 Kensington Park Rd,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Clementi Avenue 2 - Blk 352 Clementi Avenue 2 #01-141/143,1,iTOTO - System 12
+3738,Group 2,• Prime Century Square - 2 Tampines Central 5 #B1-08 Century Square,1,iTOTO - System 12
+3738,Group 2,• Prime Serangoon North - Blk 542B Serangoon North Ave 3 #02-01,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Peace Centre Branch - 1 Sophia Rd Peace Centre #01-24/25,1,iTOTO - System 12
+3738,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3738,Group 2,• Gerk Chwee Trading - 4 Kensington Park Rd,1,iTOTO - System 12
+3738,Group 2,• Laura's Gifts - Blk 442 Pasir Ris Dr 6 #01-42,1,iTOTO - System 12
+3738,Group 2,• Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,iTOTO - System 12
+3738,Group 2,• NTUC FP Bukit Panjang Plaza - 1 Jelebu Road #01-15 & #02-20 Bukit Panjang Plaza,1,iTOTO - System 12
+3738,Group 2,• Singapore Pools Lor 8 Toa Payoh Branch - Blk 212 Lor 8 Toa Payoh #01-39,1,iTOTO - System 12
+3738,Group 2,• Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,iTOTO - System 12
+3739,Group 1,NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,0,System 8 Entry
+3739,Group 2,Giant Sembawang Shopping Centre - 604 Sembawang Road Sembawang Shopping Centre #B1-25,1,System 7 Entry
+3739,Group 2,Prime Keat Hong - Blk 253 Choa Chu Kang Avenue 1 #B1-07/10 Keat Hong Shopping Centre,1,Ordinary Entry
+3739,Group 2,7-Eleven Balestier Rd - 271 Balestier Rd #01-01 Victory Point,0,Ordinary Entry
+3740,Group 1,Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,Ordinary Entry
+3740,Group 2,NTUC FP Thomson Plaza - 301 Upp Thomson Rd Thomson Plaza #03-36,1,System 8 Entry
+3740,Group 2,NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,Ordinary Entry
+3740,Group 2,7-Eleven Yishun Ring Road - Blk 103 Yishun Ring Road #01-69,0,Ordinary Entry
+3741,Group 2,A P Mini Mart - Blk 234 Lor 8 Toa Payoh #01-286,1,System 7 Entry
+3741,Group 2,Metro Woodlands - 1 Woodlands Square Causeway Point #01-18/19,1,System 7 Entry
+3741,Group 2,"Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,Ordinary Entry
+3742,Group 1,NTUC FP Bedok North St 4 - Blk 89 Bedok North St 4 #01-77/79,1,System 7 Entry
+3742,Group 2,Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,System 7 Entry
+3742,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3742,Group 2,Prime Serangoon North - Blk 542B Serangoon North Ave 3 #02-01,0,Ordinary Entry
+3743,Group 2,Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,Ordinary Entry
+3743,Group 2,Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,1,Ordinary Entry
+3744,Group 1,Kis Store - 3 Pickering Street (South Bridge Road) #01-49,1,System 7 Entry
+3744,Group 2,7-Eleven Bedok North - Blk 123 Bedok North St 2 #01-158,1,System 7 Entry
+3744,Group 2,Singapore Pools Anchorvale Rd Branch - Blk 308 Anchorvale Rd #01-05,1,System 7 Entry
+3744,Group 2,Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,Ordinary Entry
+3744,Group 2,Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,0,System 8 Entry
+3745,Group 1,Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,0,Ordinary Entry
+3746,Group 2,Cold Storage Northpoint - 930 Yishun Ave 2 #B1-09/12 Northpoint Shopping Centre,1,System 8 Entry
+3746,Group 2,Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,System 7 Entry
+3747,Group 2,"NTUC FP Downtown East - #02-127, E Hub Downtown East, 1 Pasir Ris Close",1,Ordinary Entry
+3747,Group 2,Seah Koon Huat (Boon Tiong Rd) - Blk 11A Boon Tiong Rd #01-10,1,Ordinary Entry
+3748,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3748,Group 1,• 7-Eleven Sin Ming - 244H Upp Thomson Rd,1,iTOTO - System 12
+3748,Group 1,• A P Mini Mart - Blk 234 Lor 8 Toa Payoh #01-286,1,iTOTO - System 12
+3748,Group 1,• Cheers Hougang Ave 3 - Blk 23 Hougang Ave 3 #01-281,1,iTOTO - System 12
+3748,Group 1,• Dawn Florist - 21 Hougang St 51 Hougang Green Shopping Mall #01-04A,1,iTOTO - System 12
+3748,Group 1,• Giant Sunshine Place - 475 Choa Chu Kang Ave 3 Sunshine Place #01-01/10,1,iTOTO - System 12
+3748,Group 1,"• Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,iTOTO - System 12
+3748,Group 1,• Livewire (Resorts World Sentosa) - 26 Sentosa Gateway #B1-208,1,iTOTO - System 12
+3748,Group 1,• Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,iTOTO - System 12
+3748,Group 1,• Lucky Hill - Blk 112 Bukit Purmei Road #01-209,1,iTOTO - System 12
+3748,Group 1,• Mee Lee Cheong Pte Ltd - Blk 139 Tampines St 11 #01-88,1,iTOTO - System 12
+3748,Group 1,• NTUC FP Bedok North St 4 - Blk 89 Bedok North St 4 #01-77/79,1,iTOTO - System 12
+3748,Group 1,• NTUC FP Bukit Batok MRT Station - 10 Bukit Batok Central Bukit Batok MRT Station #01-08,1,iTOTO - System 12
+3748,Group 1,• NTUC FP Marsiling MRT Station - 71 Woodlands Ave 3 Marsiling MRT Station #01-01,1,iTOTO - System 12
+3748,Group 1,• NTUC FP Pasir Ris White Sands - 1 Pasir Ris Central St 3 White Sands #B1-10,1,iTOTO - System 12
+3748,Group 1,• Prime Punggol Field - Blk 108 Punggol Field #01-02,1,iTOTO - System 12
+3748,Group 1,• Rangoon Provision Shop - 681 Race Course Road #01-309,1,iTOTO - System 12
+3748,Group 1,• Sheng Siong Junction 9 - 18 Yishun Avenue 9 #02-05 to #02-10 Junction 9,1,iTOTO - System 12
+3748,Group 1,• Singapore Pools Anchorvale Rd Branch - Blk 308 Anchorvale Rd #01-05,1,iTOTO - System 12
+3748,Group 1,• Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,iTOTO - System 12
+3748,Group 1,• Singapore Pools Teban Gardens Branch - Blk 37 Teban Gardens Rd #01-308,1,iTOTO - System 12
+3748,Group 1,• Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,iTOTO - System 12
+3748,Group 1,• Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,iTOTO - System 12
+3748,Group 1,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3748,Group 2,NTUC FP Toa Payoh - Blk 192 Lor 4 Toa Payoh #01-670/672,1,System 7 Entry
+3748,Group 2,Singapore Pools Bukit Gombak Branch - Blk 374 Bukit Batok St 31 #01-170,1,System 7 Entry
+3748,Group 2,NTUC FP Senja - Blk 628 Senja Rd Senja Grand #01-01,1,Ordinary Entry
+3748,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3748,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3748,Group 2,• Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,iTOTO - System 12
+3748,Group 2,• 7-Eleven Clementi Street 11 - Blk 109 Clementi Street 11 #01-15,1,iTOTO - System 12
+3748,Group 2,• 7-Eleven Owen Road - Blk 45 Owen Rd #01-295,1,iTOTO - System 12
+3748,Group 2,• Chop Yeo Thong Heng - Blk 83 MacPherson Lane #01-249,1,iTOTO - System 12
+3748,Group 2,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3748,Group 2,• Giant Pioneer Mall - Blk 638 Jurong West Street 61 Pioneer Mall #03-01,1,iTOTO - System 12
+3748,Group 2,• Hin Teck Leong Trading Company - Blk 74 Whampoa Drive #01-342,1,iTOTO - System 12
+3748,Group 2,• NTUC FP Jurong Point - 1 Jurong West Central 2 Jurong Point #B1-09,1,iTOTO - System 12
+3748,Group 2,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3748,Group 2,• NTUC FP Kallang Bahru - Blk 71 Kallang Bahru #01-529,1,iTOTO - System 12
+3748,Group 2,• Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,iTOTO - System 12
+3748,Group 2,• Singapore Pools Changi Rd Branch - 324K Changi Rd,1,iTOTO - System 12
+3748,Group 2,• Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,1,iTOTO - System 12
+3748,Group 2,• Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,iTOTO - System 12
+3748,Group 2,"• Singapore Pools IMM Branch - 2 Jurong East St 21 #02-63, IMM Building",1,iTOTO - System 12
+3748,Group 2,• Singapore Pools New Upper Changi Branch - Blk 26 New Upp Changi Rd #01-666/668,1,iTOTO - System 12
+3748,Group 2,• Singapore Pools Pasir Ris N2 Branch - Blk 259 Pasir Ris St 21 Loyang Point #02-29,1,iTOTO - System 12
+3748,Group 2,• Singapore Pools Tampines Mart Branch - 11 Tampines St 32 Tampines Mart #01-03,1,iTOTO - System 12
+3748,Group 2,• Singapore Pools Woodlands N3 Branch - Blk 305 Woodlands St 31 #01-77,1,iTOTO - System 12
+3748,Group 2,• Wong Teck Chow Enterprise (Pte) Ltd - 390 Victoria St #01-33 Village Hotel Bugis,1,iTOTO - System 12
+3749,Group 1,"Afro Asia Co Pte Ltd - Blk 604, Yishun Street 61, #01-323",1,Ordinary Entry
+3749,Group 2,Gerk Chwee Trading - 4 Kensington Park Rd,0,System 8 Entry
+3749,Group 2,Cheng Chew Wah Agency - 20 Frankel Terrace,0,System 7 Entry
+3749,Group 2,7-Eleven Plaza Singapura - 68 Orchard Rd Plaza Singapura #01-51,0,Ordinary Entry
+3749,Group 2,7-Eleven Sin Ming - 244H Upp Thomson Rd,0,Ordinary Entry
+3749,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3749,Group 2,Teo Khar Bee Agency - Blk 84 Redhill Lane #01-356,0,Ordinary Entry
+3750,Group 1,7-Eleven Eunos Crescent - Blk 1A Eunos Crescent #01-2469/2471,1,Ordinary Entry
+3750,Group 1,Sheng Moh Fruits & Provision Store - 29 Jalan Mas Puteh,1,Ordinary Entry
+3750,Group 2,Ng Nam Thye Trading - Blk 399 Yung Sheng Road #01-07 Taman Jurong Shopping Centre,0,System 7 Entry
+3751,Group 2,Nan Huat Wine Store - Blk 513 Bishan St 13 #01-508,1,System Roll Entry
+3751,Group 2,Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,System 7 Entry
+3752,Group 1,NTUC Finest Seletar Mall - 33 Sengkang West Avenue 4 #B2-24,0,System 7 Entry
+3752,Group 2,"FairPrice Xpress MacPherson - 110 MacPherson Rd, Exxon-Mobil",0,System 7 Entry
+3752,Group 2,Singapore Pools Geylang Bahru Branch - Blk 57 Geylang Bahru #01-3503,0,System 7 Entry
+3752,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3753,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3753,Group 2,Rangoon Provision Shop - 681 Race Course Road #01-309,0,System 8 Entry
+3754,Group 2,Golden Lagoon Trading - Blk 136 Marsiling Road #01-2182,1,System 7 Entry
+3754,Group 2,7-Eleven Bukit Batok West - Blk 132 Bukit Batok West Ave 6 #01-304,1,Ordinary Entry
+3754,Group 2,Li Thoe Trading - Blk 119 Aljunied Ave 2 #01-78,1,Ordinary Entry
+3754,Group 2,Kis Store - 3 Pickering Street (South Bridge Road) #01-49,0,System 7 Entry
+3754,Group 2,NTUC FP Yew Tee - 21 Choa Chu Kang North 6 #B1-01 to 07 Yew Tee Point,0,Ordinary Entry
+3754,Group 2,NTUC FP Yew Tee - 21 Choa Chu Kang North 6 #B1-01 to 07 Yew Tee Point,0,Ordinary Entry
+3754,Group 2,Papillon Florist Pte Ltd - Blk 133 Jalan Bukit Merah #01-1520,0,Ordinary Entry
+3755,Group 2,7-Eleven Bukit Batok West - Blk 132 Bukit Batok West Ave 6 #01-304,1,System 7 Entry
+3755,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3755,Group 2,Singapore Pools Lor 25A Geylang Branch - 62 Lor 25A Geylang,1,System 7 Entry
+3755,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3755,Group 2,Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,Ordinary Entry
+3755,Group 2,Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,Ordinary Entry
+3755,Group 2,Singapore Pools Sim Lim Square Branch - 1 Rochor Canal Rd Sim Lim Square #B1-37,0,System 8 Entry
+3755,Group 2,Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,0,System 7 Entry
+3755,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3755,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3755,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3755,Group 2,• Chua Hong Kim Trading - Blk 237 Serangoon Ave 3 #01-108,1,iTOTO - System 12
+3755,Group 2,• Prime Keat Hong - Blk 253 Choa Chu Kang Avenue 1 #B1-07/10 Keat Hong Shopping Centre,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Siglap Branch - 697B East Coast Road,1,iTOTO - System 12
+3755,Group 2,• 7-Eleven Circular Rd - 58 Circular Rd #01-01,1,iTOTO - System 12
+3755,Group 2,• 7-Eleven Yishun Ring Road - Blk 103 Yishun Ring Road #01-69,1,iTOTO - System 12
+3755,Group 2,• Cheers Northshore Plaza II - 418 Northshore Drive #02-05/06 Northshore Plaza II,1,iTOTO - System 12
+3755,Group 2,"• Cheng Chew Wah Agency (Bedok South) - Blk 17 Bedok South Road, #01-583",1,iTOTO - System 12
+3755,Group 2,"• FairPrice Xpress MacPherson - 110 MacPherson Rd, Exxon-Mobil",1,iTOTO - System 12
+3755,Group 2,• NTUC FP Bedok North St 4 - Blk 89 Bedok North St 4 #01-77/79,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Bukit Merah - Blk 166 Bukit Merah Central #02-3531,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Clementi Avenue 2 - Blk 352 Clementi Avenue 2 #01-141/143,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Clementi Avenue 3 - Blk 451 Clementi Avenue 3 #01-307,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Serangoon North - Blk 152B Serangoon North Ave 1 #01-384,1,iTOTO - System 12
+3755,Group 2,• PFG Framing & Trading - Blk 960 Jurong West Street 92 #01-182,1,iTOTO - System 12
+3755,Group 2,• Rangoon Provision Shop - 681 Race Course Road #01-309,1,iTOTO - System 12
+3755,Group 2,"• Singapore Pools Chinatown Point Branch - 133 New Bridge Road, Chinatown Point #01-36",1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Lor 8 Toa Payoh Branch - Blk 212 Lor 8 Toa Payoh #01-39,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Woodlands N3 Branch - Blk 305 Woodlands St 31 #01-77,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Tampines Mall - 4 Tampines Central 5 Tampines Mall #B1-12,1,iTOTO - System 12
+3755,Group 2,"• A P Minimart Bedok Reservoir - Blk 121 Bedok Reservoir Road, #01-200",1,iTOTO - System 12
+3755,Group 2,"• Giant Paya Lebar Square - 60 Paya Lebar Road, Paya Lebar Square #B1-01/05",1,iTOTO - System 12
+3755,Group 2,• Laura's Gifts - Blk 442 Pasir Ris Dr 6 #01-42,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Bukit Merah - Blk 166 Bukit Merah Central #02-3531,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Le Quest - 4 Bukit Batok Street 41 #01-91/92 Le Quest,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Limbang Shopping Centre - Blk 533 Choa Chu Kang St 51 Limbang Shopping Centre #01-01,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Toa Payoh - Blk 192 Lor 4 Toa Payoh #01-670/672,1,iTOTO - System 12
+3755,Group 2,• NTUC FP Yung Kuang - Blk 63-66 Yung Kuang Road #01-119/02-119,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Clementi N3 Branch - Blk 325 Clementi Ave 5 #01-145,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3755,Group 2,• Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,1,iTOTO - System 12
+3755,Group 2,• Tan Ah Leck Trading - Blk 151 Bukit Batok Street 11 #01-254,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,iTOTO - System 12
+3756,Group 1,• 7-Eleven Plaza Singapura - 68 Orchard Rd Plaza Singapura #01-51,1,iTOTO - System 12
+3756,Group 1,• Chuan Hao Departmental Store - Blk 19A Dover Crescent #01-04,1,iTOTO - System 12
+3756,Group 1,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3756,Group 1,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3756,Group 1,• Kwek Lee Eng Agency - 200 Jln Sultan Textile Centre #01-29,1,iTOTO - System 12
+3756,Group 1,• Laura's Gifts - Blk 442 Pasir Ris Dr 6 #01-42,1,iTOTO - System 12
+3756,Group 1,• Metro Woodlands - 1 Woodlands Square Causeway Point #01-18/19,1,iTOTO - System 12
+3756,Group 1,"• NTUC FP Downtown East - #02-127, E Hub Downtown East, 1 Pasir Ris Close",1,iTOTO - System 12
+3756,Group 1,• NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,iTOTO - System 12
+3756,Group 1,• Seah Koon Huat (Boon Tiong Rd) - Blk 11A Boon Tiong Rd #01-10,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Bukit Batok N3 Branch - Blk 324 Bukit Batok St 33 #01-47,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Peace Centre Branch - 1 Sophia Rd Peace Centre #01-24/25,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,iTOTO - System 12
+3756,Group 1,• Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,iTOTO - System 12
+3756,Group 1,• Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,iTOTO - System 12
+3756,Group 1,• Wanrise Trading - Blk 47 Sims Place #01-177,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3756,Group 1,• B.H. Mini Mart - Blk 137 Potong Pasir Ave 3 #01-142,1,iTOTO - System 12
+3756,Group 1,• Cheers New Upper Changi Rd - Blk 59 New Upp Changi Rd #01-1272,1,iTOTO - System 12
+3756,Group 1,• Everstream Trading - Blk 283 Bukit Batok East Avenue 3 #01-281,1,iTOTO - System 12
+3756,Group 1,• Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,iTOTO - System 12
+3756,Group 1,• NTUC FP Boon Lay - Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200,1,iTOTO - System 12
+3756,Group 1,• NTUC FP Bukit Batok MRT Station - 10 Bukit Batok Central Bukit Batok MRT Station #01-08,1,iTOTO - System 12
+3756,Group 1,• NTUC FP Bukit Merah - Blk 166 Bukit Merah Central #02-3531,1,iTOTO - System 12
+3756,Group 1,• NTUC FP Telok Blangah - Blk 78A Telok Blangah Street 32 #01-01,1,iTOTO - System 12
+3756,Group 1,• NTUC FP Yishun - 301 Yishun Ave 2 Yishun MRT Station #01-02,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools 64 Circuit Rd Branch - Blk 64 Circuit Rd #01-355,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Hougang N3 Branch - Blk 322 Hougang Ave 5 #01-70,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Jurong West N4 Branch - Blk 498 Jurong West St 41 #01-472,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,iTOTO - System 12
+3756,Group 1,• Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,iTOTO - System 12
+3756,Group 1,• Tan Ah Leck Trading Jurong East - Blk 352 Jurong East Street 31 #01-121,1,iTOTO - System 12
+3756,Group 1,• Tuck Lee Long - Blk 159 Ang Mo Kio Ave 4 #01-536,1,iTOTO - System 12
+3756,Group 1,• Vitatron & Medical Co - 60 Smith St,1,iTOTO - System 12
+3756,Group 2,7-Eleven Bedok North - Blk 123 Bedok North St 2 #01-158,1,System 7 Entry
+3756,Group 2,NTUC FP Bukit Merah - Blk 166 Bukit Merah Central #02-3531,1,System 7 Entry
+3756,Group 2,NTUC FP Toa Payoh HDB Centre - Blk 500 Lor 6 Toa Payoh HDB Centre #01-33,1,System 7 Entry
+3756,Group 2,Sheng Siong Jalan Berseh - 1 Jalan Berseh #B1-02 to #B1-22 New World Centre,1,System 7 Entry
+3756,Group 2,Singapore Pools Account Betting Service - -,0,System 9 Entry
+3756,Group 2,Hin Teck Leong Trading Company - Blk 74 Whampoa Drive #01-342,0,System 8 Entry
+3756,Group 2,Singapore Pools Account Betting Service - -,0,System 8 Entry
+3756,Group 2,NTUC FP Serangoon North - Blk 152B Serangoon North Ave 1 #01-384,0,System 7 Entry
+3756,Group 2,NTUC FP Sengkang East - Blk 279 Sengkang East Ave #01-06,0,Ordinary Entry
+3756,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3756,Group 2,• Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,iTOTO - System 12
+3756,Group 2,• 7-Eleven Eunos Crescent - Blk 1A Eunos Crescent #01-2469/2471,1,iTOTO - System 12
+3756,Group 2,• Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,iTOTO - System 12
+3756,Group 2,"• Giant Paya Lebar Square - 60 Paya Lebar Road, Paya Lebar Square #B1-01/05",1,iTOTO - System 12
+3756,Group 2,• Kim Chwee Trading - Blk 256 Jurong East Street 24 #01-385,1,iTOTO - System 12
+3756,Group 2,• Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,1,iTOTO - System 12
+3756,Group 2,• NTUC FP Bedok North St 1 - Blk 212 Bedok North St 1 #01-147,1,iTOTO - System 12
+3756,Group 2,• NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,iTOTO - System 12
+3756,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3756,Group 2,"• NTUC FP VivoCity - 1 Harbourfront Walk, #01-23 Vivo City",1,iTOTO - System 12
+3756,Group 2,"• NTUC FP Woodlands Civic Centre - 900 South Woodlands Dr, #B1-01",1,iTOTO - System 12
+3756,Group 2,• NTUC FP Yishun - 301 Yishun Ave 2 Yishun MRT Station #01-02,1,iTOTO - System 12
+3756,Group 2,• Pinthely Floral Centre - 5001 Beach Road #02-35 Golden Mile Complex,1,iTOTO - System 12
+3756,Group 2,• Seah Geok Eng Upper Serangoon View - Blk 476D Upper Serangoon View #02-02,1,iTOTO - System 12
+3756,Group 2,• Sheng Siong Tanglin Halt - Blk 88 Tanglin Halt Rd #01-10,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Ang Mo Kio N4 Branch - Blk 447 Ang Mo Kio Ave 10 #01-1685,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Lengkok Bahru Branch - Blk 63B Lengkok Bahru #01-364,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools New Upper Changi Branch - Blk 26 New Upp Changi Rd #01-666/668,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Suntec City - 3 Temasek Boulevard #B1-143 Suntec City Mall,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,iTOTO - System 12
+3756,Group 2,• Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,1,iTOTO - System 12
+3756,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3757,Group 2,Prime Compassvale St - Blk 263 Compassvale St #01-01,1,System 7 Entry
+3758,Group 1,Prime Chai Chee - 25A Chai Chee Rd #01-459,0,Ordinary Entry
+3758,Group 1,Singapore Pools Tampines N4 Branch - Blk 481 Tampines St 44 #01-277,0,Ordinary Entry
+3758,Group 2,NTUC FP Bukit Timah Plaza - 1 Jalan Anak Bukit Bukit Timah Plaza #B1-01,1,System 7 Entry
+3758,Group 2,Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,System 7 Entry
+3758,Group 2,Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,Ordinary Entry
+3758,Group 2,NTUC FP Thomson Plaza - 301 Upp Thomson Rd Thomson Plaza #03-36,0,Ordinary Entry
+3759,Group 2,Xie Sheng Dept Service Co - Blk 632 Bedok Reservoir Rd #01-820,1,System 7 Entry
+3759,Group 2,Singapore Pools Tampines Mart Branch - 11 Tampines St 32 Tampines Mart #01-03,1,Ordinary Entry
+3759,Group 2,Singapore Pools Potong Pasir Branch - Blk 148 Potong Pasir Ave 1 #01-73,0,Ordinary Entry
+3760,Group 1,Vitatron & Medical Co - 60 Smith St,1,Ordinary Entry
+3760,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3760,Group 2,Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,0,System 8 Entry
+3760,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3761,Group 2,Singapore Pools Lor 8 Toa Payoh Branch - Blk 212 Lor 8 Toa Payoh #01-39,1,System 7 Entry
+3761,Group 2,7-Eleven Owen Road - Blk 45 Owen Rd #01-295,1,Ordinary Entry
+3761,Group 2,Li Thoe Trading - Blk 119 Aljunied Ave 2 #01-78,0,System 7 Entry
+3762,Group 1,Ng Teo Guan Self Service - Blk 301 Ubi Ave 1 #01-241,1,Ordinary Entry
+3762,Group 2,Everbright Services - Blk 108 Depot Road #01-17,1,System 7 Entry
+3762,Group 2,Everstream Trading - Blk 283 Bukit Batok East Avenue 3 #01-281,1,System 7 Entry
+3762,Group 2,Kwek Lee Eng Agency - 200 Jln Sultan Textile Centre #01-29,1,Ordinary Entry
+3763,Group 1,Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,System 7 Entry
+3763,Group 2,Ong Eng Siang Trading - Blk 71 Seng Poh Road #01-43,1,Ordinary Entry
+3763,Group 2,Cheers Bedok North - Blk 539 Bedok North St 3 #01-625,0,System 7 Entry
+3763,Group 2,Singapore Pools 88 Circuit Rd Branch - Blk 88 Circuit Rd #01-961,0,System 7 Entry
+3763,Group 2,Tan Boon Tin Agency - Blk 56 Marine Terrace #01-253,0,System 7 Entry
+3763,Group 2,Cheng Tai Boon Beng - 150 Orchard Road #01-63 Orchard Plaza,0,Ordinary Entry
+3764,Group 2,7-Eleven Sixth Avenue - 6 Sixth Ave,1,System 8 Entry
+3764,Group 2,NTUC FP Changi Business Park Hypermarket - 8 Changi Business Park Ave 1 #01-51 & #02-51,1,System 8 Entry
+3765,Group 2,NTUC FP Punggol Plaza - Blk 168 Punggol Field Rd Punggol Plaza #03-01,0,System 9 Entry
+3766,Group 1,• NTUC FP Tampines St 11 - Blk 107 Tampines St 11 #01-353/359,1,iTOTO - System 12
+3766,Group 1,• Sheng Siong Marsiling Mall - Blk 4 Woodlands Street 12 #02-61,1,iTOTO - System 12
+3766,Group 1,• 7-Eleven Chua Chu Kang Drive - Blk 689B Chua Chu Kang Dr #01-306,1,iTOTO - System 12
+3766,Group 1,• Cheers Changi Village - Blk 4 Changi Village Rd #01-2074,1,iTOTO - System 12
+3766,Group 1,• Cheers Harbourfront - 1 Maritime Square Harbourfront Centre #01-82,1,iTOTO - System 12
+3766,Group 1,• Chua Yan Kee - Blk 49 Tanglin Halt Road #01-349,1,iTOTO - System 12
+3766,Group 1,• Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,iTOTO - System 12
+3766,Group 1,• Evercool Engineering - Blk 95 Lor 4 Toa Payoh #01-50,1,iTOTO - System 12
+3766,Group 1,• Kim Chwee Trading - Blk 256 Jurong East Street 24 #01-385,1,iTOTO - System 12
+3766,Group 1,• Li Li Cheng Supermarket (Punggol) Pte Ltd - Blk 273C Punggol Place #01-884,1,iTOTO - System 12
+3766,Group 1,• Ng Nam Thye Trading - Blk 399 Yung Sheng Road #01-07 Taman Jurong Shopping Centre,1,iTOTO - System 12
+3766,Group 1,• NTUC FP Boon Lay - Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200,1,iTOTO - System 12
+3766,Group 1,• NTUC FP Clementi Avenue 3 - Blk 451 Clementi Avenue 3 #01-307,1,iTOTO - System 12
+3766,Group 1,• NTUC FP Compassvale Link - Blk 277C Compassvale Link #01-13 (Unit 2B),1,iTOTO - System 12
+3766,Group 1,• NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,iTOTO - System 12
+3766,Group 1,• Rangoon Provision Shop - 681 Race Course Road #01-309,1,iTOTO - System 12
+3766,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3766,Group 1,• Singapore Pools Ang Mo Kio N2A Branch - Blk 226A Ang Mo Kio Ave 1 #01-625,1,iTOTO - System 12
+3766,Group 1,• Singapore Pools Bedok North Branch - Blk 509 Bedok North St 3 #01-129,1,iTOTO - System 12
+3766,Group 1,• Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,iTOTO - System 12
+3766,Group 1,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3766,Group 1,• Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,iTOTO - System 12
+3766,Group 1,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3766,Group 1,• Tan Boon Tin Agency - Blk 56 Marine Terrace #01-253,1,iTOTO - System 12
+3766,Group 1,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3766,Group 1,• Wanrise Trading - Blk 47 Sims Place #01-177,1,iTOTO - System 12
+3766,Group 2,NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,1,System 7 Entry
+3766,Group 2,"NTUC FP Downtown East - #02-127, E Hub Downtown East, 1 Pasir Ris Close",1,System 7 Entry
+3766,Group 2,"Cheng Chew Wah Agency (Bedok South) - Blk 17 Bedok South Road, #01-583",1,Ordinary Entry
+3766,Group 2,Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,Ordinary Entry
+3766,Group 2,Singapore Pools Whampoa Dr Branch - Blk 88 Whampoa Dr #01-857,0,System 12 Entry
+3766,Group 2,Singapore Pools Bishan N2 Branch - Blk 279 Bishan St 24 #01-52,0,System 9 Entry
+3766,Group 2,NTUC FP Eastpoint Mall - 3 Simei St 6 East Point Mall #05-01,0,System 7 Entry
+3767,Group 1,Jake Merchandise Associates - Blk 503 Tampines Central 1 #01-283,0,System 7 Entry
+3767,Group 1,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3767,Group 2,Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,Ordinary Entry
+3767,Group 2,NTUC FP Clementi Avenue 3 - Blk 451 Clementi Avenue 3 #01-307,0,System 8 Entry
+3767,Group 2,Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,0,System 8 Entry
+3767,Group 2,• Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,iTOTO - System 12
+3767,Group 2,• 7-Eleven Owen Road - Blk 45 Owen Rd #01-295,1,iTOTO - System 12
+3767,Group 2,• 7-Eleven Upp Thomson - 912 Upp Thomson Rd,1,iTOTO - System 12
+3767,Group 2,• Hin Teck Leong Trading Company - Blk 74 Whampoa Drive #01-342,1,iTOTO - System 12
+3767,Group 2,• Jake Merchandise Associates - Blk 503 Tampines Central 1 #01-283,1,iTOTO - System 12
+3767,Group 2,"• Livewire (Marina Bay Sands) - 2 Bayfront Avenue, #01-01 The Shoppes at Marina Bay Sands",1,iTOTO - System 12
+3767,Group 2,• NTUC FP Jem Hypermart - 50 Jurong Gateway Road #B1-21/22,1,iTOTO - System 12
+3767,Group 2,• NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,iTOTO - System 12
+3767,Group 2,• NTUC FP Lot 1 Shoppers Mall - 21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05,1,iTOTO - System 12
+3767,Group 2,• NTUC FP New Upper Changi - Blk 57 New Upp Changi Rd #01-1334/1338,1,iTOTO - System 12
+3767,Group 2,• NTUC FP Punggol Plaza - Blk 168 Punggol Field Rd Punggol Plaza #03-01,1,iTOTO - System 12
+3767,Group 2,• NTUC FP Tampines Mall - 4 Tampines Central 5 Tampines Mall #B1-12,1,iTOTO - System 12
+3767,Group 2,• Premier Security Co-operative Ltd - Blk 555 Ang Mo Kio Avenue 10 #01-1966,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Ang Mo Kio N4 Branch - Blk 447 Ang Mo Kio Ave 10 #01-1685,1,iTOTO - System 12
+3767,Group 2,"• Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Bishan N1 Branch - Blk 152 Bishan St 11 #01-211,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Bukit Batok Central Branch - Blk 642 Bukit Batok Central #01-56,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Great World City Branch - 1 Kim Seng Promenade #B1-127 Great World City,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Lengkok Bahru Branch - Blk 63B Lengkok Bahru #01-364,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Woodlands N8 Branch - Blk 883 Woodlands St 82 #02-468,1,iTOTO - System 12
+3767,Group 2,• Singapore Pools Yishun N7 Branch - Blk 761 Yishun St 72 #01-340,1,iTOTO - System 12
+3768,Group 2,7-Eleven McCallum Street - 3 McCallum Street,1,System 7 Entry
+3769,Group 1,Singapore Pools Siglap Branch - 697B East Coast Road,1,System 7 Entry
+3769,Group 2,7-Eleven Sin Ming - 244H Upp Thomson Rd,1,System 7 Entry
+3769,Group 2,Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,Ordinary Entry
+3769,Group 2,Giant Beauty World - 144 Upper Bukit Timah Road Beauty World Centre #B1-01,0,System 8 Entry
+3769,Group 2,Singapore Pools Account Betting Service - -,0,System 8 Entry
+3770,Group 2,PFG Framing & Trading - Blk 960 Jurong West Street 92 #01-182,1,Ordinary Entry
+3771,Group 1,NTUC FP Warehouse Club - 1 Joo Koon Circle #03-21 Fairprice Hub,1,Ordinary Entry
+3771,Group 1,Prime Joo Seng - Blk 1 Upper Aljunied Lane #01-01,1,Ordinary Entry
+3771,Group 2,Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,Ordinary Entry
+3771,Group 2,Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,Ordinary Entry
+3772,Group 2,Teo Khar Bee Agency - Blk 84 Redhill Lane #01-356,1,Ordinary Entry
+3773,Group 1,Singapore Pools Potong Pasir Branch - Blk 148 Potong Pasir Ave 1 #01-73,1,Ordinary Entry
+3773,Group 2,Everstream Trading - Blk 283 Bukit Batok East Avenue 3 #01-281,1,Ordinary Entry
+3773,Group 2,• Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,iTOTO - System 12
+3773,Group 2,• Ng Nam Thye Trading - Ang Mo Kio Ave 3 - 51 Ang Mo Kio Avenue 3 #01-01B,1,iTOTO - System 12
+3773,Group 2,• NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,1,iTOTO - System 12
+3773,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3773,Group 2,• 7-Eleven Foch Rd - 27 Foch Rd Hoa Nam Building #01-07/08,1,iTOTO - System 12
+3773,Group 2,• Cheers New Upper Changi Rd - Blk 59 New Upp Changi Rd #01-1272,1,iTOTO - System 12
+3773,Group 2,• Evercool Engineering - Blk 95 Lor 4 Toa Payoh #01-50,1,iTOTO - System 12
+3773,Group 2,• Hin Teck Leong Trading Company - Blk 640 Rowell Rd #01-68,1,iTOTO - System 12
+3773,Group 2,• Jake Merchandise Associates - Blk 503 Tampines Central 1 #01-283,1,iTOTO - System 12
+3773,Group 2,• NTUC Finest Seletar Mall - 33 Sengkang West Avenue 4 #B2-24,1,iTOTO - System 12
+3773,Group 2,• NTUC FP Bedok North St 1 - Blk 212 Bedok North St 1 #01-147,1,iTOTO - System 12
+3773,Group 2,• NTUC FP Bukit Panjang Plaza - 1 Jelebu Road #01-15 & #02-20 Bukit Panjang Plaza,1,iTOTO - System 12
+3773,Group 2,"• NTUC FP Parkway Parade - 80 Marine Parade Rd #03-28, Parkway Parade",1,iTOTO - System 12
+3773,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3773,Group 2,"• NTUC FP VivoCity - 1 Harbourfront Walk, #01-23 Vivo City",1,iTOTO - System 12
+3773,Group 2,• PFG Framing & Trading - Blk 960 Jurong West Street 92 #01-182,1,iTOTO - System 12
+3773,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3773,Group 2,• Singapore Pools Bukit Batok Central Branch - Blk 642 Bukit Batok Central #01-56,1,iTOTO - System 12
+3773,Group 2,• Singapore Pools Canberra Link Branch - Blk 505 Canberra Link #01-02,1,iTOTO - System 12
+3773,Group 2,• Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,iTOTO - System 12
+3773,Group 2,• Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,iTOTO - System 12
+3773,Group 2,• Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,iTOTO - System 12
+3773,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3774,Group 1,Livewire (Resorts World Sentosa) - 26 Sentosa Gateway #B1-208,1,Ordinary Entry
+3774,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3774,Group 2,Singapore Pools Bukit Batok N3 Branch - Blk 324 Bukit Batok St 33 #01-47,0,System 8 Entry
+3774,Group 2,Dawn Florist - 21 Hougang St 51 Hougang Green Shopping Mall #01-04A,0,System 7 Entry
+3774,Group 2,Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,0,Ordinary Entry
+3776,Group 2,Singapore Pools Bukit Panjang Branch - Blk 257 Bangkit Rd #01-49,1,System 7 Entry
+3776,Group 2,Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,System 7 Entry
+3776,Group 2,7-Eleven Tai Thong Crescent - 27 Tai Thong Crescent,1,Ordinary Entry
+3777,Group 2,Singapore Pools Yishun N4 Branch - Blk 415 Yishun Ave 11 #01-311,1,System 7 Entry
+3777,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3777,Group 2,Sheng Siong Jalan Berseh - 1 Jalan Berseh #B1-02 to #B1-22 New World Centre,0,Ordinary Entry
+3777,Group 2,Singapore Pools Account Betting Service - -,0,Ordinary Entry
+3778,Group 1,Singapore Pools Account Betting Service - -,1,System 8 Entry
+3778,Group 1,Singapore Pools Geylang Bahru Branch - Blk 57 Geylang Bahru #01-3503,1,System 7 Entry
+3778,Group 1,"Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,Ordinary Entry
+3778,Group 1,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3778,Group 2,Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,System 7 Entry
+3778,Group 2,NTUC FP Bedok North St 1 - Blk 212 Bedok North St 1 #01-147,1,System 7 Entry
+3778,Group 2,"NTUC FP Kallang Wave Mall - 1 Stadium Place Level 1, 01-29 Kallang Wave Mall",1,System 7 Entry
+3778,Group 2,Singapore Pools Bishan N2 Branch - Blk 279 Bishan St 24 #01-52,1,System 7 Entry
+3778,Group 2,Wanrise Trading - Blk 47 Sims Place #01-177,1,System 7 Entry
+3778,Group 2,7-Eleven Plaza Singapura - 68 Orchard Rd Plaza Singapura #01-51,1,Ordinary Entry
+3778,Group 2,NTUC FP Bedok North St 1 - Blk 212 Bedok North St 1 #01-147,1,Ordinary Entry
+3778,Group 2,Sheng Siong Junction 9 - 18 Yishun Avenue 9 #02-05 to #02-10 Junction 9,1,Ordinary Entry
+3778,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3778,Group 2,Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,Ordinary Entry
+3778,Group 2,Singapore Pools Account Betting Service - -,0,System Roll Entry
+3778,Group 2,Mee Lee Cheong Pte Ltd - Blk 139 Tampines St 11 #01-88,0,System 12 Entry
+3778,Group 2,Mee Lee Cheong Pte Ltd - Blk 139 Tampines St 11 #01-88,0,System 12 Entry
+3778,Group 2,Singapore Pools Geylang Bahru Branch - Blk 57 Geylang Bahru #01-3503,0,System 9 Entry
+3779,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3779,Group 2,NTUC FP Yishun - 301 Yishun Ave 2 Yishun MRT Station #01-02,0,System Roll Entry
+3780,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3781,Group 2,Singapore Pools Cheong Chin Nam Rd Branch - 5 Cheong Chin Nam Rd,1,System 8 Entry
+3781,Group 2,Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,System 7 Entry
+3781,Group 2,Livewire (Resorts World Sentosa) - 26 Sentosa Gateway #B1-208,1,System 7 Entry
+3781,Group 2,7-Eleven Circular Rd - 58 Circular Rd #01-01,1,Ordinary Entry
+3781,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3781,Group 2,Singapore Pools Tampines Mart Branch - 11 Tampines St 32 Tampines Mart #01-03,1,Ordinary Entry
+3781,Group 2,NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,0,System Roll Entry
+3782,Group 1,NTUC FP Kallang Bahru - Blk 71 Kallang Bahru #01-529,1,Ordinary Entry
+3782,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3782,Group 2,Singapore Pools Account Betting Service - -,1,System 8 Entry
+3782,Group 2,Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,System 8 Entry
+3782,Group 2,NTUC FP Pasir Ris White Sands - 1 Pasir Ris Central St 3 White Sands #B1-10,1,System 7 Entry
+3782,Group 2,Soh Choo Trading - Blk 19 Marsiling Lane #01-303,1,System 7 Entry
+3782,Group 2,Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,Ordinary Entry
+3782,Group 2,NTUC FP Hougang Mall - 90 Hougang Ave 10 NTUC Hougang Mall #B1-07,1,Ordinary Entry
+3782,Group 2,Singapore Pools Account Betting Service - -,0,System 8 Entry
+3782,Group 2,"China Square Betting Centre - Level 2 - 51 Telok Ayer St, #03-01",0,System 7 Entry
+3782,Group 2,Dawn Florist - 21 Hougang St 51 Hougang Green Shopping Mall #01-04A,0,System 7 Entry
+3782,Group 2,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3782,Group 2,• Singapore Pools Ang Mo Kio N4 Branch - Blk 447 Ang Mo Kio Ave 10 #01-1685,1,iTOTO - System 12
+3782,Group 2,• Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,iTOTO - System 12
+3782,Group 2,• Wanrise Trading - Blk 47 Sims Place #01-177,1,iTOTO - System 12
+3782,Group 2,• 7-Eleven McCallum Street - 3 McCallum Street,1,iTOTO - System 12
+3782,Group 2,• 7-Eleven Sin Ming - 244H Upp Thomson Rd,1,iTOTO - System 12
+3782,Group 2,• B.H. Mini Mart - Blk 137 Potong Pasir Ave 3 #01-142,1,iTOTO - System 12
+3782,Group 2,• Cheers Changi Village - Blk 4 Changi Village Rd #01-2074,1,iTOTO - System 12
+3782,Group 2,• Cheers Hougang Central - Blk 810 Hougang Central #01-214,1,iTOTO - System 12
+3782,Group 2,• Giant Beauty World - 144 Upper Bukit Timah Road Beauty World Centre #B1-01,1,iTOTO - System 12
+3782,Group 2,• Giant Sembawang Shopping Centre - 604 Sembawang Road Sembawang Shopping Centre #B1-25,1,iTOTO - System 12
+3782,Group 2,• Ng Teo Guan Self Service - Blk 301 Ubi Ave 1 #01-241,1,iTOTO - System 12
+3782,Group 2,"• NTUC FP Parkway Parade - 80 Marine Parade Rd #03-28, Parkway Parade",1,iTOTO - System 12
+3782,Group 2,• NTUC FP Serangoon Central Hypermart - 23 Serangoon Central #03-42 NEX,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Bukit Batok Central Branch - Blk 642 Bukit Batok Central #01-56,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Chai Chee Branch - Blk 36 Chai Chee Ave #01-167,1,iTOTO - System 12
+3782,Group 2,"• Singapore Pools Chinatown Point Branch - 133 New Bridge Road, Chinatown Point #01-36",1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Gek Poh Shopping Centre - Blk 762 Jurong West Street 75 Gek Poh Shopping Centre #01-338,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Yishun N1 Branch - Blk 101 Yishun Ave 5 #01-37,1,iTOTO - System 12
+3782,Group 2,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3782,Group 2,• Tan Kai Huat Provision Shop - Blk 123 Hougang Ave 1 #01-1408,1,iTOTO - System 12
+3782,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3782,Group 2,• B.H. Mini Mart - Blk 137 Potong Pasir Ave 3 #01-142,1,iTOTO - System 12
+3782,Group 2,• Cheers Harbourfront - 1 Maritime Square Harbourfront Centre #01-82,1,iTOTO - System 12
+3782,Group 2,• Ng Nam Thye Trading - Ang Mo Kio Ave 3 - 51 Ang Mo Kio Avenue 3 #01-01B,1,iTOTO - System 12
+3782,Group 2,• NTUC Finest Seletar Mall - 33 Sengkang West Avenue 4 #B2-24,1,iTOTO - System 12
+3782,Group 2,• NTUC FP Boon Lay - Blk 221 Boon Lay Place Boon Lay Shopping Complex #02-200,1,iTOTO - System 12
+3782,Group 2,• NTUC FP Bukit Batok MRT Station - 10 Bukit Batok Central Bukit Batok MRT Station #01-08,1,iTOTO - System 12
+3782,Group 2,"• NTUC FP Kallang Wave Mall - 1 Stadium Place Level 1, 01-29 Kallang Wave Mall",1,iTOTO - System 12
+3782,Group 2,• NTUC FP Tampines St 44 - Blk 475 Tampines St 44 #01-145,1,iTOTO - System 12
+3782,Group 2,• NTUC FP Thomson Plaza - 301 Upp Thomson Rd Thomson Plaza #03-36,1,iTOTO - System 12
+3782,Group 2,• NTUC FP Yew Tee - 21 Choa Chu Kang North 6 #B1-01 to 07 Yew Tee Point,1,iTOTO - System 12
+3782,Group 2,• Sheng Siong Tampines Ave 9 - Blk 602A Tampines Ave 9 #01-01,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools 88 Circuit Rd Branch - Blk 88 Circuit Rd #01-961,1,iTOTO - System 12
+3782,Group 2,"• Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Chai Chee Branch - Blk 36 Chai Chee Ave #01-167,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Pasir Ris N7 Branch - Blk 735 Pasir Ris St 72 Pasir Ris West Plaza #01-358,1,iTOTO - System 12
+3782,Group 2,• Singapore Pools Woodlands N5 Branch - Blk 548 Woodlands Dr 44 Vista Point #02-04,1,iTOTO - System 12
+3782,Group 2,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3782,Group 2,• Tan Boon Tin Agency - Blk 56 Marine Terrace #01-253,1,iTOTO - System 12
+3782,Group 2,• Teo Khar Bee Agency - Blk 84 Redhill Lane #01-356,1,iTOTO - System 12
+3782,Group 2,• Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,iTOTO - System 12
+3784,Group 1,NTUC FP Jurong Point Hypermart - 63 Jurong West Central 3 #03-01 Jurong Point Shopping Centre,1,Ordinary Entry
+3784,Group 1,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3784,Group 1,• Ng Teo Guan Self Service - Blk 301 Ubi Ave 1 #01-241,1,iTOTO - System 12
+3784,Group 1,• 7-Eleven Chua Chu Kang Drive - Blk 689B Chua Chu Kang Dr #01-306,1,iTOTO - System 12
+3784,Group 1,• 7-Eleven Owen Road - Blk 45 Owen Rd #01-295,1,iTOTO - System 12
+3784,Group 1,• 7-Eleven Sin Ming - 244H Upp Thomson Rd,1,iTOTO - System 12
+3784,Group 1,"• Cheng Chew Wah Agency (Bedok South) - Blk 17 Bedok South Road, #01-583",1,iTOTO - System 12
+3784,Group 1,• Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,iTOTO - System 12
+3784,Group 1,• Hin Teck Leong Trading Company - Blk 640 Rowell Rd #01-68,1,iTOTO - System 12
+3784,Group 1,• Livewire (Singapore Pools) - 210 Middle Rd #01-01,1,iTOTO - System 12
+3784,Group 1,• NTUC FP Bedok North St 4 - Blk 89 Bedok North St 4 #01-77/79,1,iTOTO - System 12
+3784,Group 1,• NTUC FP Bukit Panjang Plaza - 1 Jelebu Road #01-15 & #02-20 Bukit Panjang Plaza,1,iTOTO - System 12
+3784,Group 1,• NTUC FP Sun Plaza - 30 Sembawang Drive #B1-01/02,1,iTOTO - System 12
+3784,Group 1,• NTUC FP Toa Payoh - Blk 192 Lor 4 Toa Payoh #01-670/672,1,iTOTO - System 12
+3784,Group 1,• NTUC FP Yishun - 301 Yishun Ave 2 Yishun MRT Station #01-02,1,iTOTO - System 12
+3784,Group 1,• Papillon Florist Pte Ltd - Blk 133 Jalan Bukit Merah #01-1520,1,iTOTO - System 12
+3784,Group 1,• Prime Keat Hong - Blk 253 Choa Chu Kang Avenue 1 #B1-07/10 Keat Hong Shopping Centre,1,iTOTO - System 12
+3784,Group 1,• Seah Geok Eng Agency - Blk 118 Rivervale Dr Rivervale Plaza #01-15,1,iTOTO - System 12
+3784,Group 1,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3784,Group 1,• Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,iTOTO - System 12
+3784,Group 1,• Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,iTOTO - System 12
+3784,Group 1,• Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,iTOTO - System 12
+3784,Group 1,"• Singapore Pools IMM Branch - 2 Jurong East St 21 #02-63, IMM Building",1,iTOTO - System 12
+3784,Group 1,• Tan Ah Leck Trading Jurong East - Blk 352 Jurong East Street 31 #01-121,1,iTOTO - System 12
+3784,Group 1,• Tan Wee Fong Trading - Blk 24 Bendemeer Rd #01-529,1,iTOTO - System 12
+3784,Group 1,• Tay Sui Lan Agency - 11 Collyer Quay The Arcade #02-13,1,iTOTO - System 12
+3784,Group 1,• U Stars Sumang Walk - Blk 218 Sumang Walk #01-01,1,iTOTO - System 12
+3784,Group 2,Singapore Pools Pasir Ris N2 Branch - Blk 259 Pasir Ris St 21 Loyang Point #02-29,1,System 7 Entry
+3784,Group 2,• NTUC FP Tampines St 83 - Blk 866A #01-K1 Tampines St 83,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3784,Group 2,• NTUC FP Tiong Bahru Plaza - 302 Tiong Bahru Road Tiong Bahru Plaza #B1-01/02,1,iTOTO - System 12
+3784,Group 2,• Overseas Emporium (Pte) Ltd - 1 Park Rd People's Park Complex #02-70,1,iTOTO - System 12
+3784,Group 2,"• Afro Asia Co Pte Ltd - Blk 604, Yishun Street 61, #01-323",1,iTOTO - System 12
+3784,Group 2,• Cheng Chew Wah Agency - 20 Frankel Terrace,1,iTOTO - System 12
+3784,Group 2,• Evercool Engineering - Blk 95 Lor 4 Toa Payoh #01-50,1,iTOTO - System 12
+3784,Group 2,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3784,Group 2,• Livewire (Resorts World Sentosa) - 26 Sentosa Gateway #B1-208,1,iTOTO - System 12
+3784,Group 2,• NTUC FP Bukit Batok MRT Station - 10 Bukit Batok Central Bukit Batok MRT Station #01-08,1,iTOTO - System 12
+3784,Group 2,• NTUC FP Jurong East - Blk 135 Jurong Gateway Road #01-337,1,iTOTO - System 12
+3784,Group 2,• Seng Yeok Chan Agency - Blk 338 Ang Mo Kio Ave 1 #01-1657,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools Ang Mo Kio N6 Branch - Blk 630 Ang Mo Kio Ave 4 #01-968,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools LOT One Branch - 21 Choa Chu Kang Avenue 4 #03-09,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools Sim Lim Square Branch - 1 Rochor Canal Rd Sim Lim Square #B1-37,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,1,iTOTO - System 12
+3784,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3784,Group 2,• Wanrise Trading - Blk 47 Sims Place #01-177,1,iTOTO - System 12
+3784,Group 2,• Xie Sheng Dept Service Co - Blk 632 Bedok Reservoir Rd #01-820,1,iTOTO - System 12
+3785,Group 1,Giant Compassvale Bow - Blk 266 Compassvale Bow #01-02,1,System 7 Entry
+3785,Group 2,Everbright Services - Blk 108 Depot Road #01-17,0,System 7 Entry
+3786,Group 1,Delisia Agency Pte Ltd - 149 Rochor Rd Fu Lu Shou Complex #B1-26,1,Ordinary Entry
+3786,Group 2,Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,Ordinary Entry
+3787,Group 1,PFG Framing & Trading - Blk 960 Jurong West Street 92 #01-182,1,Ordinary Entry
+3787,Group 2,Singapore Pools Bukit Panjang Branch - Blk 257 Bangkit Rd #01-49,1,System 8 Entry
+3787,Group 2,Singapore Pools Cheong Chin Nam Rd Branch - 5 Cheong Chin Nam Rd,1,Ordinary Entry
+3787,Group 2,Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,0,Ordinary Entry
+3788,Group 1,"Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,System 7 Entry
+3788,Group 2,Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,1,System 9 Entry
+3788,Group 2,Goh Geok Kwee (Bukit Merah) - Blk 124 Bukit Merah Lane 1 #01-148,1,System 7 Entry
+3788,Group 2,Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,1,System 7 Entry
+3788,Group 2,NTUC FP Clementi Avenue 3 - Blk 451 Clementi Avenue 3 #01-307,1,Ordinary Entry
+3788,Group 2,Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,1,Ordinary Entry
+3788,Group 2,Singapore Pools Account Betting Service - -,0,System 12 Entry
+3788,Group 2,Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,0,System 8 Entry
+3788,Group 2,NTUC FP Thomson Plaza - 301 Upp Thomson Rd Thomson Plaza #03-36,0,System 7 Entry
+3788,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3788,Group 2,• 7-Eleven Chua Chu Kang Drive - Blk 689B Chua Chu Kang Dr #01-306,1,iTOTO - System 12
+3788,Group 2,• Gerk Chwee Trading - 4 Kensington Park Rd,1,iTOTO - System 12
+3788,Group 2,• Hock Soon Ann - Block 73 Bedok South Ave 3 #01-454,1,iTOTO - System 12
+3788,Group 2,• Kis Store - 3 Pickering Street (South Bridge Road) #01-49,1,iTOTO - System 12
+3788,Group 2,• Lee Eng Trading Store - Blk 201B Tampines St 21 #01-1083,1,iTOTO - System 12
+3788,Group 2,• Metro Woodlands - 1 Woodlands Square Causeway Point #01-18/19,1,iTOTO - System 12
+3788,Group 2,• Ng Nam Thye Trading - Blk 399 Yung Sheng Road #01-07 Taman Jurong Shopping Centre,1,iTOTO - System 12
+3788,Group 2,• NTUC FP Bedok North St 1 - Blk 212 Bedok North St 1 #01-147,1,iTOTO - System 12
+3788,Group 2,"• NTUC FP Hillion Mall - 17 Petir Road, Hillion Mall, #B2-67",1,iTOTO - System 12
+3788,Group 2,• OCN (Singapore) Pte Ltd - Blk 501 West Coast Drive #01-266,1,iTOTO - System 12
+3788,Group 2,• Seah Geok Eng Agency - Blk 118 Rivervale Dr Rivervale Plaza #01-15,1,iTOTO - System 12
+3788,Group 2,• Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,1,iTOTO - System 12
+3788,Group 2,• Singapore Pools Ang Mo Kio N2A Branch - Blk 226A Ang Mo Kio Ave 1 #01-625,1,iTOTO - System 12
+3788,Group 2,• Singapore Pools Ang Mo Kio N7 Branch - Blk 726 Ang Mo Kio Ave 6 #01-4158,1,iTOTO - System 12
+3788,Group 2,• Singapore Pools Beo Crescent Branch - Blk 36 Beo Crescent #01-45,1,iTOTO - System 12
+3788,Group 2,• Singapore Pools Bukit Batok N3 Branch - Blk 324 Bukit Batok St 33 #01-47,1,iTOTO - System 12
+3788,Group 2,• Singapore Pools Clementi Town Centre Branch - Blk 446 Clementi Ave 3 #01-183,1,iTOTO - System 12
+3788,Group 2,• Singapore Pools Ghim Moh Branch - Blk 21 Ghim Moh Rd #01-161,1,iTOTO - System 12
+3788,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3788,Group 2,• Singapore Pools Serangoon Central Branch - Blk 254 Serangoon Central Dr #01-209,1,iTOTO - System 12
+3788,Group 2,• Superbowl Jurong Pte Ltd - 3 Yuan Ching Road,1,iTOTO - System 12
+3788,Group 2,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3789,Group 1,NTUC FP Le Quest - 4 Bukit Batok Street 41 #01-91/92 Le Quest,1,System 7 Entry
+3791,Group 2,Everstream Trading - Blk 283 Bukit Batok East Avenue 3 #01-281,1,System 7 Entry
+3791,Group 2,Singapore Pools Ang Mo Kio N2A Branch - Blk 226A Ang Mo Kio Ave 1 #01-625,1,System 7 Entry
+3792,Group 1,Jake Merchandise Associates - Blk 503 Tampines Central 1 #01-283,1,Ordinary Entry
+3792,Group 2,Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,System 7 Entry
+3792,Group 2,PFG Framing & Trading - Blk 960 Jurong West Street 92 #01-182,1,Ordinary Entry
+3792,Group 2,NTUC FP Bedok North St 1 - Blk 212 Bedok North St 1 #01-147,0,System 8 Entry
+3792,Group 2,Singapore Pools Holland Drive Branch - Blk 46 Holland Dr #01-371/373,0,System 7 Entry
+3792,Group 2,Singapore Pools Jurong West N5 Branch - Blk 508 Jurong West St 52 #01-166,0,System 7 Entry
+3792,Group 2,Singapore Pools Bukit Panjang Branch - Blk 257 Bangkit Rd #01-49,0,Ordinary Entry
+3792,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Woodlands 888 Plaza Branch - Blk 888 Woodlands Dr 50 888 Plaza #01-711,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Pasir Ris N2 Branch - Blk 259 Pasir Ris St 21 Loyang Point #02-29,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Tanjong Pagar Branch - Blk 1 Tanjong Pagar Plaza #01-49/50,1,iTOTO - System 12
+3792,Group 2,• Livewire (Resorts World Sentosa) - 26 Sentosa Gateway #B1-208,1,iTOTO - System 12
+3792,Group 2,• NTUC FP Ang Mo Kio Hypermarket - 53 Ang Mo Kio Ave 3 Ang Mo Kio Hub #B2-26,1,iTOTO - System 12
+3792,Group 2,• NTUC FP Changi Business Park Hypermarket - 8 Changi Business Park Ave 1 #01-51 & #02-51,1,iTOTO - System 12
+3792,Group 2,• NTUC FP Woodgrove - 30 Woodlands Ave 1 The Woodgrove #01-11,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Ang Mo Kio N2 Branch - Blk 202 Ang Mo Kio Ave 3 #01-1662/1664,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Changi Rd Branch - 324K Changi Rd,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Clementi N7 Branch - Blk 722 Clementi West St 2 #01-164,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Hougang N1 Branch - Blk 106 Hougang Ave 1 #01-1209/1211,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Jalan Tiga Branch - Blk 43 Jalan Tiga #01-08,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Jurong East Branch - Blk 351 Jurong East St 31 #01-93,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Lor 1 Toa Payoh Branch - Blk 111 Lor 1 Toa Payoh #01-354,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Lucky Plaza Branch - 304 Orchard Rd Lucky Plaza #B1-119,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Teck Whye Branch - Blk 141 Teck Whye Lane #01-271,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Upp Boon Keng Branch - Blk 18 Upp Boon Keng Rd #01-1149/1151,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Bukit Gombak Branch - Blk 374 Bukit Batok St 31 #01-170,1,iTOTO - System 12
+3792,Group 2,• 7-Eleven Plaza Singapura - 68 Orchard Rd Plaza Singapura #01-51,1,iTOTO - System 12
+3792,Group 2,• Cheers Northshore Plaza II - 418 Northshore Drive #02-05/06 Northshore Plaza II,1,iTOTO - System 12
+3792,Group 2,• Clifford Gift Shop - Blk 532 Ang Mo Kio Ave 10 #01-2459,1,iTOTO - System 12
+3792,Group 2,"• Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,iTOTO - System 12
+3792,Group 2,• Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,iTOTO - System 12
+3792,Group 2,• Giant Compassvale Bow - Blk 266 Compassvale Bow #01-02,1,iTOTO - System 12
+3792,Group 2,• Golden Lagoon Trading - Blk 136 Marsiling Road #01-2182,1,iTOTO - System 12
+3792,Group 2,"• NTUC FP Canberra Plaza - 133 Canberra View, #B1-03/04 Canberra Plaza",1,iTOTO - System 12
+3792,Group 2,• NTUC FP Jem Hypermart - 50 Jurong Gateway Road #B1-21/22,1,iTOTO - System 12
+3792,Group 2,• NTUC FP Yew Tee - 21 Choa Chu Kang North 6 #B1-01 to 07 Yew Tee Point,1,iTOTO - System 12
+3792,Group 2,• NTUC FP Yishun - 301 Yishun Ave 2 Yishun MRT Station #01-02,1,iTOTO - System 12
+3792,Group 2,• OCN (Singapore) Pte Ltd - Blk 501 West Coast Drive #01-266,1,iTOTO - System 12
+3792,Group 2,• PFG Framing & Trading - Blk 960 Jurong West Street 92 #01-182,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools Jurong West N2 Branch - Blk 276 Jurong West St 25 #01-05,1,iTOTO - System 12
+3792,Group 2,• Singapore Pools King George's Ave Branch - Blk 803 King George's Ave #01-200/202,1,iTOTO - System 12
+3792,Group 2,• Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,iTOTO - System 12
+3794,Group 2,7-Eleven Bedok North - Blk 123 Bedok North St 2 #01-158,1,Ordinary Entry
+3795,Group 2,Seah Koon Huat (Bukit Merah View) - Blk 116 Bukit Merah View #01-233,1,System 8 Entry
+3795,Group 2,Singapore Pools Account Betting Service - -,1,System 8 Entry
+3795,Group 2,Metro Woodlands - 1 Woodlands Square Causeway Point #01-18/19,1,System 7 Entry
+3795,Group 2,"NTUC FP Hillion Mall - 17 Petir Road, Hillion Mall, #B2-67",1,System 7 Entry
+3795,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3795,Group 2,"Singapore Pools IMM Branch - 2 Jurong East St 21 #02-63, IMM Building",1,System 7 Entry
+3795,Group 2,NTUC FP Woodgrove - 30 Woodlands Ave 1 The Woodgrove #01-11,1,Ordinary Entry
+3795,Group 2,Premier Security Co-operative Ltd - Blk 555 Ang Mo Kio Avenue 10 #01-1966,1,Ordinary Entry
+3795,Group 2,Singapore Pools Account Betting Service - -,1,Ordinary Entry
+3795,Group 2,Singapore Pools Bedok Town Centre Branch - Blk 204 Bedok North Street 1 #01-415,1,Ordinary Entry
+3795,Group 2,Cheers Bedok North - Blk 539 Bedok North St 3 #01-625,0,System Roll Entry
+3795,Group 2,Livewire (Resorts World Sentosa) - 26 Sentosa Gateway #B1-208,0,System 11 Entry
+3795,Group 2,NTUC FP Bishan St 13 - Blk 510 Bishan St 13 #01-520,0,Ordinary Entry
+3795,Group 2,Seah Koon Huat (Boon Tiong Rd) - Blk 11A Boon Tiong Rd #01-10,0,Ordinary Entry
+3795,Group 2,• Singapore Pools Account Betting Service - -,1,iTOTO - System 12
+3795,Group 2,• NTUC FP Bukit Panjang Plaza - 1 Jelebu Road #01-15 & #02-20 Bukit Panjang Plaza,1,iTOTO - System 12
+3795,Group 2,• PFG Framing & Trading - Blk 960 Jurong West Street 92 #01-182,1,iTOTO - System 12
+3795,Group 2,• Singapore Pools Ang Mo Kio N4 Branch - Blk 447 Ang Mo Kio Ave 10 #01-1685,1,iTOTO - System 12
+3795,Group 2,• Singapore Pools Lor 8 Toa Payoh Branch - Blk 212 Lor 8 Toa Payoh #01-39,1,iTOTO - System 12
+3795,Group 2,• Cheers Changi Village - Blk 4 Changi Village Rd #01-2074,1,iTOTO - System 12
+3795,Group 2,"• Cheng Chew Wah Agency (Bedok South) - Blk 17 Bedok South Road, #01-583",1,iTOTO - System 12
+3795,Group 2,"• Cold Storage Compass One - 1 Sengkang Square, #B1-25, Compass One",1,iTOTO - System 12
+3795,Group 2,• Li Li Cheng Supermarket (Punggol) Pte Ltd - Blk 273C Punggol Place #01-884,1,iTOTO - System 12
+3795,Group 2,• NTUC FP Compassvale Link - Blk 277C Compassvale Link #01-13 (Unit 2B),1,iTOTO - System 12
+3795,Group 2,• NTUC FP Kallang Bahru - Blk 71 Kallang Bahru #01-529,1,iTOTO - System 12
+3795,Group 2,• NTUC FP Lot 1 Shoppers Mall - 21 Choa Chu Kang Ave 4 Lot 1 Shoppers Mall #B1-05,1,iTOTO - System 12
+3795,Group 2,• NTUC FP Sengkang East - Blk 279 Sengkang East Ave #01-06,1,iTOTO - System 12
+3795,Group 2,• NTUC FP Thomson Plaza - 301 Upp Thomson Rd Thomson Plaza #03-36,1,iTOTO - System 12
+3795,Group 2,• Singapore Pools Chin Swee Branch - Blk 52 Chin Swee Rd #01-65/69,1,iTOTO - System 12
+3795,Group 2,• Singapore Pools Commonwealth Crescent Branch - Blk 116 Commonwealth Crescent #01-135,1,iTOTO - System 12
+3795,Group 2,"• Singapore Pools IMM Branch - 2 Jurong East St 21 #02-63, IMM Building",1,iTOTO - System 12
+3795,Group 2,• Singapore Pools Jurong East Branch - Blk 351 Jurong East St 31 #01-93,1,iTOTO - System 12
+3795,Group 2,"• Singapore Pools People's Park Centre - 101 Upp Cross St, People's Park Centre, #01-12",1,iTOTO - System 12
+3795,Group 2,• Soh Choo Trading - Blk 19 Marsiling Lane #01-303,1,iTOTO - System 12
+3795,Group 2,• Teo Sook Cheng Agency - Blk 293 Yishun St 22 #01-225,1,iTOTO - System 12
+3795,Group 2,• Tong Aik Huat - Blk 685 Hougang St 61 #01-160,1,iTOTO - System 12
+3796,Group 1,Cheers Changi Village - Blk 4 Changi Village Rd #01-2074,1,System 7 Entry
+3796,Group 2,Singapore Pools Sim Lim Square Branch - 1 Rochor Canal Rd Sim Lim Square #B1-37,1,System 8 Entry
+3796,Group 2,NTUC FP Dawson Place - Blk 57 Dawson Road #01-07 Dawson Place,1,System 7 Entry
+3796,Group 2,Singapore Pools Account Betting Service - -,1,System 7 Entry
+3796,Group 2,"Singapore Pools Bencoolen Branch - 180 Bencoolen Street, The Bencoolen #01-59",1,System 7 Entry
+3796,Group 2,Singapore Pools Jurong East Branch - Blk 351 Jurong East St 31 #01-93,1,Ordinary Entry
+3796,Group 2,Singapore Pools Account Betting Service - -,0,System 9 Entry
+3798,Group 1,Rangoon Provision Shop - 681 Race Course Road #01-309,1,Ordinary Entry
+3798,Group 2,Fatt Chye Heng Trading - Blk 7 Hougang Ave 3 #01-48,1,System 8 Entry
+3799,Group 1,Cheers Haig Rd - Blk 12 Haig Rd #01-333/335,1,Ordinary Entry
+3799,Group 2,Singapore Pools Hougang N2 Branch - Blk 211 Hougang St 21 #01-309,1,Ordinary Entry
+3800,Group 2,NTUC FP Pasir Ris White Sands - 1 Pasir Ris Central St 3 White Sands #B1-10,1,System 8 Entry
+3800,Group 2,Tuck Lee Long - Blk 159 Ang Mo Kio Ave 4 #01-536,0,System 7 Entry
+3801,Group 1,Singapore Pools Account Betting Service - -,0,System 7 Entry
+3801,Group 2,Tampines Trading 828 - Blk 828 Tampines St 81 #01-234,1,Ordinary Entry
