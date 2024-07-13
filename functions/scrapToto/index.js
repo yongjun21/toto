@@ -4,9 +4,9 @@ const scrap = require('./scrap')
 const process = require('./process')
 const exportCSV = require('./export')
 
-const AWS = require('aws-sdk')
+const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3')
 const gzip = require('util').promisify(require('zlib').gzip)
-const s3 = new AWS.S3({ apiVersion: '2006-03-01', region: 'ap-southeast-1' })
+const s3 = new S3Client({ apiVersion: '2006-03-01', region: 'ap-southeast-1' })
 
 const ENDPOINT = 'https://assets.yongjun.sg/toto/'
 
@@ -52,6 +52,6 @@ function uploadS3 (data, filename) {
       ACL: 'public-read',
       CacheControl: 'public, max-age=0, must-revalidate'
     }
-    return s3.putObject(params).promise()
+    return s3.send(new PutObjectCommand(params))
   })
 }
